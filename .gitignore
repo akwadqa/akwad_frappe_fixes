@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+akwad_frappe_fixes/docs/current
+node_modules/

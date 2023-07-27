@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include akwad_frappe_fixes *.css
+recursive-include akwad_frappe_fixes *.csv
+recursive-include akwad_frappe_fixes *.html
+recursive-include akwad_frappe_fixes *.ico
+recursive-include akwad_frappe_fixes *.js
+recursive-include akwad_frappe_fixes *.json
+recursive-include akwad_frappe_fixes *.md
+recursive-include akwad_frappe_fixes *.png
+recursive-include akwad_frappe_fixes *.py
+recursive-include akwad_frappe_fixes *.svg
+recursive-include akwad_frappe_fixes *.txt
+recursive-exclude akwad_frappe_fixes *.pyc
