@@ -11,12 +11,12 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes.css"
+app_include_css = "/assets/akwad_ui_fixes/css/akwad_ui_fixes_desk.css"
 # app_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes.css"
-# web_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes.js"
+web_include_css = "/assets/akwad_ui_fixes/css/akwad_ui_fixes_web.css"
+web_include_js = "/assets/akwad_ui_fixes/js/akwad_ui_fixes_web.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "akwad_frappe_fixes/public/scss/website"
