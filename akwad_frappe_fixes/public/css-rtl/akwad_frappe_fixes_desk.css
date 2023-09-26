@@ -171,3 +171,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
  background: #c5e3ff;
  padding: 15px;
 }
+
+.quick-list-item {
+    background: #def0ff;
+}
