@@ -167,23 +167,6 @@ li[style*="direction: rtl;"].ql-indent-5 {
     stroke: #a2c6e7;
 }
 
-.indicator-pill-right.gray, .indicator-pill-right.grey, .indicator-pill-round.gray, .indicator-pill-round.grey, .indicator-pill.gray, .indicator-pill.grey {
-    background: #76c6ed;
-    color: #284865;
-}
-
-.indicator-pill-right:after, .indicator-pill:before {
-    content: "";
-    display: inline-table;
-    height: 5px;
-    width: 5px;
-}
-
-.indicator-pill-right.green, .indicator-pill-round.green, .indicator-pill.green {
-    background: #b5e7c7;
-    color: var(--text-on-green);
-}
-
 .dt-instance-1 .dt-cell--col-1 {
  text-align: right;
 }
