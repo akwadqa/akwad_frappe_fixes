@@ -10,6 +10,11 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+fixtures = [
+
+        {"dt" : "Client Script", "filters" : [["module","in", "Akwad Frappe Fixes"]]}
+]
+
 # include js, css files in header of desk.html
 app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_desk.css"
 # app_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes.js"
