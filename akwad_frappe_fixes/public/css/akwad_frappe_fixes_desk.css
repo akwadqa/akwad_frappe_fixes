@@ -79,9 +79,6 @@ html[data-theme='light'] .timeline-message-box .text-color .text-muted {
     font-weight: 400;
     font-size: 90%;
 }
-.layout-side-section {
-    display: none;
-}
 
 li[style*="direction: rtl;"] span:before {
 	margin-right: -1.5em !important;
