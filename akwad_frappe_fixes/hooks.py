@@ -12,7 +12,7 @@ app_license = "MIT"
 
 fixtures = [
 
-        {"dt" : "Client Script", "filters" : [["module","in", "Akwad Frappe Fixes"]]}
+        {"dt" : "Property Setter", "filters" : [["module","in", "Akwad Frappe Fixes"]]}
 ]
 
 # include js, css files in header of desk.html
