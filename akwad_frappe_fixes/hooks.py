@@ -21,10 +21,16 @@ fixtures = [
 app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_desk.css"
 # app_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes.js"
 
+app_include_js = "fileUploader.bundle.js"
+
 # include js, css files in header of web template
 # web_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_web.css"
 web_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes_web.js"
 
+web_include_js = [
+    "/assets/akwad_frappe_fixes/js/override.js",
+    "fileUploader.bundle.js"
+]
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "akwad_frappe_fixes/public/scss/website"
 
