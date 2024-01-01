@@ -80,8 +80,6 @@ export default {
 	},
 	computed: {
 		aspect_ratio_buttons() {
-			let isRTL = document.documentElement.getAttribute('dir') === 'rtl';
-			let free = isRTL ? 'تنسيق حر' : 'Free';
 			return [
 				{
 					label: __("1:1"),
@@ -96,7 +94,7 @@ export default {
 					value: 16 / 9,
 				},
 				{
-					label: free,
+					label: __("Free"),
 					value: NaN,
 				},
 			];
