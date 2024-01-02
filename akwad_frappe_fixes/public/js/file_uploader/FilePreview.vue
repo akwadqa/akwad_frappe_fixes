@@ -1,6 +1,6 @@
 <template>
 	<div class="file-preview">
-		<div class="file-icon">
+		<div :class="['file-icon', {'rtl-icon-style': isRTL}]">
 			<img
 				v-if="is_image"
 				:src="src"
@@ -224,5 +224,10 @@ export default {
 .rtl-style {
 	margin-left: 0;
     margin-right: auto;
+}
+
+.rtl-icon-style {
+	margin-right: 0;
+	margin-left: var(--margin-md);
 }
 </style>
