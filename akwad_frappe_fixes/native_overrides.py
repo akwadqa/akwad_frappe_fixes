@@ -1,4 +1,4 @@
-import frappe
+# import frappe
 
 # enhanced to include if_owner
 from frappe.core.doctype.user_type.user_type import add_role_permissions
