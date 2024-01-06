@@ -1,7 +1,7 @@
 # import frappe
 
 # enhanced to include if_owner
-from frappe.core.doctype.user_type.user_type import add_role_permissions
+# from frappe.core.doctype.user_type.user_type import add_role_permissions
 def add_role_permissions_for_user_doctypes(self):
     perms = ["read", "write", "create", "submit", "cancel", "amend", "delete", "if_owner", "report"]
     for row in self.user_doctypes:
