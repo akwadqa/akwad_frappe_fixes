@@ -14,7 +14,7 @@
 				</div>
 				<div class="mt-2 text-center">
 					<button class="btn btn-file-upload" @click="browse_files">
-						<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<svg width="60" height="60" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<circle cx="15" cy="15" r="15" fill="url(#paint0_linear)"/>
 							<path d="M13.5 22V19" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
 							<path d="M16.5 22V19" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
@@ -38,15 +38,15 @@
 						:multiple="allow_multiple"
 						:accept="(restrictions.allowed_file_types || []).join(', ')"
 					>
-					<button class="btn btn-file-upload" v-if="!disable_file_browser" @click="show_file_browser = true">
+					<!-- <button class="btn btn-file-upload" v-if="!disable_file_browser" @click="show_file_browser = true">
 						<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<circle cx="15" cy="15" r="15" fill="#48BB74"/>
 							<path d="M13.0245 11.5H8C7.72386 11.5 7.5 11.7239 7.5 12V20C7.5 21.1046 8.39543 22 9.5 22H20.5C21.6046 22 22.5 21.1046 22.5 20V14.5C22.5 14.2239 22.2761 14 22 14H15.2169C15.0492 14 14.8926 13.9159 14.8 13.776L13.4414 11.724C13.3488 11.5841 13.1922 11.5 13.0245 11.5Z" stroke="white" stroke-miterlimit="10" stroke-linecap="square"/>
 							<path d="M8.87939 9.5V8.5C8.87939 8.22386 9.10325 8 9.37939 8H20.6208C20.8969 8 21.1208 8.22386 21.1208 8.5V12" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
 						</svg>
 						<div class="mt-1">{{ __('Library') }}</div>
-					</button>
-					<button class="btn btn-file-upload" v-if="allow_web_link" @click="show_web_link = true">
+					</button> -->
+					<!-- <button class="btn btn-file-upload" v-if="allow_web_link" @click="show_web_link = true">
 						<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<circle cx="15" cy="15" r="15" fill="#ECAC4B"/>
 							<path d="M12.0469 17.9543L17.9558 12.0454" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
@@ -54,8 +54,8 @@
 							<path d="M11.4547 13.8184L9.47873 15.7943C8.85205 16.4212 8.5 17.2714 8.5 18.1578C8.5 19.0443 8.85205 19.8945 9.47873 20.5214V20.5214C10.1057 21.1481 10.9558 21.5001 11.8423 21.5001C12.7287 21.5001 13.5789 21.1481 14.2058 20.5214L16.1818 18.5455" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
 						</svg>
 						<div class="mt-1">{{ __('Link') }}</div>
-					</button>
-					<button v-if="allow_take_photo" class="btn btn-file-upload" @click="capture_image">
+					</button> -->
+					<!-- <button v-if="allow_take_photo" class="btn btn-file-upload" @click="capture_image">
 						<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<circle cx="15" cy="15" r="15" fill="#CE315B"/>
 							<path d="M11.5 10.5H9.5C8.67157 10.5 8 11.1716 8 12V20C8 20.8284 8.67157 21.5 9.5 21.5H20.5C21.3284 21.5 22 20.8284 22 20V12C22 11.1716 21.3284 10.5 20.5 10.5H18.5L17.3 8.9C17.1111 8.64819 16.8148 8.5 16.5 8.5H13.5C13.1852 8.5 12.8889 8.64819 12.7 8.9L11.5 10.5Z" stroke="white" stroke-linejoin="round"/>
@@ -68,7 +68,7 @@
 							<image href="/assets/frappe/icons/social/google_drive.svg" width="30" height="30"/>
 						</svg>
 						<div class="mt-1">{{ __('Google Drive') }}</div>
-					</button>
+					</button> -->
 				</div>
 				<div class="text-muted text-medium">
 					{{ upload_notes }}
