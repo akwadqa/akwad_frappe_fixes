@@ -187,7 +187,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 
 .shortcut-widget-box {
  background: #c5e3ff;
- padding: 15px;
+ padding: 15px !important;
 }
 
 .quick-list-item {
