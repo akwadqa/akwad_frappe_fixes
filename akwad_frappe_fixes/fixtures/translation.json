@@ -11,7 +11,7 @@
   "modified": "2023-12-30 13:12:19.708269",
   "name": "0c1f47e11a",
   "source_text": "Mandatory Update",
-  "translated_text": "\u0627\u0644\u062a\u062d\u062f\u064a\u062b \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a"
+  "translated_text": "التحديث الإلزامي"
  },
  {
   "context": null,
@@ -25,7 +25,7 @@
   "modified": "2023-12-30 13:11:51.600066",
   "name": "d8427dab90",
   "source_text": "Set all public",
-  "translated_text": "\u062a\u0639\u064a\u064a\u0646 \u0627\u0644\u0643\u0644 \u0639\u0627\u0645\u0629"
+  "translated_text": "تعيين الكل عامة"
  },
  {
   "context": null,
@@ -39,7 +39,7 @@
   "modified": "2023-12-30 13:11:36.928698",
   "name": "f4534d334b",
   "source_text": "Private",
-  "translated_text": "\u062e\u0627\u0635"
+  "translated_text": "خاص"
  },
  {
   "context": null,
@@ -53,7 +53,7 @@
   "modified": "2023-12-30 13:11:21.664507",
   "name": "f5e2c61770",
   "source_text": "Optimize",
-  "translated_text": "\u062a\u062d\u0633\u064a\u0646"
+  "translated_text": "تحسين"
  },
  {
   "context": null,
@@ -67,7 +67,7 @@
   "modified": "2023-12-30 13:11:07.655213",
   "name": "1832764a45",
   "source_text": "Crop",
-  "translated_text": "\u0642\u0635"
+  "translated_text": "قص"
  },
  {
   "context": null,
@@ -81,7 +81,7 @@
   "modified": "2023-12-30 13:10:55.222970",
   "name": "b6fc5b4105",
   "source_text": "Back",
-  "translated_text": "\u0631\u062c\u0648\u0639"
+  "translated_text": "رجوع"
  },
  {
   "context": null,
@@ -95,7 +95,7 @@
   "modified": "2023-12-30 13:10:42.697067",
   "name": "244be81857",
   "source_text": "Link",
-  "translated_text": "\u0631\u0627\u0628\u0637"
+  "translated_text": "رابط"
  },
  {
   "context": null,
@@ -109,7 +109,7 @@
   "modified": "2023-12-30 13:10:23.217375",
   "name": "2aeb927ccf",
   "source_text": "Module (for export)",
-  "translated_text": "\u0627\u0644\u0648\u062d\u062f\u0629 (\u0644\u0644\u062a\u0635\u062f\u064a\u0631)"
+  "translated_text": "الوحدة (للتصدير)"
  },
  {
   "context": null,
@@ -123,7 +123,7 @@
   "modified": "2023-12-24 14:30:31.449649",
   "name": "8397c89bda",
   "source_text": "Clear all filters",
-  "translated_text": "\u0645\u0633\u062d \u0643\u0627\u0641\u0629 \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062a\u0635\u0641\u064a\u0629"
+  "translated_text": "مسح كافة عوامل التصفية"
  },
  {
   "context": null,
@@ -137,7 +137,7 @@
   "modified": "2023-12-24 14:30:46.550530",
   "name": "378602c2fb",
   "source_text": "ascending",
-  "translated_text": "\u062a\u0635\u0627\u0639\u062f\u064a"
+  "translated_text": "تصاعدي"
  },
  {
   "context": null,
@@ -151,7 +151,7 @@
   "modified": "2023-12-24 14:31:11.036434",
   "name": "f81bd64582",
   "source_text": "Show Title in Link Fields",
-  "translated_text": "\u0625\u0638\u0647\u0627\u0631 \u0627\u0644\u0639\u0646\u0648\u0627\u0646 \u0641\u064a \u062d\u0642\u0648\u0644 \u0627\u0644\u0627\u0631\u062a\u0628\u0627\u0637"
+  "translated_text": "إظهار العنوان في حقول الارتباط"
  },
  {
   "context": null,
@@ -165,7 +165,7 @@
   "modified": "2023-12-24 14:31:54.703581",
   "name": "e96eb575ff",
   "source_text": "Translate Link Fields",
-  "translated_text": "\u062a\u0631\u062c\u0645\u0629 \u062d\u0642\u0648\u0644 \u0627\u0644\u0627\u0631\u062a\u0628\u0627\u0637"
+  "translated_text": "ترجمة حقول الارتباط"
  },
  {
   "context": null,
@@ -179,7 +179,7 @@
   "modified": "2023-12-24 14:31:30.770825",
   "name": "92022043a2",
   "source_text": "Default Email Template",
-  "translated_text": "\u0642\u0627\u0644\u0628 \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+  "translated_text": "قالب البريد الإلكتروني الافتراضي"
  },
  {
   "context": null,
@@ -193,7 +193,7 @@
   "modified": "2023-12-24 10:17:16.788513",
   "name": "d309272ae3",
   "source_text": "Clear",
-  "translated_text": "\u0645\u0633\u062d"
+  "translated_text": "مسح"
  },
  {
   "context": null,
@@ -207,7 +207,7 @@
   "modified": "2023-12-24 10:02:35.098119",
   "name": "aa72dd6eb4",
   "source_text": "commented",
-  "translated_text": "\u0642\u0627\u0645 \u0628\u0627\u0644\u062a\u0639\u0644\u064a\u0642"
+  "translated_text": "قام بالتعليق"
  },
  {
   "context": null,
@@ -221,7 +221,7 @@
   "modified": "2023-12-24 14:29:31.929358",
   "name": "5e16f4afa6",
   "source_text": "image",
-  "translated_text": "\u0635\u0648\u0631\u0629"
+  "translated_text": "صورة"
  },
  {
   "context": null,
@@ -235,7 +235,7 @@
   "modified": "2023-12-24 14:29:21.164895",
   "name": "d1b5608845",
   "source_text": "Copy Link",
-  "translated_text": "\u0646\u0633\u062e \u0627\u0644\u0648\u0635\u0644\u0629"
+  "translated_text": "نسخ الوصلة"
  },
  {
   "context": null,
@@ -249,7 +249,7 @@
   "modified": "2023-12-23 16:17:55.592909",
   "name": "92f4dad056",
   "source_text": "Diamond",
-  "translated_text": "\u0645\u0627\u0633\u0629"
+  "translated_text": "ماسة"
  },
  {
   "context": null,
@@ -263,7 +263,7 @@
   "modified": "2023-12-23 16:17:55.583076",
   "name": "9f73c23f85",
   "source_text": "Sharing Diamonds",
-  "translated_text": "\u0645\u0634\u0627\u0631\u0643\u0629 \u0627\u0644\u0645\u0627\u0633"
+  "translated_text": "مشاركة الماس"
  },
  {
   "context": null,
@@ -277,7 +277,7 @@
   "modified": "2023-12-23 16:17:55.573087",
   "name": "1e7f1524f2",
   "source_text": "following",
-  "translated_text": "\u0645\u062a\u0627\u0628\u0639\u0629"
+  "translated_text": "متابعة"
  },
  {
   "context": null,
@@ -291,7 +291,7 @@
   "modified": "2023-12-23 16:17:55.563138",
   "name": "81313d56a7",
   "source_text": "Social Post",
-  "translated_text": "\u0645\u0646\u0634\u0648\u0631 \u0627\u062c\u062a\u0645\u0627\u0639\u064a"
+  "translated_text": "منشور اجتماعي"
  },
  {
   "context": null,
@@ -305,7 +305,7 @@
   "modified": "2023-12-23 16:17:55.553210",
   "name": "a87fc1ef8a",
   "source_text": "Diomands transfer",
-  "translated_text": "\u062a\u062d\u0648\u064a\u0644 \u0627\u0644\u0645\u0627\u0633"
+  "translated_text": "تحويل الماس"
  },
  {
   "context": null,
@@ -319,7 +319,7 @@
   "modified": "2023-12-23 16:17:55.530349",
   "name": "faddd9e152",
   "source_text": "Wallet",
-  "translated_text": "\u0645\u062c\u0641\u0638\u0629"
+  "translated_text": "مجفظة"
  },
  {
   "context": null,
@@ -333,7 +333,7 @@
   "modified": "2023-12-23 16:17:54.716211",
   "name": "63b0d9669a",
   "source_text": "Comments Social Post",
-  "translated_text": "\u062a\u0639\u0644\u064a\u0642\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0634\u0648\u0631\u0627\u062a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629"
+  "translated_text": "تعليقات على المنشورات الاجتماعية"
  },
  {
   "context": null,
@@ -347,7 +347,7 @@
   "modified": "2023-12-23 16:17:55.512698",
   "name": "8df2aa2bb4",
   "source_text": "Profile",
-  "translated_text": "\u062d\u0633\u0627\u0628"
+  "translated_text": "حساب"
  },
  {
   "context": null,
@@ -361,7 +361,7 @@
   "modified": "2023-12-23 16:17:55.490377",
   "name": "e4c8dac08c",
   "source_text": "Comment",
-  "translated_text": "\u062a\u0639\u0644\u064a\u0642"
+  "translated_text": "تعليق"
  },
  {
   "context": null,
@@ -375,7 +375,7 @@
   "modified": "2023-12-23 16:17:55.474087",
   "name": "e21839c62d",
   "source_text": "Like",
-  "translated_text": "\u0627\u0639\u062c\u0627\u0628"
+  "translated_text": "اعجاب"
  },
  {
   "context": null,
@@ -389,7 +389,7 @@
   "modified": "2023-12-23 16:17:55.457595",
   "name": "8604649748",
   "source_text": "My Profile",
-  "translated_text": "\u062d\u0633\u0627\u0628\u064a"
+  "translated_text": "حسابي"
  },
  {
   "context": null,
@@ -403,7 +403,7 @@
   "modified": "2023-12-23 16:17:55.436673",
   "name": "76e5b06c42",
   "source_text": "My Settings",
-  "translated_text": "\u0627\u0639\u062f\u0627\u062f\u0627\u062a\u064a"
+  "translated_text": "اعداداتي"
  },
  {
   "context": null,
@@ -417,7 +417,7 @@
   "modified": "2023-12-23 16:17:55.421674",
   "name": "0087b80024",
   "source_text": "Copy to Clipboard",
-  "translated_text": "\u0646\u0633\u062e"
+  "translated_text": "نسخ"
  },
  {
   "context": null,
@@ -431,7 +431,7 @@
   "modified": "2023-12-23 16:17:55.406829",
   "name": "15f2e1bf44",
   "source_text": "Toggle Full Width",
-  "translated_text": "\u062a\u063a\u064a\u064a\u0631 \u0627\u0644\u0639\u0631\u0636"
+  "translated_text": "تغيير العرض"
  },
  {
   "context": null,
@@ -445,7 +445,7 @@
   "modified": "2023-12-23 16:17:55.394915",
   "name": "9540b8b65d",
   "source_text": "Toggle Theme",
-  "translated_text": "\u062a\u063a\u064a\u064a\u0631 \u0627\u0644\u0648\u0636\u0639 "
+  "translated_text": "تغيير الوضع "
  },
  {
   "context": null,
@@ -459,7 +459,7 @@
   "modified": "2023-12-23 16:17:55.384442",
   "name": "b65c084a3c",
   "source_text": "Log out",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062e\u0631\u0648\u062c"
+  "translated_text": "تسجيل الخروج"
  },
  {
   "context": null,
@@ -473,7 +473,7 @@
   "modified": "2023-12-23 16:17:55.374812",
   "name": "d8e7c7b45d",
   "source_text": "About",
-  "translated_text": "\u0627\u0633\u062a\u0639\u0644\u0627\u0645"
+  "translated_text": "استعلام"
  },
  {
   "context": null,
@@ -487,7 +487,7 @@
   "modified": "2023-12-23 16:17:55.363456",
   "name": "e8489e6cc1",
   "source_text": "Frappe Support",
-  "translated_text": "\u0637\u0644\u0628 \u0645\u0633\u0627\u0639\u062f\u0629"
+  "translated_text": "طلب مساعدة"
  },
  {
   "context": null,
@@ -501,7 +501,7 @@
   "modified": "2023-12-23 16:17:55.352081",
   "name": "d33ed2ece2",
   "source_text": "Posting Date",
-  "translated_text": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0646\u0634\u0631"
+  "translated_text": "تاريخ النشر"
  },
  {
   "context": null,
@@ -515,7 +515,7 @@
   "modified": "2023-12-23 16:17:55.342855",
   "name": "97c07d6ca3",
   "source_text": "Posting Time",
-  "translated_text": "\u0648\u0642\u062a \u0627\u0644\u0646\u0634\u0631"
+  "translated_text": "وقت النشر"
  },
  {
   "context": null,
@@ -529,7 +529,7 @@
   "modified": "2023-12-23 16:17:55.333354",
   "name": "5729135daa",
   "source_text": "Following",
-  "translated_text": "\u0645\u062a\u0627\u0628\u0639\u0629"
+  "translated_text": "متابعة"
  },
  {
   "context": null,
@@ -543,7 +543,7 @@
   "modified": "2023-12-23 16:17:55.324213",
   "name": "d7760a0141",
   "source_text": "Basic Info",
-  "translated_text": "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0633\u0627\u0633\u064a\u0629"
+  "translated_text": "معلومات اساسية"
  },
  {
   "context": null,
@@ -557,7 +557,7 @@
   "modified": "2023-12-23 16:17:55.313804",
   "name": "ff6328835b",
   "source_text": "Manager",
-  "translated_text": "\u0645\u062f\u064a\u0631"
+  "translated_text": "مدير"
  },
  {
   "context": null,
@@ -571,7 +571,7 @@
   "modified": "2023-12-23 16:17:55.304375",
   "name": "56ff9d7bf8",
   "source_text": "Workspace Manager",
-  "translated_text": "\u0645\u062f\u064a\u0631 \u0641\u0636\u0627\u0626\u0627\u062a \u0627\u0644\u0639\u0645\u0644"
+  "translated_text": "مدير فضائات العمل"
  },
  {
   "context": null,
@@ -585,7 +585,7 @@
   "modified": "2023-12-23 16:17:55.293714",
   "name": "7916e21d99",
   "source_text": "Desk Theme",
-  "translated_text": "\u0648\u0636\u0639 \u0627\u0644\u0639\u0631\u0636"
+  "translated_text": "وضع العرض"
  },
  {
   "context": null,
@@ -599,7 +599,7 @@
   "modified": "2023-12-23 16:17:55.279747",
   "name": "0fe3024e8a",
   "source_text": "Light",
-  "translated_text": "\u0646\u0647\u0627\u0631\u064a"
+  "translated_text": "نهاري"
  },
  {
   "context": null,
@@ -613,7 +613,7 @@
   "modified": "2023-12-23 16:17:55.266012",
   "name": "ad3b384bcc",
   "source_text": "Dark",
-  "translated_text": "\u0644\u064a\u0644\u064a"
+  "translated_text": "ليلي"
  },
  {
   "context": null,
@@ -627,7 +627,7 @@
   "modified": "2023-12-23 16:17:55.256069",
   "name": "02cb884b50",
   "source_text": "Automatic",
-  "translated_text": "\u0627\u0644\u064a"
+  "translated_text": "الي"
  },
  {
   "context": null,
@@ -641,7 +641,7 @@
   "modified": "2023-12-23 16:17:55.246311",
   "name": "d951bdd70d",
   "source_text": "Module Profile",
-  "translated_text": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0648\u062d\u062f\u0627\u062a"
+  "translated_text": "حساب الوحدات"
  },
  {
   "context": null,
@@ -655,7 +655,7 @@
   "modified": "2023-12-23 16:17:55.235568",
   "name": "3ba3a0fa86",
   "source_text": "Frappe Chat",
-  "translated_text": "\u062f\u0631\u062f\u0634\u062a \u0641\u0631\u0627\u0628\u064a"
+  "translated_text": "دردشت فرابي"
  },
  {
   "context": null,
@@ -669,7 +669,7 @@
   "modified": "2023-12-23 16:17:55.224674",
   "name": "5c7107a597",
   "source_text": "Total Comments",
-  "translated_text": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u062a\u0639\u0644\u064a\u0642\u0627\u062a"
+  "translated_text": "اجمالي التعليقات"
  },
  {
   "context": null,
@@ -683,7 +683,7 @@
   "modified": "2023-12-23 16:17:55.214854",
   "name": "a7336ffa0f",
   "source_text": "Total Followers",
-  "translated_text": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u062a\u0627\u0628\u0639\u064a\u0646"
+  "translated_text": "اجمالي المتابعين"
  },
  {
   "context": null,
@@ -697,7 +697,7 @@
   "modified": "2023-12-23 16:17:55.205630",
   "name": "6c92c7d572",
   "source_text": "Total Diamonds",
-  "translated_text": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0627\u0633"
+  "translated_text": "اجمالي الماس"
  },
  {
   "context": null,
@@ -711,7 +711,7 @@
   "modified": "2023-12-23 16:17:55.195847",
   "name": "6148f6314d",
   "source_text": "Total Likes",
-  "translated_text": "\u0627\u062c\u0645\u0627\u064a \u0627\u0644\u0627\u0639\u062c\u0627\u0628\u0627\u062a"
+  "translated_text": "اجماي الاعجابات"
  },
  {
   "context": null,
@@ -725,7 +725,7 @@
   "modified": "2023-12-23 16:17:55.185615",
   "name": "95eba40ffc",
   "source_text": "Total Views",
-  "translated_text": "\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0634\u0627\u0647\u062f\u0627\u062a"
+  "translated_text": "اجمالي المشاهدات"
  },
  {
   "context": null,
@@ -739,7 +739,7 @@
   "modified": "2023-12-23 16:17:55.175310",
   "name": "e515883d76",
   "source_text": "Post Video",
-  "translated_text": "\u0646\u0634\u0631 \u0641\u064a\u062f\u064a\u0648"
+  "translated_text": "نشر فيديو"
  },
  {
   "context": null,
@@ -753,7 +753,7 @@
   "modified": "2023-12-23 16:17:55.165940",
   "name": "1683906cc0",
   "source_text": "Post Audio",
-  "translated_text": "\u0646\u0634\u0631 \u0645\u0642\u0637\u0639 \u0635\u0648\u062a\u064a"
+  "translated_text": "نشر مقطع صوتي"
  },
  {
   "context": null,
@@ -767,7 +767,7 @@
   "modified": "2023-12-23 16:17:55.156126",
   "name": "1f33eb3a07",
   "source_text": "Post Link",
-  "translated_text": "\u0646\u0634\u0631 \u0631\u0627\u0628\u0637"
+  "translated_text": "نشر رابط"
  },
  {
   "context": null,
@@ -781,7 +781,7 @@
   "modified": "2023-12-23 16:17:55.146191",
   "name": "d56cd71303",
   "source_text": "featured News",
-  "translated_text": "\u0627\u062e\u0628\u0627\u0631 \u0645\u062a\u0645\u064a\u0632\u0629"
+  "translated_text": "اخبار متميزة"
  },
  {
   "context": null,
@@ -795,7 +795,7 @@
   "modified": "2023-12-23 16:17:55.136978",
   "name": "a8ba4ca1d1",
   "source_text": "Wallet Reference",
-  "translated_text": "\u0645\u0631\u062c\u0639 \u0627\u0644\u0645\u062d\u0641\u0638\u0629"
+  "translated_text": "مرجع المحفظة"
  },
  {
   "context": null,
@@ -809,7 +809,7 @@
   "modified": "2023-12-23 16:17:55.127602",
   "name": "ba4d2d9724",
   "source_text": "Reference DocType",
-  "translated_text": "\u0642\u0627\u0644\u0628 \u0628\u064a\u0646\u0627\u062a \u0645\u0631\u062c\u0639\u064a"
+  "translated_text": "قالب بينات مرجعي"
  },
  {
   "context": null,
@@ -823,7 +823,7 @@
   "modified": "2023-12-23 16:17:55.106605",
   "name": "c4021a46d8",
   "source_text": "Log Units",
-  "translated_text": "\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0633\u062c\u0644"
+  "translated_text": "وحدات السجل"
  },
  {
   "context": null,
@@ -837,7 +837,7 @@
   "modified": "2023-12-23 16:17:55.116290",
   "name": "7755d7a288",
   "source_text": "Log Type",
-  "translated_text": "\u0646\u0648\u063a \u0627\u0644\u0633\u062c\u0644"
+  "translated_text": "نوغ السجل"
  },
  {
   "context": null,
@@ -851,7 +851,7 @@
   "modified": "2023-12-23 16:17:55.097327",
   "name": "e05e5226c9",
   "source_text": "Credit",
-  "translated_text": "\u0627\u0626\u062a\u0645\u0627\u0646"
+  "translated_text": "ائتمان"
  },
  {
   "context": null,
@@ -865,7 +865,7 @@
   "modified": "2023-12-23 16:17:55.087368",
   "name": "60134a9a6d",
   "source_text": "Debit",
-  "translated_text": "\u062e\u0635\u0645"
+  "translated_text": "خصم"
  },
  {
   "context": null,
@@ -879,7 +879,7 @@
   "modified": "2023-12-23 16:17:55.076208",
   "name": "fcbf4c1859",
   "source_text": "Follow Log",
-  "translated_text": "\u0633\u062c\u0644 \u0627\u0644\u0645\u062a\u0627\u0628\u0639\u0627\u062a"
+  "translated_text": "سجل المتابعات"
  },
  {
   "context": null,
@@ -893,7 +893,7 @@
   "modified": "2023-12-23 16:17:55.066018",
   "name": "48fecd1f85",
   "source_text": "List View",
-  "translated_text": "\u0639\u0631\u0636 \u0627\u0644\u0642\u0627\u0626\u0645\u0629"
+  "translated_text": "عرض القائمة"
  },
  {
   "context": null,
@@ -907,7 +907,7 @@
   "modified": "2023-12-23 16:17:55.051849",
   "name": "3de12a6377",
   "source_text": "Profile Log",
-  "translated_text": "\u0633\u062c\u0644 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a"
+  "translated_text": "سجل الحسابات"
  },
  {
   "context": null,
@@ -921,7 +921,7 @@
   "modified": "2023-12-23 16:17:55.031181",
   "name": "a4ed5749be",
   "source_text": "Adding Users",
-  "translated_text": "\u0627\u0636\u0627\u0641\u0629 \u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646"
+  "translated_text": "اضافة مستخدمين"
  },
  {
   "context": null,
@@ -935,7 +935,7 @@
   "modified": "2023-12-23 16:17:55.041610",
   "name": "4d7d6dfd9b",
   "source_text": "Rename User",
-  "translated_text": "\u0627\u0639\u0627\u062f\u0629 \u062a\u0633\u0645\u064a\u0629 \u0645\u062a\u062e\u062f\u0645"
+  "translated_text": "اعادة تسمية متخدم"
  },
  {
   "context": null,
@@ -949,7 +949,7 @@
   "modified": "2023-12-23 16:17:55.021718",
   "name": "8957c3a040",
   "source_text": "Chats",
-  "translated_text": "\u062f\u0631\u062f\u0634\u0627\u062a"
+  "translated_text": "دردشات"
  },
  {
   "context": null,
@@ -963,7 +963,7 @@
   "modified": "2023-12-23 16:17:55.011990",
   "name": "0a45325fe1",
   "source_text": "No New notifications",
-  "translated_text": "\u0644\u0627 \u062a\u0648\u062c\u062f \u0627\u062e\u0637\u0627\u0631\u0627\u062a \u062c\u062f\u064a\u062f\u0629"
+  "translated_text": "لا توجد اخطارات جديدة"
  },
  {
   "context": null,
@@ -977,7 +977,7 @@
   "modified": "2023-12-23 16:17:55.002580",
   "name": "5606f44f91",
   "source_text": "No New notifications",
-  "translated_text": "\u0644\u0627 \u062a\u0648\u062c\u062f \u0627\u062e\u0637\u0627\u0631\u0627\u062a \u062c\u062f\u064a\u062f\u0629"
+  "translated_text": "لا توجد اخطارات جديدة"
  },
  {
   "context": null,
@@ -991,7 +991,7 @@
   "modified": "2023-12-23 16:17:54.992695",
   "name": "8e86b34834",
   "source_text": "There are no upcoming events for you.",
-  "translated_text": "\u0644\u0627 \u062a\u0648\u062c\u062f \u0623\u062d\u062f\u0627\u062b \u0645\u0642\u0628\u0644\u0629 \u0644\u0643"
+  "translated_text": "لا توجد أحداث مقبلة لك"
  },
  {
   "context": null,
@@ -1004,8 +1004,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.983362",
   "name": "dad2854fe4",
-  "source_text": "Looks like you haven\u2019t received any notifications.",
-  "translated_text": "\u064a\u0628\u062f\u0648 \u0623\u0646\u0643 \u0644\u0645 \u062a\u062a\u0644\u0642 \u0623\u064a \u0625\u0634\u0639\u0627\u0631\u0627\u062a"
+  "source_text": "Looks like you haven’t received any notifications.",
+  "translated_text": "يبدو أنك لم تتلق أي إشعارات"
  },
  {
   "context": null,
@@ -1019,7 +1019,7 @@
   "modified": "2023-12-23 16:17:54.973848",
   "name": "8e1785bbab",
   "source_text": "Add Tags",
-  "translated_text": "\u0627\u0638\u0627\u0641\u0629 \u0627\u0634\u0627\u0631\u0627\u062a"
+  "translated_text": "اظافة اشارات"
  },
  {
   "context": null,
@@ -1033,7 +1033,7 @@
   "modified": "2023-12-23 16:17:54.963982",
   "name": "1d3f97a1df",
   "source_text": "Like Log",
-  "translated_text": "\u0633\u062c\u0644 \u0627\u0644\u0627\u0639\u062c\u0627\u0628\u0627\u062a"
+  "translated_text": "سجل الاعجابات"
  },
  {
   "context": null,
@@ -1047,7 +1047,7 @@
   "modified": "2023-12-23 16:17:54.954322",
   "name": "d65896b1fe",
   "source_text": "Social Post Log",
-  "translated_text": "\u0633\u062c\u0644 \u0627\u0644\u0645\u0646\u0634\u0648\u0631\u0627\u062a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629"
+  "translated_text": "سجل المنشورات الاجتماعية"
  },
  {
   "context": null,
@@ -1061,7 +1061,7 @@
   "modified": "2023-12-23 16:17:54.943871",
   "name": "fe153d6236",
   "source_text": "Recipient Document",
-  "translated_text": "\u0648\u062b\u064a\u0642\u0629 \u0627\u0644\u0645\u0633\u062a\u0644\u0645"
+  "translated_text": "وثيقة المستلم"
  },
  {
   "context": null,
@@ -1075,7 +1075,7 @@
   "modified": "2023-12-23 16:17:54.933894",
   "name": "c0dce8b4e4",
   "source_text": "Diamond Balance",
-  "translated_text": "\u0631\u0633\u064a\u062f \u0627\u0644\u0645\u0627\u0633"
+  "translated_text": "رسيد الماس"
  },
  {
   "context": null,
@@ -1089,7 +1089,7 @@
   "modified": "2023-12-23 16:17:54.923817",
   "name": "a4b0295a6f",
   "source_text": "Post Image",
-  "translated_text": "\u0646\u0634\u0631 \u0635\u0648\u0631\u0629"
+  "translated_text": "نشر صورة"
  },
  {
   "context": null,
@@ -1103,7 +1103,7 @@
   "modified": "2023-12-23 16:17:54.912130",
   "name": "17e7c6217b",
   "source_text": "Post Title",
-  "translated_text": "\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0645\u0646\u0634\u0648\u0631"
+  "translated_text": "عنوان المنشور"
  },
  {
   "context": null,
@@ -1117,7 +1117,7 @@
   "modified": "2023-12-23 16:17:54.902609",
   "name": "46d921797b",
   "source_text": "Edit Full Form",
-  "translated_text": "\u062a\u0639\u062f\u064a\u0644 \u0627\u0633\u062a\u0645\u0627\u0631\u0629 \u0643\u0627\u0645\u0644\u0629"
+  "translated_text": "تعديل استمارة كاملة"
  },
  {
   "context": null,
@@ -1131,7 +1131,7 @@
   "modified": "2023-12-23 16:17:54.892362",
   "name": "816e67b906",
   "source_text": "Add a Filter",
-  "translated_text": "\u0627\u0636\u0627\u0641\u0629 \u0641\u0644\u062a\u0631"
+  "translated_text": "اضافة فلتر"
  },
  {
   "context": null,
@@ -1145,7 +1145,7 @@
   "modified": "2023-12-23 16:17:54.881811",
   "name": "5e984b882d",
   "source_text": "Apply Filters",
-  "translated_text": "\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0641\u0644\u0627\u062a\u0631"
+  "translated_text": "تطبيق الفلاتر"
  },
  {
   "context": null,
@@ -1159,7 +1159,7 @@
   "modified": "2023-12-23 16:17:54.871143",
   "name": "b4fcf5a250",
   "source_text": "New Workspace",
-  "translated_text": "\u0641\u0636\u0627\u0621 \u0639\u0645\u0644 \u062c\u062f\u064a\u062f"
+  "translated_text": "فضاء عمل جديد"
  },
  {
   "context": null,
@@ -1173,7 +1173,7 @@
   "modified": "2023-12-23 16:17:54.860439",
   "name": "d69a722b96",
   "source_text": "Shortcut",
-  "translated_text": "\u0627\u062e\u062a\u0635\u0627\u0631"
+  "translated_text": "اختصار"
  },
  {
   "context": null,
@@ -1187,7 +1187,7 @@
   "modified": "2023-12-23 16:17:54.849765",
   "name": "b7cde58d5b",
   "source_text": "Spacer",
-  "translated_text": "\u0645\u0633\u0627\u0641\u0629"
+  "translated_text": "مسافة"
  },
  {
   "context": null,
@@ -1201,7 +1201,7 @@
   "modified": "2023-12-23 16:17:54.838297",
   "name": "a56e292315",
   "source_text": "Quick List",
-  "translated_text": "\u0644\u0627\u0626\u062d\u0629 \u0645\u0648\u062c\u0632\u0629"
+  "translated_text": "لائحة موجزة"
  },
  {
   "context": null,
@@ -1215,7 +1215,7 @@
   "modified": "2023-12-23 16:17:54.828979",
   "name": "16d05c589f",
   "source_text": "TEMPLATES",
-  "translated_text": "\u0642\u0648\u0627\u0644\u0628"
+  "translated_text": "قوالب"
  },
  {
   "context": null,
@@ -1229,7 +1229,7 @@
   "modified": "2023-12-23 16:17:54.818772",
   "name": "6e755c62fd",
   "source_text": "Quick Lists",
-  "translated_text": "\u0644\u0648\u0627\u0626\u062d \u0645\u0648\u062c\u0632\u0629"
+  "translated_text": "لوائح موجزة"
  },
  {
   "context": null,
@@ -1243,7 +1243,7 @@
   "modified": "2023-12-23 16:17:54.809756",
   "name": "f38d65ebd6",
   "source_text": "Sequence Id",
-  "translated_text": "\u0645\u0639\u0631\u0641 \u0627\u0644\u062a\u0633\u0644\u0633\u0644"
+  "translated_text": "معرف التسلسل"
  },
  {
   "context": null,
@@ -1257,7 +1257,7 @@
   "modified": "2023-12-23 16:17:54.799084",
   "name": "4eecc29dc9",
   "source_text": "Number Card Name",
-  "translated_text": "\u0627\u0633\u0645 \u0627\u0644\u0628\u0637\u0627\u0642\u0629 \u0627\u0644\u0631\u0642\u0645\u064a\u0629"
+  "translated_text": "اسم البطاقة الرقمية"
  },
  {
   "context": null,
@@ -1271,7 +1271,7 @@
   "modified": "2023-12-23 16:17:54.788731",
   "name": "34ae4fef92",
   "source_text": "No.",
-  "translated_text": "\u0631\u0642\u0645"
+  "translated_text": "رقم"
  },
  {
   "context": null,
@@ -1285,7 +1285,7 @@
   "modified": "2023-12-23 16:17:54.777393",
   "name": "61d0506ec4",
   "source_text": "This document allows you to edit limited fields. For all kinds of workspace customization, use the Edit button located on the workspace page",
-  "translated_text": "\u064a\u062a\u064a\u062d \u0644\u0643 \u0647\u0630\u0627 \u0627\u0644\u0645\u0633\u062a\u0646\u062f \u062a\u062d\u0631\u064a\u0631 \u062d\u0642\u0648\u0644 \u0645\u062d\u062f\u062f\u0629. \u0644\u062c\u0645\u064a\u0639 \u0623\u0646\u0648\u0627\u0639 \u062a\u062e\u0635\u064a\u0635 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0639\u0645\u0644\u060c \u0627\u0633\u062a\u062e\u062f\u0645 \u0632\u0631 \u0627\u0644\u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u0645\u0648\u062c\u0648\u062f \u0639\u0644\u0649 \u0635\u0641\u062d\u0629 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0639\u0645\u0644"
+  "translated_text": "يتيح لك هذا المستند تحرير حقول محددة. لجميع أنواع تخصيص مساحة العمل، استخدم زر التحرير الموجود على صفحة مساحة العمل"
  },
  {
   "context": null,
@@ -1299,7 +1299,7 @@
   "modified": "2023-12-23 16:17:54.767593",
   "name": "d4972ab77b",
   "source_text": "Is Hidden",
-  "translated_text": "\u0645\u062e\u0641\u064a"
+  "translated_text": "مخفي"
  },
  {
   "context": null,
@@ -1313,7 +1313,7 @@
   "modified": "2023-12-23 16:17:54.726568",
   "name": "7f4e3aae05",
   "source_text": "Workspace",
-  "translated_text": "\u0645\u0633\u0627\u062d\u0629 \u0639\u0645\u0644"
+  "translated_text": "مساحة عمل"
  },
  {
   "context": null,
@@ -1327,7 +1327,7 @@
   "modified": "2023-12-23 16:17:54.736625",
   "name": "db152dc362",
   "source_text": "Go to Notification Settings List",
-  "translated_text": "\u0627\u0644\u0630\u0647\u0627\u0628 \u0627\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0627\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0627\u0634\u0639\u0627\u0631\u0627\u062a"
+  "translated_text": "الذهاب الى قائمة اعدادات الاشعارات"
  },
  {
   "context": null,
@@ -1341,7 +1341,7 @@
   "modified": "2023-12-23 16:17:54.757293",
   "name": "1806b2229a",
   "source_text": "System Notifications",
-  "translated_text": "\u0627\u0634\u0639\u0627\u0631\u0627\u062a \u0627\u0644\u0646\u0638\u0627\u0645"
+  "translated_text": "اشعارات النظام"
  },
  {
   "context": null,
@@ -1355,7 +1355,7 @@
   "modified": "2023-12-23 16:17:54.746361",
   "name": "588c363f11",
   "source_text": "Event Reminders",
-  "translated_text": "\u0645\u0630\u0643\u0631\u0629 \u0627\u0644\u0627\u062d\u062f\u0627\u062b"
+  "translated_text": "مذكرة الاحداث"
  },
  {
   "context": null,
@@ -1369,7 +1369,7 @@
   "modified": "2023-12-23 16:17:54.706280",
   "name": "da5d585a9e",
   "source_text": "Toggle Full Width",
-  "translated_text": "\u062a\u0628\u062f\u064a\u0644 \u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u0643\u0627\u0645\u0644"
+  "translated_text": "تبديل العرض الكامل"
  },
  {
   "context": null,
@@ -1383,7 +1383,7 @@
   "modified": "2023-12-23 16:17:54.695393",
   "name": "73de901633",
   "source_text": "No.",
-  "translated_text": "\u0645."
+  "translated_text": "م."
  },
  {
   "context": null,
@@ -1396,8 +1396,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.684186",
   "name": "6fee9ea5ff",
-  "source_text": "New \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645",
-  "translated_text": "\u0645\u0633\u062a\u062e\u062f\u0645 \u062c\u062f\u064a\u062f"
+  "source_text": "New المستخدم",
+  "translated_text": "مستخدم جديد"
  },
  {
   "context": null,
@@ -1411,7 +1411,7 @@
   "modified": "2023-12-23 16:17:54.670050",
   "name": "912470f731",
   "source_text": "Toggle Theme",
-  "translated_text": "\u062a\u0628\u062f\u064a\u0644 \u0627\u0644\u0633\u0645\u0629"
+  "translated_text": "تبديل السمة"
  },
  {
   "context": null,
@@ -1425,7 +1425,7 @@
   "modified": "2023-12-23 16:17:54.658702",
   "name": "b4af93c55a",
   "source_text": "Accounts Payable Summary",
-  "translated_text": "\u0645\u0644\u062e\u0635 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u062f\u0627\u0626\u0646\u0629"
+  "translated_text": "ملخص الحسابات الدائنة"
  },
  {
   "context": null,
@@ -1439,7 +1439,7 @@
   "modified": "2023-12-23 16:17:54.647495",
   "name": "a70385621a",
   "source_text": "Aluminium Strechable Rod 6 Mtrs",
-  "translated_text": "\u0639\u0635\u0627 \u0627\u0644\u0645\u0646\u064a\u0648\u0645 \u0642\u0627\u0628\u0644 \u0644\u0644\u0645\u0637 \u2013 \u0637\u0648\u0644 6 \u0645\u062a\u0631"
+  "translated_text": "عصا المنيوم قابل للمط – طول 6 متر"
  },
  {
   "context": null,
@@ -1453,7 +1453,7 @@
   "modified": "2023-12-23 16:17:54.637139",
   "name": "81d011884a",
   "source_text": "Undeliverable Orders",
-  "translated_text": "\u0637\u0644\u0628\u0627\u062a \u0644\u0627\u064a\u0645\u0643\u0646 \u062a\u0633\u0644\u064a\u0645\u0647\u0627"
+  "translated_text": "طلبات لايمكن تسليمها"
  },
  {
   "context": null,
@@ -1466,8 +1466,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.619412",
   "name": "30170cc008",
-  "source_text": "New \u0627\u0644\u0645\u0648\u0631\u062f",
-  "translated_text": "\u0645\u0648\u0631\u062f \u062c\u062f\u064a\u062f"
+  "source_text": "New المورد",
+  "translated_text": "مورد جديد"
  },
  {
   "context": null,
@@ -1481,7 +1481,7 @@
   "modified": "2023-12-23 16:17:54.608455",
   "name": "665216b896",
   "source_text": "Outgoing (SMTP) Settings",
-  "translated_text": "\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0635\u0627\u062f\u0631 (SMTP)."
+  "translated_text": "إعدادات الصادر (SMTP)."
  },
  {
   "context": null,
@@ -1495,7 +1495,7 @@
   "modified": "2023-12-23 16:17:54.594281",
   "name": "8c91971d29",
   "source_text": "We provide only the best products for our valued customers!",
-  "translated_text": "\u062e\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0638\u0647\u0648\u0631"
+  "translated_text": "خيارات الظهور"
  },
  {
   "context": null,
@@ -1509,7 +1509,7 @@
   "modified": "2023-12-23 16:17:54.584495",
   "name": "0b8dc0dc78",
   "source_text": "Building Number",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0645\u0628\u0646\u0649"
+  "translated_text": "رقم المبنى"
  },
  {
   "context": null,
@@ -1523,7 +1523,7 @@
   "modified": "2023-12-23 16:17:54.573676",
   "name": "54cc7042a8",
   "source_text": "new-product-options-2",
-  "translated_text": "\u062e\u064a\u0627\u0631\u0627\u062a-\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f\u0629-2"
+  "translated_text": "خيارات-منتج-جديدة-2"
  },
  {
   "context": null,
@@ -1537,7 +1537,7 @@
   "modified": "2023-12-23 16:17:54.562550",
   "name": "83b832493c",
   "source_text": "Send to Android",
-  "translated_text": "\u0623\u0631\u0633\u0627\u0644 \u0644\u064a \u0623\u0646\u062f\u0631\u0648\u064a\u062f"
+  "translated_text": "أرسال لي أندرويد"
  },
  {
   "context": null,
@@ -1551,7 +1551,7 @@
   "modified": "2023-12-23 16:17:54.548654",
   "name": "2fc2828685",
   "source_text": "Stock Balance",
-  "translated_text": "\u0631\u0635\u064a\u062f \u0627\u0644\u0645\u062e\u0632\u0648\u0646"
+  "translated_text": "رصيد المخزون"
  },
  {
   "context": null,
@@ -1565,7 +1565,7 @@
   "modified": "2023-12-23 16:17:54.537585",
   "name": "037cfb5d55",
   "source_text": "Street Number",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0634\u0627\u0631\u0639"
+  "translated_text": "رقم الشارع"
  },
  {
   "context": null,
@@ -1579,7 +1579,7 @@
   "modified": "2023-12-23 16:17:54.527948",
   "name": "311c57c411",
   "source_text": "JoCards Manager",
-  "translated_text": "\u0645\u062f\u064a\u0631 \u062c\u0648\u0643\u0627\u0631\u062f\u0632"
+  "translated_text": "مدير جوكاردز"
  },
  {
   "context": null,
@@ -1593,7 +1593,7 @@
   "modified": "2023-12-23 16:17:54.517148",
   "name": "0c0fefdb96",
   "source_text": "Document Linking",
-  "translated_text": "\u0631\u0628\u0637 \u0627\u0644\u0648\u062b\u064a\u0642\u0629"
+  "translated_text": "ربط الوثيقة"
  },
  {
   "context": null,
@@ -1607,7 +1607,7 @@
   "modified": "2023-12-23 16:17:54.506859",
   "name": "1c2897e5d1",
   "source_text": "Website Item",
-  "translated_text": "\u0627\u0644\u0645\u0646\u062a\u062c \u0627\u0644\u0645\u0639\u0631\u0648\u0636"
+  "translated_text": "المنتج المعروض"
  },
  {
   "context": null,
@@ -1621,7 +1621,7 @@
   "modified": "2023-12-23 16:17:54.496485",
   "name": "b0120c34a3",
   "source_text": "Price list",
-  "translated_text": "\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0627\u0633\u0639\u0627\u0631"
+  "translated_text": "قائمة الاسعار"
  },
  {
   "context": null,
@@ -1635,7 +1635,7 @@
   "modified": "2023-12-23 16:17:54.484460",
   "name": "7e55fdf0b0",
   "source_text": "{0} h",
-  "translated_text": "{0} \u0633\u0627\u0639\u0629 \u0645\u0636\u062a"
+  "translated_text": "{0} ساعة مضت"
  },
  {
   "context": null,
@@ -1649,7 +1649,7 @@
   "modified": "2023-12-23 16:17:54.474934",
   "name": "30d1d0388e",
   "source_text": "Fast Worldwide Shipping",
-  "translated_text": "\u0627\u0644\u0634\u062d\u0646 \u0627\u0644\u0633\u0631\u064a\u0639 \u0641\u064a \u062c\u0645\u064a\u0639 \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645"
+  "translated_text": "الشحن السريع في جميع أنحاء العالم"
  },
  {
   "context": null,
@@ -1663,7 +1663,7 @@
   "modified": "2023-12-23 16:17:54.465150",
   "name": "ea52fd3f8b",
   "source_text": "Expand",
-  "translated_text": "\u062a\u0648\u0633\u0639\u0629"
+  "translated_text": "توسعة"
  },
  {
   "context": null,
@@ -1677,7 +1677,7 @@
   "modified": "2023-12-23 16:17:54.455065",
   "name": "f611cc3490",
   "source_text": "Item Group",
-  "translated_text": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0639\u0646\u0627\u0635\u0631"
+  "translated_text": "مجموعة العناصر"
  },
  {
   "context": null,
@@ -1691,7 +1691,7 @@
   "modified": "2023-12-23 16:17:54.440617",
   "name": "247e58e306",
   "source_text": "Product Details",
-  "translated_text": "\u0645\u0648\u0627\u0635\u0641\u0627\u062a \u0627\u0644\u0645\u0646\u062a\u062c"
+  "translated_text": "مواصفات المنتج"
  },
  {
   "context": null,
@@ -1704,8 +1704,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.428357",
   "name": "c0ac2aae1f",
-  "source_text": "New \u0641\u0627\u062a\u0648\u0631\u0629 \u0634\u0631\u0627\u0621",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629 \u0634\u0631\u0627\u0621 \u062c\u062f\u064a\u062f\u0629"
+  "source_text": "New فاتورة شراء",
+  "translated_text": "فاتورة شراء جديدة"
  },
  {
   "context": null,
@@ -1719,7 +1719,7 @@
   "modified": "2023-12-23 16:17:54.416511",
   "name": "dc9beb2cea",
   "source_text": "Building Number",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0645\u0628\u0646\u0649"
+  "translated_text": "رقم المبنى"
  },
  {
   "context": null,
@@ -1733,7 +1733,7 @@
   "modified": "2023-12-23 16:17:54.390590",
   "name": "dbdf28740d",
   "source_text": "new-banner-2",
-  "translated_text": "\u0628\u0627\u0646\u0631-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "بانر-جديد-2"
  },
  {
   "context": null,
@@ -1747,7 +1747,7 @@
   "modified": "2023-12-23 16:17:54.379876",
   "name": "bcc704ebea",
   "source_text": "Your Shortcuts",
-  "translated_text": "\u0627\u0644\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0643"
+  "translated_text": "الاختصارات الخاصة بك"
  },
  {
   "context": null,
@@ -1760,8 +1760,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.369277",
   "name": "133c683257",
-  "source_text": "New \u0627\u0644\u0645\u0646\u062a\u062c",
-  "translated_text": "\u0645\u0646\u062a\u062c \u062c\u062f\u064a\u062f"
+  "source_text": "New المنتج",
+  "translated_text": "منتج جديد"
  },
  {
   "context": null,
@@ -1775,7 +1775,7 @@
   "modified": "2023-12-23 16:17:54.358463",
   "name": "e63302902c",
   "source_text": "Jahiz",
-  "translated_text": "\u0627\u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u062c\u0627\u0647\u0632"
+  "translated_text": "المتجر الالكتروني جاهز"
  },
  {
   "context": null,
@@ -1789,7 +1789,7 @@
   "modified": "2023-12-23 16:17:54.348371",
   "name": "62566617bf",
   "source_text": "Jocards Credit Balance V2",
-  "translated_text": "\u0631\u0635\u064a\u062f \u062c\u0648 \u0643\u0627\u0631\u062f\u0632\u0627\u0644\u0627\u062a\u0645\u0627\u0646\u064a"
+  "translated_text": "رصيد جو كاردزالاتماني"
  },
  {
   "context": null,
@@ -1803,7 +1803,7 @@
   "modified": "2023-12-23 16:17:54.337955",
   "name": "c2cbac1b81",
   "source_text": "new-website-item-3",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-\u0645\u0639\u0631\u0648\u0636 \u0641\u064a \u0627\u0644\u0645\u0648\u0642\u0639-3"
+  "translated_text": "منتج-جديد-معروض في الموقع-3"
  },
  {
   "context": null,
@@ -1817,7 +1817,7 @@
   "modified": "2023-12-23 16:17:54.328006",
   "name": "532db436b6",
   "source_text": "Submit ERR Journals?",
-  "translated_text": "\u0625\u0631\u0633\u0627\u0644 \u0645\u062c\u0644\u0627\u062a ERR\u061f"
+  "translated_text": "إرسال مجلات ERR؟"
  },
  {
   "context": null,
@@ -1831,7 +1831,7 @@
   "modified": "2023-12-23 16:17:54.318381",
   "name": "e4872fef10",
   "source_text": "Frappe Support",
-  "translated_text": "\u062f\u0639\u0645 Frappe"
+  "translated_text": "دعم Frappe"
  },
  {
   "context": null,
@@ -1845,7 +1845,7 @@
   "modified": "2023-12-23 16:17:54.306587",
   "name": "8bf7311fba",
   "source_text": "Primary Address and Contact",
-  "translated_text": "\u062c\u0647\u0629 \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0648\u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"
+  "translated_text": "جهة الاتصال والعناوين الرئيسية"
  },
  {
   "context": null,
@@ -1858,8 +1858,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.293556",
   "name": "4c3c62fd91",
-  "source_text": "New \u0641\u0627\u062a\u0648\u0631\u0629 \u0645\u0628\u064a\u0639\u0627\u062a",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629 \u0645\u0628\u064a\u0639\u0627\u062a \u062c\u062f\u064a\u062f\u0629"
+  "source_text": "New فاتورة مبيعات",
+  "translated_text": "فاتورة مبيعات جديدة"
  },
  {
   "context": null,
@@ -1873,7 +1873,7 @@
   "modified": "2023-12-23 16:17:54.280323",
   "name": "9a7e9c26ef",
   "source_text": "Unbilled Orders",
-  "translated_text": "\u0637\u0644\u0628\u0627\u062a \u0644\u0645 \u064a\u062a\u0645 \u062f\u0641\u0639 \u062b\u0645\u0646\u0647\u0627"
+  "translated_text": "طلبات لم يتم دفع ثمنها"
  },
  {
   "context": null,
@@ -1887,7 +1887,7 @@
   "modified": "2023-12-23 16:17:54.269656",
   "name": "ca9274d3c4",
   "source_text": "Mobile or Email",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 \u0627\u0648 \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a"
+  "translated_text": "رقم الهاتف او البريد الالكتروني"
  },
  {
   "context": null,
@@ -1901,7 +1901,7 @@
   "modified": "2023-12-23 16:17:54.259256",
   "name": "5ba858c354",
   "source_text": "Users",
-  "translated_text": "\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646"
+  "translated_text": "حسابات المستخدمين"
  },
  {
   "context": null,
@@ -1915,7 +1915,7 @@
   "modified": "2023-12-23 16:17:54.249203",
   "name": "71265009dc",
   "source_text": "Create Product",
-  "translated_text": "\u0627\u0646\u0634\u0627\u0621 \u0635\u0646\u0641 \u062c\u062f\u064a\u062f"
+  "translated_text": "انشاء صنف جديد"
  },
  {
   "context": null,
@@ -1929,7 +1929,7 @@
   "modified": "2023-12-23 16:17:54.237959",
   "name": "a8e40775db",
   "source_text": "Exchange Rate Revaluation Settings",
-  "translated_text": "\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0625\u0639\u0627\u062f\u0629 \u062a\u0642\u064a\u064a\u0645 \u0633\u0639\u0631 \u0627\u0644\u0635\u0631\u0641"
+  "translated_text": "إعدادات إعادة تقييم سعر الصرف"
  },
  {
   "context": null,
@@ -1943,7 +1943,7 @@
   "modified": "2023-12-23 16:17:54.228332",
   "name": "ce693d0fba",
   "source_text": "App Notification",
-  "translated_text": "\u0625\u0634\u0639\u0627\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642"
+  "translated_text": "إشعار التطبيق"
  },
  {
   "context": null,
@@ -1957,7 +1957,7 @@
   "modified": "2023-12-23 16:17:54.218121",
   "name": "2b14b80c56",
   "source_text": "Party Type",
-  "translated_text": "\u0646\u0648\u0639 \u0627\u0644\u0634\u062e\u0635"
+  "translated_text": "نوع الشخص"
  },
  {
   "context": null,
@@ -1971,7 +1971,7 @@
   "modified": "2023-12-23 16:17:54.208321",
   "name": "94de116303",
   "source_text": "Smart App Settings",
-  "translated_text": "\u0627\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0629 \u0627\u0644\u0630\u0643\u064a\u0629"
+  "translated_text": "اعدادات التطبيقة الذكية"
  },
  {
   "context": null,
@@ -1984,8 +1984,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:54.196089",
   "name": "86c21cba81",
-  "source_text": "New \u0637\u0644\u0628 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a",
-  "translated_text": "\u0637\u0644\u0628 \u0645\u0628\u064a\u0639\u0627\u062a \u062c\u062f\u064a\u062f"
+  "source_text": "New طلب المبيعات",
+  "translated_text": "طلب مبيعات جديد"
  },
  {
   "context": null,
@@ -1999,7 +1999,7 @@
   "modified": "2023-12-23 16:17:54.186975",
   "name": "df02f366de",
   "source_text": "Chance",
-  "translated_text": "\u0641\u0631\u0635\u0629"
+  "translated_text": "فرصة"
  },
  {
   "context": null,
@@ -2013,7 +2013,7 @@
   "modified": "2023-12-23 16:17:54.176201",
   "name": "c1f2e62854",
   "source_text": "Unit of Measure (UOM)",
-  "translated_text": "\u0648\u062d\u062f\u0629 \u0627\u0644\u0642\u064a\u0627\u0633 (UOM)"
+  "translated_text": "وحدة القياس (UOM)"
  },
  {
   "context": null,
@@ -2027,7 +2027,7 @@
   "modified": "2023-12-23 16:17:54.167083",
   "name": "72ff43743d",
   "source_text": "new-home-block-1",
-  "translated_text": "\u0642\u0633\u0645-\u0635\u062d\u0629-\u0631\u0626\u064a\u0633\u064a\u0629-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "قسم-صحة-رئيسية-جديد-1"
  },
  {
   "context": null,
@@ -2041,7 +2041,7 @@
   "modified": "2023-12-23 16:17:54.156931",
   "name": "ab848713d3",
   "source_text": "Create your first {0}",
-  "translated_text": "\u0642\u0645 \u0628\u0625\u0646\u0634\u0627\u0621 \u0627\u0648\u0644 \u0645\u0644\u0641 \u0645\u0646 {0}"
+  "translated_text": "قم بإنشاء اول ملف من {0}"
  },
  {
   "context": null,
@@ -2055,7 +2055,7 @@
   "modified": "2023-12-23 16:17:54.145847",
   "name": "df9fd97c25",
   "source_text": "Socials",
-  "translated_text": "\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a"
+  "translated_text": "مواقع التواصل الاجتماعي"
  },
  {
   "context": null,
@@ -2069,7 +2069,7 @@
   "modified": "2023-12-23 16:17:54.136984",
   "name": "7b4beb2f7c",
   "source_text": "Landscape",
-  "translated_text": "\u0639\u0631\u0636 \u0627\u0641\u0642\u064a"
+  "translated_text": "عرض افقي"
  },
  {
   "context": null,
@@ -2083,7 +2083,7 @@
   "modified": "2023-12-23 16:17:54.127403",
   "name": "2d6adc98af",
   "source_text": "Featured Categories",
-  "translated_text": "\u0627\u0644\u0641\u0626\u0627\u062a \u0627\u0644\u0645\u0645\u064a\u0632\u0629"
+  "translated_text": "الفئات المميزة"
  },
  {
   "context": null,
@@ -2097,7 +2097,7 @@
   "modified": "2023-12-23 16:17:54.117623",
   "name": "42229dfc17",
   "source_text": "Track if your email has been opened by the recipient.",
-  "translated_text": "\u062a\u062a\u0628\u0639 \u0645\u0627 \u0625\u0630\u0627 \u0643\u0627\u0646 \u0627\u0644\u0645\u0633\u062a\u0644\u0645 \u0642\u062f \u0641\u062a\u062d \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a."
+  "translated_text": "تتبع ما إذا كان المستلم قد فتح بريدك الإلكتروني."
  },
  {
   "context": null,
@@ -2111,7 +2111,7 @@
   "modified": "2023-12-23 16:17:54.108217",
   "name": "6fd511c078",
   "source_text": "Set New Password",
-  "translated_text": "\u062a\u0639\u064a\u064a\u0646 \u0643\u0644\u0645\u0629 \u0645\u0631\u0648\u0631 \u062c\u062f\u064a\u062f\u0629"
+  "translated_text": "تعيين كلمة مرور جديدة"
  },
  {
   "context": null,
@@ -2125,7 +2125,7 @@
   "modified": "2023-12-23 16:17:54.099118",
   "name": "8311e1c651",
   "source_text": "Naming series",
-  "translated_text": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u062a\u0633\u0644\u0633\u0644\u064a"
+  "translated_text": "الرقم التسلسلي"
  },
  {
   "context": null,
@@ -2139,7 +2139,7 @@
   "modified": "2023-12-23 16:17:54.090140",
   "name": "98abd53355",
   "source_text": "Address Line 1",
-  "translated_text": "\u0633\u0637\u0631 \u0627\u0644\u0639\u0646\u0648\u0627\u0646 1"
+  "translated_text": "سطر العنوان 1"
  },
  {
   "context": null,
@@ -2153,7 +2153,7 @@
   "modified": "2023-12-23 16:17:54.079938",
   "name": "3f4af12ded",
   "source_text": "JOD",
-  "translated_text": "\u062f\u064a\u0646\u0627\u0631"
+  "translated_text": "دينار"
  },
  {
   "context": null,
@@ -2167,7 +2167,7 @@
   "modified": "2023-12-23 16:17:54.070518",
   "name": "07587bc951",
   "source_text": "Enable Provisional Accounting For Non Stock Items",
-  "translated_text": "\u062a\u0645\u0643\u064a\u0646 \u0627\u0644\u0645\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0645\u0624\u0642\u062a\u0629 \u0644\u0644\u0628\u0646\u0648\u062f \u063a\u064a\u0631 \u0627\u0644\u0645\u062e\u0632\u0648\u0646\u0629"
+  "translated_text": "تمكين المحاسبة المؤقتة للبنود غير المخزونة"
  },
  {
   "context": null,
@@ -2181,7 +2181,7 @@
   "modified": "2023-12-23 16:17:54.060942",
   "name": "f04603627d",
   "source_text": "Share URL",
-  "translated_text": "\u0645\u0634\u0627\u0631\u0643\u0629 UR"
+  "translated_text": "مشاركة UR"
  },
  {
   "context": null,
@@ -2195,7 +2195,7 @@
   "modified": "2023-12-23 16:17:54.050757",
   "name": "dd6447e1ee",
   "source_text": "City/Town",
-  "translated_text": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629/\u0627\u0644\u0628\u0644\u062f\u0629"
+  "translated_text": "المدينة/البلدة"
  },
  {
   "context": null,
@@ -2209,7 +2209,7 @@
   "modified": "2023-12-23 16:17:54.041016",
   "name": "484f033ecf",
   "source_text": "Remove column",
-  "translated_text": "\u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u0639\u0645\u0648\u062f"
+  "translated_text": "إزالة العمود"
  },
  {
   "context": null,
@@ -2223,7 +2223,7 @@
   "modified": "2023-12-23 16:17:54.031380",
   "name": "41e9410d6e",
   "source_text": "Past Orders",
-  "translated_text": "\u0627\u0644\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0645\u0627\u0636\u064a\u0629"
+  "translated_text": "الطلبات الماضية"
  },
  {
   "context": null,
@@ -2237,7 +2237,7 @@
   "modified": "2023-12-23 16:17:54.019994",
   "name": "ff1e9936c8",
   "source_text": "Item-wise Sales",
-  "translated_text": "\u062d\u062c\u0645 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u062d\u0633\u0628 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a"
+  "translated_text": "حجم المبيعات حسب المنتجات"
  },
  {
   "context": null,
@@ -2251,7 +2251,7 @@
   "modified": "2023-12-23 16:17:54.006068",
   "name": "6a230f0fbd",
   "source_text": "List View",
-  "translated_text": "\u0639\u0631\u0636 \u0627\u0644\u0642\u0627\u0626\u0645\u0629"
+  "translated_text": "عرض القائمة"
  },
  {
   "context": null,
@@ -2265,7 +2265,7 @@
   "modified": "2023-12-23 16:17:53.994664",
   "name": "2764b0a970",
   "source_text": "24/7 Customer Support",
-  "translated_text": "\u062f\u0639\u0645\u0646\u0627 \u0627\u0644\u0645\u0633\u062a\u0645\u0631"
+  "translated_text": "دعمنا المستمر"
  },
  {
   "context": null,
@@ -2279,7 +2279,7 @@
   "modified": "2023-12-23 16:17:53.984555",
   "name": "354f841576",
   "source_text": "Last Updated By",
-  "translated_text": "\u0622\u062e\u0631 \u062a\u062d\u062f\u064a\u062b \u0628\u0648\u0627\u0633\u0637\u0629"
+  "translated_text": "آخر تحديث بواسطة"
  },
  {
   "context": null,
@@ -2293,7 +2293,7 @@
   "modified": "2023-12-23 16:17:53.972881",
   "name": "ae04636ca9",
   "source_text": "Apply Filters",
-  "translated_text": "\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0645\u0631\u0634\u062d\u0627\u062a"
+  "translated_text": "تطبيق المرشحات"
  },
  {
   "context": null,
@@ -2307,7 +2307,7 @@
   "modified": "2023-12-23 16:17:53.962896",
   "name": "5814399ce0",
   "source_text": "Payment Summary",
-  "translated_text": "\u0645\u0644\u062e\u0635 \u0627\u0644\u062f\u0641\u0639"
+  "translated_text": "ملخص الدفع"
  },
  {
   "context": null,
@@ -2320,8 +2320,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:53.952924",
   "name": "634d761409",
-  "source_text": "New \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0623\u0633\u0639\u0627\u0631",
-  "translated_text": "\u0642\u0627\u0626\u0645\u0629 \u0623\u0633\u0639\u0627\u0631 \u062c\u062f\u064a\u062f\u0629"
+  "source_text": "New قائمة الأسعار",
+  "translated_text": "قائمة أسعار جديدة"
  },
  {
   "context": null,
@@ -2335,7 +2335,7 @@
   "modified": "2023-12-23 16:17:53.943338",
   "name": "ab992df6c8",
   "source_text": "Our extremely fast shipping will unite you with your order in no time!",
-  "translated_text": "\u0633\u0648\u0641 \u064a\u062c\u0645\u0639\u0643 \u0627\u0644\u0634\u062d\u0646 \u0627\u0644\u0633\u0631\u064a\u0639 \u0644\u0644\u063a\u0627\u064a\u0629 \u0644\u062f\u064a\u0646\u0627 \u0645\u0639 \u0637\u0644\u0628\u0643 \u0641\u064a \u0623\u064a \u0648\u0642\u062a \u0645\u0646 \u0627\u0644\u0623\u0648\u0642\u0627\u062a"
+  "translated_text": "سوف يجمعك الشحن السريع للغاية لدينا مع طلبك في أي وقت من الأوقات"
  },
  {
   "context": null,
@@ -2349,7 +2349,7 @@
   "modified": "2023-12-23 16:17:53.929845",
   "name": "9693a4af73",
   "source_text": "Source Text",
-  "translated_text": "\u0627\u0644\u0646\u0635 \u0627\u0644\u0623\u0635\u0644\u064a"
+  "translated_text": "النص الأصلي"
  },
  {
   "context": null,
@@ -2363,7 +2363,7 @@
   "modified": "2023-12-23 16:17:53.919715",
   "name": "35d2fbe9fc",
   "source_text": "{0} of {1}",
-  "translated_text": "{0} \u0645\u0646 \u0627\u0635\u0644 {1}"
+  "translated_text": "{0} من اصل {1}"
  },
  {
   "context": null,
@@ -2376,8 +2376,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:53.910131",
   "name": "0bfd0da5db",
-  "source_text": "New \u0628\u0627\u0646\u0631",
-  "translated_text": "\u0628\u0627\u0646\u0631 \u062c\u062f\u064a\u062f"
+  "source_text": "New بانر",
+  "translated_text": "بانر جديد"
  },
  {
   "context": null,
@@ -2391,7 +2391,7 @@
   "modified": "2023-12-23 16:17:53.899110",
   "name": "44faa03f40",
   "source_text": "Keep Browsing",
-  "translated_text": "\u0627\u0633\u062a\u0645\u0631 \u0641\u064a \u0627\u0644\u062a\u0635\u0641\u062d"
+  "translated_text": "استمر في التصفح"
  },
  {
   "context": null,
@@ -2405,7 +2405,7 @@
   "modified": "2023-12-23 16:17:53.889045",
   "name": "ca37aaaa53",
   "source_text": "Accounts Receivable Summary",
-  "translated_text": "\u0645\u0644\u062e\u0635 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u062f\u064a\u0646\u0629"
+  "translated_text": "ملخص الحسابات المدينة"
  },
  {
   "context": null,
@@ -2419,7 +2419,7 @@
   "modified": "2023-12-23 16:17:53.879241",
   "name": "bf203efb0a",
   "source_text": "MyFatoorah-Debit Card",
-  "translated_text": "\u0645\u0627\u064a \u0641\u0627\u062a\u0648\u0631\u0629 - \u0628\u0637\u0627\u0642\u0629 \u0627\u0644\u062e\u0635\u0645 \u0627\u0644\u0645\u0628\u0627\u0634\u0631"
+  "translated_text": "ماي فاتورة - بطاقة الخصم المباشر"
  },
  {
   "context": null,
@@ -2433,7 +2433,7 @@
   "modified": "2023-12-23 16:17:53.868924",
   "name": "de0b8053f7",
   "source_text": "Allocated amount",
-  "translated_text": "\u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u0645\u062e\u0635\u0635"
+  "translated_text": "المبلغ المخصص"
  },
  {
   "context": null,
@@ -2447,7 +2447,7 @@
   "modified": "2023-12-23 16:17:53.859412",
   "name": "2625e98f68",
   "source_text": "Featured Products",
-  "translated_text": "\u0645\u0646\u062a\u062c\u0627\u062a \u0645\u0645\u064a\u0632\u0629"
+  "translated_text": "منتجات مميزة"
  },
  {
   "context": null,
@@ -2461,7 +2461,7 @@
   "modified": "2023-12-23 16:17:53.850044",
   "name": "d976fbe391",
   "source_text": "Address Line 2",
-  "translated_text": "\u0633\u0637\u0631 \u0627\u0644\u0639\u0646\u0648\u0627\u0646 2"
+  "translated_text": "سطر العنوان 2"
  },
  {
   "context": null,
@@ -2475,7 +2475,7 @@
   "modified": "2023-12-23 16:17:53.840063",
   "name": "c11d135ad5",
   "source_text": "New Item",
-  "translated_text": "\u0645\u0646\u062a\u062c \u062c\u062f\u064a\u062f"
+  "translated_text": "منتج جديد"
  },
  {
   "context": null,
@@ -2489,7 +2489,7 @@
   "modified": "2023-12-23 16:17:53.830052",
   "name": "1b882dc19f",
   "source_text": "Module",
-  "translated_text": "\u0627\u0644\u0648\u062d\u062f\u0629"
+  "translated_text": "الوحدة"
  },
  {
   "context": null,
@@ -2503,7 +2503,7 @@
   "modified": "2023-12-23 16:17:53.820196",
   "name": "42b8ab5662",
   "source_text": "Is Cash or Non Trade Discount",
-  "translated_text": "\u0643\u0627\u0634 \u0627\u0648 \u062e\u0635\u0645 \u063a\u064a\u0631 \u062a\u062c\u0627\u0631\u064a"
+  "translated_text": "كاش او خصم غير تجاري"
  },
  {
   "context": null,
@@ -2517,7 +2517,7 @@
   "modified": "2023-12-23 16:17:53.810140",
   "name": "7921170422",
   "source_text": "Shop by Category",
-  "translated_text": "\u062a\u0633\u0648\u0642 \u062d\u0633\u0628 \u0627\u0644\u0627\u0642\u0633\u0627\u0645"
+  "translated_text": "تسوق حسب الاقسام"
  },
  {
   "context": null,
@@ -2531,7 +2531,7 @@
   "modified": "2023-12-23 16:17:53.799580",
   "name": "6e0e11092e",
   "source_text": "MyFatoorah - Credit Card Embedded",
-  "translated_text": "\u0645\u0627\u064a \u0641\u0627\u062a\u0648\u0631\u0629 - \u0628\u0637\u0627\u0642\u0629 \u0627\u0644\u0627\u0626\u062a\u0645\u0627\u0646 \u0645\u062f\u0645\u062c\u0629"
+  "translated_text": "ماي فاتورة - بطاقة الائتمان مدمجة"
  },
  {
   "context": null,
@@ -2545,7 +2545,7 @@
   "modified": "2023-12-23 16:17:53.790036",
   "name": "115e844344",
   "source_text": "Refreshing...",
-  "translated_text": "\u062a\u062d\u062f\u064a\u062b ..."
+  "translated_text": "تحديث ..."
  },
  {
   "context": null,
@@ -2559,7 +2559,7 @@
   "modified": "2023-12-23 16:17:53.780415",
   "name": "d345ec3d3b",
   "source_text": "Address Title",
-  "translated_text": "\u0627\u0644\u0639\u0646\u0648\u0627\u0646"
+  "translated_text": "العنوان"
  },
  {
   "context": null,
@@ -2573,7 +2573,7 @@
   "modified": "2023-12-23 16:17:53.771116",
   "name": "1c51995620",
   "source_text": "Our support team is always available to answer your questions!",
-  "translated_text": "\u0641\u0631\u064a\u0642 \u0627\u0644\u062f\u0639\u0645 \u0644\u062f\u064a\u0646\u0627 \u0645\u062a\u0648\u0627\u062c\u062f \u062f\u0627\u0626\u0645\u064b\u0627 \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0623\u0633\u0626\u0644\u062a\u0643"
+  "translated_text": "فريق الدعم لدينا متواجد دائمًا للإجابة على أسئلتك"
  },
  {
   "context": null,
@@ -2587,7 +2587,7 @@
   "modified": "2023-12-23 16:17:53.761474",
   "name": "f08e385f12",
   "source_text": "Unrealized Profit / Loss Account",
-  "translated_text": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0631\u0628\u062d/\u0627\u0644\u062e\u0633\u0627\u0631\u0629 \u063a\u064a\u0631 \u0627\u0644\u0645\u062d\u0642\u0642"
+  "translated_text": "حساب الربح/الخسارة غير المحقق"
  },
  {
   "context": null,
@@ -2601,7 +2601,7 @@
   "modified": "2023-12-23 16:17:53.752552",
   "name": "771a8064b5",
   "source_text": "Terms and conditions",
-  "translated_text": "\u0627\u0644\u0623\u062d\u0643\u0627\u0645 \u0648\u0627\u0644\u0634\u0631\u0648\u0637"
+  "translated_text": "الأحكام والشروط"
  },
  {
   "context": null,
@@ -2615,7 +2615,7 @@
   "modified": "2023-12-23 16:17:53.743133",
   "name": "d2ea8d9b8a",
   "source_text": "You haven't created a journal entry yet",
-  "translated_text": "\u0644\u0645 \u062a\u0642\u0645 \u0628\u0625\u0646\u0634\u0627\u0621 \u0625\u062f\u062e\u0627\u0644 \u062f\u0641\u062a\u0631 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 \u062d\u062a\u0649 \u0627\u0644\u0622\u0646"
+  "translated_text": "لم تقم بإنشاء إدخال دفتر اليومية حتى الآن"
  },
  {
   "context": null,
@@ -2629,7 +2629,7 @@
   "modified": "2023-12-23 16:17:53.732559",
   "name": "266438f472",
   "source_text": "Is",
-  "translated_text": "\u0647\u0648"
+  "translated_text": "هو"
  },
  {
   "context": null,
@@ -2643,7 +2643,7 @@
   "modified": "2023-12-23 16:17:53.721389",
   "name": "88f7074fad",
   "source_text": "of",
-  "translated_text": "\u0645\u0646"
+  "translated_text": "من"
  },
  {
   "context": null,
@@ -2657,7 +2657,7 @@
   "modified": "2023-12-23 16:17:53.710941",
   "name": "15630e3f0e",
   "source_text": "{0} w",
-  "translated_text": "{0} \u0627\u0633\u0628\u0648\u0639 \u0645\u0636\u0649"
+  "translated_text": "{0} اسبوع مضى"
  },
  {
   "context": null,
@@ -2671,7 +2671,7 @@
   "modified": "2023-12-23 16:17:53.701400",
   "name": "efa16b6652",
   "source_text": "Street Number",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0634\u0627\u0631\u0639"
+  "translated_text": "رقم الشارع"
  },
  {
   "context": null,
@@ -2684,8 +2684,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:53.685080",
   "name": "8c3a58ed8d",
-  "source_text": "New \u0633\u0639\u0631 \u0627\u0644\u0645\u0646\u062a\u062c",
-  "translated_text": "\u0633\u0639\u0631 \u0645\u0646\u062a\u062c \u062c\u062f\u064a\u062f"
+  "source_text": "New سعر المنتج",
+  "translated_text": "سعر منتج جديد"
  },
  {
   "context": null,
@@ -2699,7 +2699,7 @@
   "modified": "2023-12-23 16:17:53.675906",
   "name": "044f685f2f",
   "source_text": "{0} m",
-  "translated_text": "{0} \u062f\u0642\u064a\u0642\u0629 \u0645\u0636\u062a"
+  "translated_text": "{0} دقيقة مضت"
  },
  {
   "context": null,
@@ -2713,7 +2713,7 @@
   "modified": "2023-12-23 16:17:53.666836",
   "name": "292856f583",
   "source_text": "new-contact-2",
-  "translated_text": "\u062c\u0647\u0629-\u0627\u062a\u0635\u0627\u0644-\u062c\u062f\u064a\u062f\u0629-2"
+  "translated_text": "جهة-اتصال-جديدة-2"
  },
  {
   "context": null,
@@ -2727,7 +2727,7 @@
   "modified": "2023-12-23 16:17:53.657439",
   "name": "3f88ebf2e3",
   "source_text": "Default Provisional Account",
-  "translated_text": "\u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0624\u0642\u062a \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+  "translated_text": "الحساب المؤقت الافتراضي"
  },
  {
   "context": null,
@@ -2741,7 +2741,7 @@
   "modified": "2023-12-23 16:17:53.647906",
   "name": "83e54adbd1",
   "source_text": "new-sales-order-1",
-  "translated_text": "\u0637\u0644\u0628-\u0645\u0628\u064a\u0639\u0627\u062a-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "طلب-مبيعات-جديد-1"
  },
  {
   "context": null,
@@ -2755,7 +2755,7 @@
   "modified": "2023-12-23 16:17:53.638531",
   "name": "7a9143ada6",
   "source_text": "{0} M",
-  "translated_text": "{0} \u0634\u0647\u0631 \u0645\u0636\u0649"
+  "translated_text": "{0} شهر مضى"
  },
  {
   "context": null,
@@ -2769,7 +2769,7 @@
   "modified": "2023-12-23 16:17:53.628533",
   "name": "429a8643c3",
   "source_text": "new-item-price-1",
-  "translated_text": "\u0633\u0639\u0631-\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "سعر-منتج-جديد-1"
  },
  {
   "context": null,
@@ -2783,7 +2783,7 @@
   "modified": "2023-12-23 16:17:53.618427",
   "name": "4835c35367",
   "source_text": "Card Entry",
-  "translated_text": "\u0625\u062f\u062e\u0627\u0644 \u0627\u0644\u0628\u0637\u0627\u0642\u0629"
+  "translated_text": "إدخال البطاقة"
  },
  {
   "context": null,
@@ -2797,7 +2797,7 @@
   "modified": "2023-12-23 16:17:53.608520",
   "name": "2c1bb927e0",
   "source_text": "Edit Filters",
-  "translated_text": "\u062a\u0639\u062f\u064a\u0644 \u0627\u0644\u0645\u0631\u0634\u062d\u0627\u062a"
+  "translated_text": "تعديل المرشحات"
  },
  {
   "context": null,
@@ -2811,7 +2811,7 @@
   "modified": "2023-12-23 16:17:53.597803",
   "name": "3e035bcd8b",
   "source_text": "Enable Push Notification",
-  "translated_text": "\u062a\u0641\u0639\u064a\u0644 \u0627\u0644\u0627\u0634\u0639\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0629"
+  "translated_text": "تفعيل الاشعارات المدفوعة"
  },
  {
   "context": null,
@@ -2825,7 +2825,7 @@
   "modified": "2023-12-23 16:17:53.588943",
   "name": "4064e6aa6d",
   "source_text": "Your cart is Empty",
-  "translated_text": "\u0633\u0644\u0629 \u0627\u0644\u062a\u0633\u0648\u0642 \u0641\u0627\u0631\u063a\u0629"
+  "translated_text": "سلة التسوق فارغة"
  },
  {
   "context": null,
@@ -2839,7 +2839,7 @@
   "modified": "2023-12-23 16:17:53.577780",
   "name": "8d9450e4f7",
   "source_text": "Item Group",
-  "translated_text": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0639\u0646\u0627\u0635\u0631"
+  "translated_text": "مجموعة العناصر"
  },
  {
   "context": null,
@@ -2853,7 +2853,7 @@
   "modified": "2023-12-23 16:17:53.568573",
   "name": "e93462b6b9",
   "source_text": "Mobile Banner",
-  "translated_text": "\u0628\u0627\u0646\u0631\u0627\u062a \u0627\u0644\u0634\u0627\u0634\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"
+  "translated_text": "بانرات الشاشة الرئيسية"
  },
  {
   "context": null,
@@ -2867,7 +2867,7 @@
   "modified": "2023-12-23 16:17:53.559666",
   "name": "4594a97e83",
   "source_text": "Receiver By Role",
-  "translated_text": "\u0627\u0644\u0645\u0633\u062a\u0644\u0645 \u062d\u0633\u0628 \u0627\u0644\u062f\u0648\u0631"
+  "translated_text": "المستلم حسب الدور"
  },
  {
   "context": null,
@@ -2881,7 +2881,7 @@
   "modified": "2023-12-23 16:17:53.550777",
   "name": "6681803c98",
   "source_text": "Agent Customers",
-  "translated_text": "\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0645\u0646\u0627\u062f\u064a\u0628"
+  "translated_text": "عملاء المناديب"
  },
  {
   "context": null,
@@ -2895,7 +2895,7 @@
   "modified": "2023-12-23 16:17:53.541145",
   "name": "351f2df0b5",
   "source_text": "Create Account",
-  "translated_text": "\u0625\u0646\u0634\u0627\u0621 \u062d\u0633\u0627\u0628"
+  "translated_text": "إنشاء حساب"
  },
  {
   "context": null,
@@ -2909,7 +2909,7 @@
   "modified": "2023-12-23 16:17:53.532168",
   "name": "48956d4d42",
   "source_text": "See all Activity",
-  "translated_text": "\u0634\u0627\u0647\u062f \u0643\u0644 \u0627\u0644\u0646\u0634\u0627\u0637"
+  "translated_text": "شاهد كل النشاط"
  },
  {
   "context": null,
@@ -2923,7 +2923,7 @@
   "modified": "2023-12-23 16:17:53.522949",
   "name": "ec7cf3456f",
   "source_text": "new-website-item-4",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-\u0645\u0639\u0631\u0648\u0636 \u0641\u064a \u0627\u0644\u0645\u0648\u0642\u0639-4"
+  "translated_text": "منتج-جديد-معروض في الموقع-4"
  },
  {
   "context": null,
@@ -2937,7 +2937,7 @@
   "modified": "2023-12-23 16:17:53.512554",
   "name": "9ce704d409",
   "source_text": "Last Updated On",
-  "translated_text": "\u0622\u062e\u0631 \u062a\u062d\u062f\u064a\u062b \u0641\u064a"
+  "translated_text": "آخر تحديث في"
  },
  {
   "context": null,
@@ -2951,7 +2951,7 @@
   "modified": "2023-12-23 16:17:53.503311",
   "name": "7299221e42",
   "source_text": "{0} d",
-  "translated_text": "{0} \u064a\u0648\u0645 \u0645\u0636\u0649"
+  "translated_text": "{0} يوم مضى"
  },
  {
   "context": null,
@@ -2965,7 +2965,7 @@
   "modified": "2023-12-23 16:17:53.494305",
   "name": "a44fa50bd9",
   "source_text": "Country",
-  "translated_text": "\u0627\u0644\u0628\u0644\u062f"
+  "translated_text": "البلد"
  },
  {
   "context": null,
@@ -2979,7 +2979,7 @@
   "modified": "2023-12-23 16:17:53.483981",
   "name": "b1c52edd47",
   "source_text": "Show Net Values in Party Account",
-  "translated_text": "\u0625\u0638\u0647\u0627\u0631 \u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0635\u0627\u0641\u064a\u0629 \u0641\u064a \u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629"
+  "translated_text": "إظهار القيم الصافية في حساب المجموعة"
  },
  {
   "context": null,
@@ -2993,7 +2993,7 @@
   "modified": "2023-12-23 16:17:53.475138",
   "name": "599a0a4285",
   "source_text": "Administrator",
-  "translated_text": "\u0645\u062f\u064a\u0631"
+  "translated_text": "مدير"
  },
  {
   "context": null,
@@ -3007,7 +3007,7 @@
   "modified": "2023-12-23 16:17:53.465874",
   "name": "9bb10270cd",
   "source_text": "Channel",
-  "translated_text": "\u0642\u0646\u0627\u0629"
+  "translated_text": "قناة"
  },
  {
   "context": null,
@@ -3021,7 +3021,7 @@
   "modified": "2023-12-23 16:17:53.456415",
   "name": "12cc1c4de9",
   "source_text": "new-purchase-invoice-1",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629-\u0634\u0631\u0627\u0621-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "فاتورة-شراء-جديدة-1"
  },
  {
   "context": null,
@@ -3035,7 +3035,7 @@
   "modified": "2023-12-23 16:17:53.447112",
   "name": "73e3a3a543",
   "source_text": "Orders",
-  "translated_text": "\u0627\u0644\u0637\u0644\u0628\u0627\u062a"
+  "translated_text": "الطلبات"
  },
  {
   "context": null,
@@ -3049,7 +3049,7 @@
   "modified": "2023-12-23 16:17:53.437109",
   "name": "192ced8926",
   "source_text": "No contacts added yet.",
-  "translated_text": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0636\u0627\u0641\u0629 \u0627\u064a \u062c\u0647\u0629 \u0627\u062a\u0635\u0627\u0644 \u0628\u0639\u062f"
+  "translated_text": "لم يتم اضافة اي جهة اتصال بعد"
  },
  {
   "context": null,
@@ -3063,7 +3063,7 @@
   "modified": "2023-12-23 16:17:53.427333",
   "name": "017f89e9b4",
   "source_text": "Sort Descending",
-  "translated_text": "\u062a\u0631\u062a\u064a\u0628 \u062a\u0646\u0627\u0632\u0644\u064a\u064d"
+  "translated_text": "ترتيب تنازليٍ"
  },
  {
   "context": null,
@@ -3077,7 +3077,7 @@
   "modified": "2023-12-23 16:17:53.417960",
   "name": "d8374827c1",
   "source_text": "Notification",
-  "translated_text": "\u0625\u0634\u0639\u0627\u0631"
+  "translated_text": "إشعار"
  },
  {
   "context": null,
@@ -3091,7 +3091,7 @@
   "modified": "2023-12-23 16:17:53.408758",
   "name": "68419d3628",
   "source_text": "Add Column",
-  "translated_text": "\u0623\u0636\u0641 \u0639\u0645\u0648\u062f"
+  "translated_text": "أضف عمود"
  },
  {
   "context": null,
@@ -3105,7 +3105,7 @@
   "modified": "2023-12-23 16:17:53.398758",
   "name": "78bf66a42c",
   "source_text": "Overview",
-  "translated_text": "\u0645\u0644\u062e\u0635"
+  "translated_text": "ملخص"
  },
  {
   "context": null,
@@ -3119,7 +3119,7 @@
   "modified": "2023-12-23 16:17:53.388473",
   "name": "3c603b6c86",
   "source_text": "new-product-options-1",
-  "translated_text": "\u062e\u064a\u0627\u0631\u0627\u062a-\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "خيارات-منتج-جديدة-1"
  },
  {
   "context": null,
@@ -3133,7 +3133,7 @@
   "modified": "2023-12-23 16:17:53.375348",
   "name": "7ac216c545",
   "source_text": "Contact",
-  "translated_text": "\u0627\u062a\u0635\u0627\u0644"
+  "translated_text": "اتصال"
  },
  {
   "context": null,
@@ -3147,7 +3147,7 @@
   "modified": "2023-12-23 16:17:53.365977",
   "name": "e8e7ac747a",
   "source_text": "Default Receivable Accounts",
-  "translated_text": "\u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a \u0644\u0644\u062f\u0627\u0626\u0646\u0648\u0646"
+  "translated_text": "الحساب الافتراضي للدائنون"
  },
  {
   "context": null,
@@ -3161,7 +3161,7 @@
   "modified": "2023-12-23 16:17:53.356540",
   "name": "f6d43337ef",
   "source_text": "Invoice and Serial No",
-  "translated_text": "\u0627\u0644\u0641\u0648\u0627\u062a\u064a\u0631 \u0648\u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u0633\u0631\u064a\u0629"
+  "translated_text": "الفواتير والارقام السرية"
  },
  {
   "context": null,
@@ -3175,7 +3175,7 @@
   "modified": "2023-12-23 16:17:53.347157",
   "name": "d201d5a23c",
   "source_text": "Log out",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062e\u0631\u0648\u062c"
+  "translated_text": "تسجيل الخروج"
  },
  {
   "context": null,
@@ -3189,7 +3189,7 @@
   "modified": "2023-12-23 16:17:53.337138",
   "name": "82176fe214",
   "source_text": "new-sales-invoice-1",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629-\u0645\u0628\u064a\u0639\u0627\u062a-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "فاتورة-مبيعات-جديدة-1"
  },
  {
   "context": null,
@@ -3203,7 +3203,7 @@
   "modified": "2023-12-23 16:17:53.327595",
   "name": "e8b081220a",
   "source_text": "Entry Type",
-  "translated_text": "\u0646\u0648\u0639 \u0627\u0644\u0642\u0627\u0644\u0628"
+  "translated_text": "نوع القالب"
  },
  {
   "context": null,
@@ -3217,7 +3217,7 @@
   "modified": "2023-12-23 16:17:53.317919",
   "name": "5396664170",
   "source_text": "Execution Time: {0} sec",
-  "translated_text": "\u0648\u0642\u062a \u0627\u0644\u062a\u0646\u0641\u064a\u0630 \u0627\u0644\u0645\u0633\u062a\u063a\u0631: {0} \u062b\u0627\u0646\u064a\u0629"
+  "translated_text": "وقت التنفيذ المستغر: {0} ثانية"
  },
  {
   "context": null,
@@ -3231,7 +3231,7 @@
   "modified": "2023-12-23 16:17:53.305540",
   "name": "83391167e6",
   "source_text": "Your order was successfully placed",
-  "translated_text": "\u062a\u0645 \u062a\u0642\u062f\u064a\u0645 \u0637\u0644\u0628\u0643 \u0628\u0646\u062c\u0627\u062d"
+  "translated_text": "تم تقديم طلبك بنجاح"
  },
  {
   "context": null,
@@ -3245,7 +3245,7 @@
   "modified": "2023-12-23 16:17:53.295327",
   "name": "b66a52d4f8",
   "source_text": "Submit this document to confirm",
-  "translated_text": "\u0642\u0645 \u0628\u062a\u0633\u062c\u064a\u0644 \u0647\u0630\u0627 \u0627\u0644\u0645\u0633\u062a\u0646\u062f \u0644\u0644\u062a\u0627\u0643\u064a\u062f \u0648\u0627\u0644\u062d\u0641\u0638"
+  "translated_text": "قم بتسجيل هذا المستند للتاكيد والحفظ"
  },
  {
   "context": null,
@@ -3259,7 +3259,7 @@
   "modified": "2023-12-23 16:17:53.285915",
   "name": "26ae7cc6cb",
   "source_text": "Party",
-  "translated_text": "\u0627\u0644\u0627\u0633\u0645 \u0627\u0648 \u0627\u0644\u0635\u0641\u0629"
+  "translated_text": "الاسم او الصفة"
  },
  {
   "context": null,
@@ -3273,7 +3273,7 @@
   "modified": "2023-12-23 16:17:53.276971",
   "name": "f132d87240",
   "source_text": "Not In",
-  "translated_text": "\u0644\u064a\u0633 \u0641\u064a"
+  "translated_text": "ليس في"
  },
  {
   "context": null,
@@ -3287,7 +3287,7 @@
   "modified": "2023-12-23 16:17:53.267899",
   "name": "184a6f2edc",
   "source_text": "Receive",
-  "translated_text": "\u0642\u0628\u0636"
+  "translated_text": "قبض"
  },
  {
   "context": null,
@@ -3301,7 +3301,7 @@
   "modified": "2023-12-23 16:17:53.257323",
   "name": "92447c4b05",
   "source_text": "Block List",
-  "translated_text": "\u0623\u0642\u0633\u0627\u0645 \u0627\u0644\u0634\u0627\u0634\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"
+  "translated_text": "أقسام الشاشة الرئيسية"
  },
  {
   "context": null,
@@ -3315,7 +3315,7 @@
   "modified": "2023-12-23 16:17:53.246888",
   "name": "97f757bd1b",
   "source_text": "Top Customers",
-  "translated_text": "\u0627\u0628\u0631\u0632 \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+  "translated_text": "ابرز العملاء"
  },
  {
   "context": null,
@@ -3329,7 +3329,7 @@
   "modified": "2023-12-23 16:17:53.236250",
   "name": "2b09a24ef4",
   "source_text": "Ender Process",
-  "translated_text": "\u062a\u062d\u062a \u0627\u0644\u0627\u062c\u0631\u0627\u0621"
+  "translated_text": "تحت الاجراء"
  },
  {
   "context": null,
@@ -3343,7 +3343,7 @@
   "modified": "2023-12-23 16:17:53.227436",
   "name": "c0b7aeba44",
   "source_text": "{0} filters",
-  "translated_text": "\u0627\u0644\u062a\u0635\u0641\u064a\u0627\u062a ({0})"
+  "translated_text": "التصفيات ({0})"
  },
  {
   "context": null,
@@ -3357,7 +3357,7 @@
   "modified": "2023-12-23 16:17:53.218123",
   "name": "1c21c92f82",
   "source_text": "Payment Entry",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u0641\u0639\u0627\u062a"
+  "translated_text": "تسجيل الدفعات"
  },
  {
   "context": null,
@@ -3371,7 +3371,7 @@
   "modified": "2023-12-23 16:17:53.208182",
   "name": "ed63fa4231",
   "source_text": "Available Wallet Units",
-  "translated_text": "\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u062d\u0641\u0638\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629"
+  "translated_text": "وحدات المحفظة المتاحة"
  },
  {
   "context": null,
@@ -3385,7 +3385,7 @@
   "modified": "2023-12-23 16:17:53.197554",
   "name": "da720b2d43",
   "source_text": "Continue Shopping",
-  "translated_text": "\u0645\u0648\u0627\u0635\u0644\u0629 \u0627\u0644\u062a\u0633\u0648\u0642"
+  "translated_text": "مواصلة التسوق"
  },
  {
   "context": null,
@@ -3399,7 +3399,7 @@
   "modified": "2023-12-23 16:17:53.188039",
   "name": "5a898a6013",
   "source_text": "My Settings",
-  "translated_text": "\u0627\u0639\u062f\u0627\u062f\u0627\u062a\u064a"
+  "translated_text": "اعداداتي"
  },
  {
   "context": null,
@@ -3413,7 +3413,7 @@
   "modified": "2023-12-23 16:17:53.179157",
   "name": "293d49a8e9",
   "source_text": "Select Dashboard",
-  "translated_text": "\u062d\u062f\u062f \u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645"
+  "translated_text": "حدد لوحة التحكم"
  },
  {
   "context": null,
@@ -3427,7 +3427,7 @@
   "modified": "2023-12-23 16:17:53.170117",
   "name": "15e46d6621",
   "source_text": "Translated Text",
-  "translated_text": "\u0627\u0644\u0646\u0635 \u0627\u0644\u0645\u062a\u0631\u062c\u0645"
+  "translated_text": "النص المترجم"
  },
  {
   "context": null,
@@ -3441,7 +3441,7 @@
   "modified": "2023-12-23 16:17:53.160666",
   "name": "759675c1cb",
   "source_text": "Function",
-  "translated_text": "\u0627\u0644\u0648\u0638\u064a\u0641\u0629"
+  "translated_text": "الوظيفة"
  },
  {
   "context": null,
@@ -3455,7 +3455,7 @@
   "modified": "2023-12-23 16:17:53.151474",
   "name": "b3e012e8fc",
   "source_text": "Credit Card Payment",
-  "translated_text": "\u0627\u0644\u062f\u0641\u0639 \u0628\u0627\u0644\u0628\u0637\u0627\u0642\u0629 \u0627\u0644\u0627\u0626\u062a\u0645\u0627\u0646\u064a\u0629"
+  "translated_text": "الدفع بالبطاقة الائتمانية"
  },
  {
   "context": null,
@@ -3469,7 +3469,7 @@
   "modified": "2023-12-23 16:17:53.142131",
   "name": "28e5f633b5",
   "source_text": "new-customer-2",
-  "translated_text": "\u0639\u0645\u064a\u0644-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "عميل-جديد-2"
  },
  {
   "context": null,
@@ -3483,7 +3483,7 @@
   "modified": "2023-12-23 16:17:53.131643",
   "name": "2e77fbda71",
   "source_text": "Reports & Masters",
-  "translated_text": "\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631"
+  "translated_text": "التقارير"
  },
  {
   "context": null,
@@ -3497,7 +3497,7 @@
   "modified": "2023-12-23 16:17:53.121513",
   "name": "be7b4f1128",
   "source_text": "Receivable Accounts",
-  "translated_text": "\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u062f\u0627\u0626\u0646\u0648\u0646"
+  "translated_text": "حسابات الدائنون"
  },
  {
   "context": null,
@@ -3511,7 +3511,7 @@
   "modified": "2023-12-23 16:17:53.112584",
   "name": "69ba462d03",
   "source_text": "Energy Point Log",
-  "translated_text": "\u0633\u062c\u0644 \u0646\u0642\u0637\u0629 \u0627\u0644\u0637\u0627\u0642\u0629"
+  "translated_text": "سجل نقطة الطاقة"
  },
  {
   "context": null,
@@ -3525,7 +3525,7 @@
   "modified": "2023-12-23 16:17:53.102374",
   "name": "90168c9244",
   "source_text": "Kanban",
-  "translated_text": "\u0643\u0627\u0646\u0628\u0627\u0646"
+  "translated_text": "كانبان"
  },
  {
   "context": null,
@@ -3539,7 +3539,7 @@
   "modified": "2023-12-23 16:17:53.091330",
   "name": "8b45f45b6a",
   "source_text": "Ignore Closing Balance",
-  "translated_text": "\u062a\u062c\u0627\u0647\u0644 \u0627\u0644\u0627\u0631\u0635\u062f\u0629 \u0627\u0644\u0645\u063a\u0644\u0642\u0629"
+  "translated_text": "تجاهل الارصدة المغلقة"
  },
  {
   "context": null,
@@ -3553,7 +3553,7 @@
   "modified": "2023-12-23 16:17:53.082023",
   "name": "967cfa9e07",
   "source_text": "Save",
-  "translated_text": "\u062d\u0641\u0638"
+  "translated_text": "حفظ"
  },
  {
   "context": null,
@@ -3567,7 +3567,7 @@
   "modified": "2023-12-23 16:17:53.071742",
   "name": "0b336b5a42",
   "source_text": "Wallets and Invoices",
-  "translated_text": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638 \u0648\u0627\u0644\u0641\u0648\u0627\u062a\u064a\u0631"
+  "translated_text": "المحافظ والفواتير"
  },
  {
   "context": null,
@@ -3581,7 +3581,7 @@
   "modified": "2023-12-23 16:17:53.061024",
   "name": "31efba17ec",
   "source_text": "new-website-item-1",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-\u0645\u0639\u0631\u0648\u0636 \u0641\u064a \u0627\u0644\u0645\u0648\u0642\u0639-1"
+  "translated_text": "منتج-جديد-معروض في الموقع-1"
  },
  {
   "context": null,
@@ -3595,7 +3595,7 @@
   "modified": "2023-12-23 16:17:53.051336",
   "name": "df88820988",
   "source_text": "Created By",
-  "translated_text": "\u0627\u0646\u0634\u0623 \u0645\u0646 \u0642\u0628\u0644"
+  "translated_text": "انشأ من قبل"
  },
  {
   "context": null,
@@ -3609,7 +3609,7 @@
   "modified": "2023-12-23 16:17:53.040254",
   "name": "74289a2efc",
   "source_text": "All Products",
-  "translated_text": "\u0643\u0644 \u0627\u0644\u0645\u0646\u062a\u0648\u062c\u0627\u062a"
+  "translated_text": "كل المنتوجات"
  },
  {
   "context": null,
@@ -3623,7 +3623,7 @@
   "modified": "2023-12-23 16:17:53.031128",
   "name": "7b67d3df9c",
   "source_text": "Jocards Sales Register",
-  "translated_text": "\u0633\u062c\u0644 \u0645\u0628\u064a\u0639\u0627\u062a \u062c\u0648\u0643\u0627\u0631\u062f\u0632"
+  "translated_text": "سجل مبيعات جوكاردز"
  },
  {
   "context": null,
@@ -3637,7 +3637,7 @@
   "modified": "2023-12-23 16:17:53.021049",
   "name": "fc89c0be6a",
   "source_text": "new-sales-invoice-3",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629-\u0645\u0628\u064a\u0639\u0627\u062a-\u062c\u062f\u064a\u062f\u0629-3"
+  "translated_text": "فاتورة-مبيعات-جديدة-3"
  },
  {
   "context": null,
@@ -3651,7 +3651,7 @@
   "modified": "2023-12-23 16:17:53.010739",
   "name": "36dcf41c0d",
   "source_text": "Fixed Asset Defaults",
-  "translated_text": "\u0627\u0641\u062a\u0631\u0627\u0636\u064a\u0627\u062a \u0627\u0644\u0623\u0635\u0648\u0644 \u0627\u0644\u062b\u0627\u0628\u062a\u0629"
+  "translated_text": "افتراضيات الأصول الثابتة"
  },
  {
   "context": null,
@@ -3665,7 +3665,7 @@
   "modified": "2023-12-23 16:17:53.000900",
   "name": "850d4d5764",
   "source_text": "new-website-item-2",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-\u0645\u0639\u0631\u0648\u0636 \u0641\u064a \u0627\u0644\u0645\u0648\u0642\u0639-2"
+  "translated_text": "منتج-جديد-معروض في الموقع-2"
  },
  {
   "context": null,
@@ -3679,7 +3679,7 @@
   "modified": "2023-12-23 16:17:52.991176",
   "name": "e3157c4ce3",
   "source_text": "Ref DocType",
-  "translated_text": "DocType \u0645\u0631\u062c\u0639\u064a"
+  "translated_text": "DocType مرجعي"
  },
  {
   "context": null,
@@ -3693,7 +3693,7 @@
   "modified": "2023-12-23 16:17:52.978153",
   "name": "f75949e759",
   "source_text": "new-payment-entry-2",
-  "translated_text": "\u0625\u062f\u062e\u0627\u0644-\u062f\u0641\u0639-\u062c\u062f\u064a\u062f -2"
+  "translated_text": "إدخال-دفع-جديد -2"
  },
  {
   "context": null,
@@ -3707,7 +3707,7 @@
   "modified": "2023-12-23 16:17:52.968702",
   "name": "d13e81ff90",
   "source_text": "Webstore",
-  "translated_text": "\u0645\u062a\u062c\u0631 \u0639\u0644\u0649 \u0634\u0628\u0643\u0629 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a"
+  "translated_text": "متجر على شبكة الإنترنت"
  },
  {
   "context": null,
@@ -3721,7 +3721,7 @@
   "modified": "2023-12-23 16:17:52.955122",
   "name": "bb46910078",
   "source_text": "My Cart",
-  "translated_text": "\u0633\u0644\u0629 \u0627\u0644\u062a\u0633\u0648\u0642 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u064a"
+  "translated_text": "سلة التسوق الخاصة بي"
  },
  {
   "context": null,
@@ -3735,7 +3735,7 @@
   "modified": "2023-12-23 16:17:52.945120",
   "name": "851a56bbb3",
   "source_text": "Note: If you're sending to multiple recipients, even if 1 recipient reads the email, it'll be considered \"Opened\"",
-  "translated_text": "\u0645\u0644\u0627\u062d\u0638\u0629: \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0631\u0633\u0644 \u0625\u0644\u0649 \u0639\u062f\u0629 \u0645\u0633\u062a\u0644\u0645\u064a\u0646\u060c \u062d\u062a\u0649 \u0625\u0630\u0627 \u0642\u0631\u0623 \u0645\u0633\u062a\u0644\u0645 \u0648\u0627\u062d\u062f \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u060c \u0641\u0633\u064a\u062a\u0645 \u0627\u0639\u062a\u0628\u0627\u0631\u0647 \"\u0645\u0641\u062a\u0648\u062d\u064b\u0627\""
+  "translated_text": "ملاحظة: إذا كنت ترسل إلى عدة مستلمين، حتى إذا قرأ مستلم واحد البريد الإلكتروني، فسيتم اعتباره \"مفتوحًا\""
  },
  {
   "context": null,
@@ -3749,7 +3749,7 @@
   "modified": "2023-12-23 16:17:52.934728",
   "name": "8ae4e40d4e",
   "source_text": "paid_amount_sum",
-  "translated_text": "\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u0645\u062f\u0641\u0648\u0639"
+  "translated_text": "مجموع المبلغ المدفوع"
  },
  {
   "context": null,
@@ -3763,7 +3763,7 @@
   "modified": "2023-12-23 16:17:52.925710",
   "name": "c6662a1014",
   "source_text": "Add your message here",
-  "translated_text": "\u0623\u0636\u0641 \u0631\u0633\u0627\u0644\u062a\u0643 \u0647\u0646\u0627"
+  "translated_text": "أضف رسالتك هنا"
  },
  {
   "context": null,
@@ -3776,8 +3776,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:52.916106",
   "name": "f0a7e23929",
-  "source_text": "New \u0627\u0644\u0645\u0646\u062a\u062c \u0627\u0644\u0645\u0639\u0631\u0648\u0636 \u0641\u064a \u0627\u0644\u0645\u0648\u0642\u0639",
-  "translated_text": "\u0645\u0646\u062a\u062c \u062c\u062f\u064a\u062f \u0645\u0639\u0631\u0648\u0636 \u0641\u064a \u0627\u0644\u0645\u0648\u0642\u0639"
+  "source_text": "New المنتج المعروض في الموقع",
+  "translated_text": "منتج جديد معروض في الموقع"
  },
  {
   "context": null,
@@ -3791,7 +3791,7 @@
   "modified": "2023-12-23 16:17:52.905256",
   "name": "b2486d6bd3",
   "source_text": "Portrait",
-  "translated_text": "\u0639\u0631\u0636 \u0639\u0645\u0648\u062f\u064a"
+  "translated_text": "عرض عمودي"
  },
  {
   "context": null,
@@ -3805,7 +3805,7 @@
   "modified": "2023-12-23 16:17:52.895303",
   "name": "a42a987933",
   "source_text": "User Permissions",
-  "translated_text": "\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645"
+  "translated_text": "صلاحيات المستخدم"
  },
  {
   "context": null,
@@ -3819,7 +3819,7 @@
   "modified": "2023-12-23 16:17:52.884767",
   "name": "3d0baa6860",
   "source_text": "new-agent-payment-entry-2",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644-\u0645\u0628\u0644\u063a-\u062f\u0641\u0639-\u0645\u0646\u062f\u0648\u0628-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "تسجيل-مبلغ-دفع-مندوب-جديد-2"
  },
  {
   "context": null,
@@ -3833,7 +3833,7 @@
   "modified": "2023-12-23 16:17:52.872276",
   "name": "acf4e40afd",
   "source_text": "Home Settings",
-  "translated_text": "\u0627\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0634\u0627\u0634\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"
+  "translated_text": "اعدادات الشاشة الرئيسية"
  },
  {
   "context": null,
@@ -3847,7 +3847,7 @@
   "modified": "2023-12-23 16:17:52.857936",
   "name": "ddaa7d0d07",
   "source_text": "Contact & Address",
-  "translated_text": "\u062c\u0647\u0629 \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0648\u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646"
+  "translated_text": "جهة الاتصال والعناوين"
  },
  {
   "context": null,
@@ -3861,7 +3861,7 @@
   "modified": "2023-12-23 16:17:52.845728",
   "name": "6a03327442",
   "source_text": "Use different Email ID",
-  "translated_text": "\u0627\u0633\u062a\u062e\u062f\u0645 \u0645\u0639\u0631\u0641 \u0628\u0631\u064a\u062f \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0645\u062e\u062a\u0644\u0641\u064b\u0627"
+  "translated_text": "استخدم معرف بريد إلكتروني مختلفًا"
  },
  {
   "context": null,
@@ -3875,7 +3875,7 @@
   "modified": "2023-12-23 16:17:52.833330",
   "name": "e43b32d067",
   "source_text": "Buying & Selling Settings",
-  "translated_text": "\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0628\u064a\u0639 \u0648\u0627\u0644\u0634\u0631\u0627\u0621"
+  "translated_text": "إعدادات البيع والشراء"
  },
  {
   "context": null,
@@ -3889,7 +3889,7 @@
   "modified": "2023-12-23 16:17:52.822591",
   "name": "f02810655a",
   "source_text": "JoCards",
-  "translated_text": "\u062c\u0648 \u0643\u0627\u0631\u062f\u0632"
+  "translated_text": "جو كاردز"
  },
  {
   "context": null,
@@ -3903,7 +3903,7 @@
   "modified": "2023-12-23 16:17:52.811827",
   "name": "30af2fe451",
   "source_text": "new-sales-invoice-2",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629-\u0645\u0628\u064a\u0639\u0627\u062a-\u062c\u062f\u064a\u062f\u0629-2"
+  "translated_text": "فاتورة-مبيعات-جديدة-2"
  },
  {
   "context": null,
@@ -3917,7 +3917,7 @@
   "modified": "2023-12-23 16:17:52.800345",
   "name": "21c5170536",
   "source_text": "new-item-1",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "منتج-جديد-1"
  },
  {
   "context": null,
@@ -3931,7 +3931,7 @@
   "modified": "2023-12-23 16:17:52.790366",
   "name": "2a7cfd3655",
   "source_text": "Parent",
-  "translated_text": "\u0627\u0644\u0641\u0626\u0629"
+  "translated_text": "الفئة"
  },
  {
   "context": null,
@@ -3945,7 +3945,7 @@
   "modified": "2023-12-23 16:17:52.779363",
   "name": "3e2c4afea8",
   "source_text": "Pending",
-  "translated_text": "\u063a\u064a\u0631 \u0645\u0643\u062a\u0645\u0644"
+  "translated_text": "غير مكتمل"
  },
  {
   "context": null,
@@ -3959,7 +3959,7 @@
   "modified": "2023-12-23 16:17:52.766879",
   "name": "5243f04147",
   "source_text": "new-supplier-1",
-  "translated_text": "\u0645\u0648\u0631\u062f-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "مورد-جديد-1"
  },
  {
   "context": null,
@@ -3973,7 +3973,7 @@
   "modified": "2023-12-23 16:17:52.749919",
   "name": "64836897d9",
   "source_text": "Choose an icon",
-  "translated_text": "\u0627\u062e\u062a\u0631 \u0627\u064a\u0642\u0648\u0646\u0629"
+  "translated_text": "اختر ايقونة"
  },
  {
   "context": null,
@@ -3987,7 +3987,7 @@
   "modified": "2023-12-23 16:17:52.728579",
   "name": "4977634914",
   "source_text": "Completed Order",
-  "translated_text": "\u0637\u0644\u0628\u0627\u062a \u062a\u0645 \u062a\u0633\u0644\u064a\u0645\u0647\u0627"
+  "translated_text": "طلبات تم تسليمها"
  },
  {
   "context": null,
@@ -4001,7 +4001,7 @@
   "modified": "2023-12-23 16:17:52.716317",
   "name": "cdf3855a52",
   "source_text": "new-item-price-3",
-  "translated_text": "\u0633\u0639\u0631-\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-3"
+  "translated_text": "سعر-منتج-جديد-3"
  },
  {
   "context": null,
@@ -4015,7 +4015,7 @@
   "modified": "2023-12-23 16:17:52.703579",
   "name": "d9e8297fca",
   "source_text": "new-home-block-3",
-  "translated_text": "\u0642\u0633\u0645-\u0635\u062d\u0629-\u0631\u0626\u064a\u0633\u064a\u0629-\u062c\u062f\u064a\u062f-3"
+  "translated_text": "قسم-صحة-رئيسية-جديد-3"
  },
  {
   "context": null,
@@ -4029,7 +4029,7 @@
   "modified": "2023-12-23 16:17:52.693810",
   "name": "24a675c7bc",
   "source_text": "PDF",
-  "translated_text": "\u0645\u0644\u0641 \u0628\u064a \u062f\u064a \u0627\u0641"
+  "translated_text": "ملف بي دي اف"
  },
  {
   "context": null,
@@ -4043,7 +4043,7 @@
   "modified": "2023-12-23 16:17:52.683670",
   "name": "bac76bddf8",
   "source_text": "User Forum",
-  "translated_text": "\u0645\u0646\u062a\u062f\u0649 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645"
+  "translated_text": "منتدى المستخدم"
  },
  {
   "context": null,
@@ -4057,7 +4057,7 @@
   "modified": "2023-12-23 16:17:52.673609",
   "name": "9e4eb2c74c",
   "source_text": "new-item-2",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "منتج-جديد-2"
  },
  {
   "context": null,
@@ -4071,7 +4071,7 @@
   "modified": "2023-12-23 16:17:52.663450",
   "name": "c6a60f58fa",
   "source_text": "In",
-  "translated_text": "\u0641\u064a"
+  "translated_text": "في"
  },
  {
   "context": null,
@@ -4085,7 +4085,7 @@
   "modified": "2023-12-23 16:17:52.653053",
   "name": "8ea4888e8d",
   "source_text": "Serial Number",
-  "translated_text": "\u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u0633\u0631\u064a\u0629 \u0648\u0627\u0644\u062a\u0633\u0644\u0633\u0644\u064a\u0629"
+  "translated_text": "الارقام السرية والتسلسلية"
  },
  {
   "context": null,
@@ -4099,7 +4099,7 @@
   "modified": "2023-12-23 16:17:52.642620",
   "name": "3cb9be8067",
   "source_text": "Agent",
-  "translated_text": "\u0645\u0646\u062f\u0648\u0628"
+  "translated_text": "مندوب"
  },
  {
   "context": null,
@@ -4113,7 +4113,7 @@
   "modified": "2023-12-23 16:17:52.632657",
   "name": "030d281e69",
   "source_text": "This is a background report. Please set the appropriate filters and then generate a new one.",
-  "translated_text": "\u0647\u0630\u0627 \u0627\u0644\u062a\u0642\u0631\u064a\u0631 \u064a\u0639\u0645\u0644 \u0628\u0627\u0644\u062e\u0644\u0641\u064a\u0629. \u0627\u0636\u0628\u0637 \u0627\u0644\u0641\u0644\u0627\u062a\u0631 \u0627\u0644\u0635\u062d\u064a\u062d\u0629 \u0648\u0627\u0636\u063a\u0637 \u0639\u0644\u0649 \u062a\u0648\u0644\u064a\u062f"
+  "translated_text": "هذا التقرير يعمل بالخلفية. اضبط الفلاتر الصحيحة واضغط على توليد"
  },
  {
   "context": null,
@@ -4127,7 +4127,7 @@
   "modified": "2023-12-23 16:17:52.623286",
   "name": "594cb5b963",
   "source_text": "MESSAGE.#####",
-  "translated_text": "\u0631\u0633\u0627\u0644\u0629.#####"
+  "translated_text": "رسالة.#####"
  },
  {
   "context": null,
@@ -4141,7 +4141,7 @@
   "modified": "2023-12-23 16:17:52.613095",
   "name": "da653ffd21",
   "source_text": "Transaction Time",
-  "translated_text": "\u0648\u0642\u062a \u0627\u0644\u062d\u0631\u0643\u0629"
+  "translated_text": "وقت الحركة"
  },
  {
   "context": null,
@@ -4154,8 +4154,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:52.603326",
   "name": "96cd29029e",
-  "source_text": "New \u062a\u0633\u062c\u064a\u0644 \u0645\u0628\u0644\u063a \u0627\u0644\u062f\u0641\u0639 \u0644\u0644\u0645\u0646\u062f\u0648\u0628",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644 \u0645\u0628\u0644\u063a \u062f\u0641\u0639 \u062c\u062f\u064a\u062f \u0644\u0644\u0645\u0646\u062f\u0648\u0628"
+  "source_text": "New تسجيل مبلغ الدفع للمندوب",
+  "translated_text": "تسجيل مبلغ دفع جديد للمندوب"
  },
  {
   "context": null,
@@ -4169,7 +4169,7 @@
   "modified": "2023-12-23 16:17:52.593429",
   "name": "1d521c7a38",
   "source_text": "Stock limit cross for Item",
-  "translated_text": "\u062a\u0645 \u062a\u062c\u0627\u0648\u0632 \u062d\u062f \u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u0644\u0644\u0645\u0646\u062a\u062c"
+  "translated_text": "تم تجاوز حد المخزون للمنتج"
  },
  {
   "context": null,
@@ -4182,8 +4182,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:52.583383",
   "name": "f2ba47f0f2",
-  "source_text": "New \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u0641\u0639\u0627\u062a",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644 \u062f\u0641\u0639\u0627\u062a \u062c\u062f\u064a\u062f"
+  "source_text": "New تسجيل الدفعات",
+  "translated_text": "تسجيل دفعات جديد"
  },
  {
   "context": null,
@@ -4197,7 +4197,7 @@
   "modified": "2023-12-23 16:17:52.573538",
   "name": "1a0f460c29",
   "source_text": "User Group",
-  "translated_text": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646"
+  "translated_text": "مجموعة المستخدمين"
  },
  {
   "context": null,
@@ -4211,7 +4211,7 @@
   "modified": "2023-12-23 16:17:52.564206",
   "name": "d6f9666234",
   "source_text": "Manage your apps",
-  "translated_text": "\u0625\u062f\u0627\u0631\u0629 \u062a\u0637\u0628\u064a\u0642\u0627\u062a\u0643"
+  "translated_text": "إدارة تطبيقاتك"
  },
  {
   "context": null,
@@ -4225,7 +4225,7 @@
   "modified": "2023-12-23 16:17:52.554429",
   "name": "23e5eccdbb",
   "source_text": "Create Order",
-  "translated_text": "\u0627\u0646\u0634\u0627\u0621 \u0637\u0644\u0628 \u0645\u0628\u064a\u0639\u0627\u062a"
+  "translated_text": "انشاء طلب مبيعات"
  },
  {
   "context": null,
@@ -4239,7 +4239,7 @@
   "modified": "2023-12-23 16:17:52.544491",
   "name": "5edf0c55aa",
   "source_text": "Disable Prepared Report",
-  "translated_text": "\u0627\u0644\u063a\u0627\u0621 \u062a\u0641\u0639\u064a\u0644 \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0645\u0633\u0628\u0642\u0629 \u0627\u0644\u062a\u062d\u0636\u064a\u0631"
+  "translated_text": "الغاء تفعيل التقارير مسبقة التحضير"
  },
  {
   "context": null,
@@ -4253,7 +4253,7 @@
   "modified": "2023-12-23 16:17:52.534990",
   "name": "c172af9aff",
   "source_text": "Transit",
-  "translated_text": "\u0639\u0628\u0648\u0631"
+  "translated_text": "عبور"
  },
  {
   "context": null,
@@ -4267,7 +4267,7 @@
   "modified": "2023-12-23 16:17:52.524173",
   "name": "4721237d7c",
   "source_text": "Card Label",
-  "translated_text": "\u0645\u0644\u0635\u0642 \u0627\u0644\u0628\u0637\u0627\u0642\u0629"
+  "translated_text": "ملصق البطاقة"
  },
  {
   "context": null,
@@ -4281,7 +4281,7 @@
   "modified": "2023-12-23 16:17:52.513258",
   "name": "50558aab41",
   "source_text": "Generate New Report",
-  "translated_text": "\u0625\u0646\u0634\u0627\u0621 \u062a\u0642\u0631\u064a\u0631 \u062c\u062f\u064a\u062f"
+  "translated_text": "إنشاء تقرير جديد"
  },
  {
   "context": null,
@@ -4295,7 +4295,7 @@
   "modified": "2023-12-23 16:17:52.502940",
   "name": "5ed3d55e19",
   "source_text": "Reset sorting",
-  "translated_text": "\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0641\u0631\u0632"
+  "translated_text": "إعادة الفرز"
  },
  {
   "context": null,
@@ -4309,7 +4309,7 @@
   "modified": "2023-12-23 16:17:52.493668",
   "name": "0e9062e5a5",
   "source_text": "No address added yet.",
-  "translated_text": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0636\u0627\u0641\u0629 \u0627\u064a \u0639\u0646\u0648\u0627\u0646 \u0628\u0639\u062f"
+  "translated_text": "لم يتم اضافة اي عنوان بعد"
  },
  {
   "context": null,
@@ -4323,7 +4323,7 @@
   "modified": "2023-12-23 16:17:52.484084",
   "name": "42d9f7a085",
   "source_text": "Pick Columns",
-  "translated_text": "\u0627\u062e\u062a\u0631 \u0627\u0644\u062d\u0642\u0648\u0644"
+  "translated_text": "اختر الحقول"
  },
  {
   "context": null,
@@ -4337,7 +4337,7 @@
   "modified": "2023-12-23 16:17:52.474742",
   "name": "7664d97407",
   "source_text": "item",
-  "translated_text": "\u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a"
+  "translated_text": "المنتجات"
  },
  {
   "context": null,
@@ -4351,7 +4351,7 @@
   "modified": "2023-12-23 16:17:52.464733",
   "name": "4824bb0a63",
   "source_text": "new-purchase-invoice-2",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629-\u0634\u0631\u0627\u0621-\u062c\u062f\u064a\u062f\u0629-2"
+  "translated_text": "فاتورة-شراء-جديدة-2"
  },
  {
   "context": null,
@@ -4365,7 +4365,7 @@
   "modified": "2023-12-23 16:17:52.454902",
   "name": "3cbb2e989a",
   "source_text": "Tags",
-  "translated_text": "\u0627\u0644\u0639\u0644\u0627\u0645\u0627\u062a"
+  "translated_text": "العلامات"
  },
  {
   "context": null,
@@ -4379,7 +4379,7 @@
   "modified": "2023-12-23 16:17:52.444257",
   "name": "77065f43f7",
   "source_text": "new-banner-1",
-  "translated_text": "\u0628\u0627\u0646\u0631-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "بانر-جديد-1"
  },
  {
   "context": null,
@@ -4393,7 +4393,7 @@
   "modified": "2023-12-23 16:17:52.434811",
   "name": "5eab46b0ba",
   "source_text": "Equals",
-  "translated_text": "\u064a\u0633\u0627\u0648\u064a"
+  "translated_text": "يساوي"
  },
  {
   "context": null,
@@ -4407,7 +4407,7 @@
   "modified": "2023-12-23 16:17:52.425427",
   "name": "eed502d884",
   "source_text": "Default In-Transit Warehouse",
-  "translated_text": "\u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0646\u0642\u0644"
+  "translated_text": "المستودع الافتراضي أثناء النقل"
  },
  {
   "context": null,
@@ -4421,7 +4421,7 @@
   "modified": "2023-12-23 16:17:52.416114",
   "name": "b0d4066053",
   "source_text": "New",
-  "translated_text": "\u062c\u062f\u064a\u062f"
+  "translated_text": "جديد"
  },
  {
   "context": null,
@@ -4435,7 +4435,7 @@
   "modified": "2023-12-23 16:17:52.406131",
   "name": "e3bb9e7fd1",
   "source_text": "Sales Invoice",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+  "translated_text": "فاتورة المبيعات"
  },
  {
   "context": null,
@@ -4449,7 +4449,7 @@
   "modified": "2023-12-23 16:17:52.396048",
   "name": "52c0f64cdb",
   "source_text": "Profit and Loss Statement",
-  "translated_text": "\u0628\u064a\u0627\u0646 \u0627\u0644\u0623\u0631\u0628\u0627\u062d \u0648\u0627\u0644\u062e\u0633\u0627\u0626\u0631"
+  "translated_text": "بيان الأرباح والخسائر"
  },
  {
   "context": null,
@@ -4463,7 +4463,7 @@
   "modified": "2023-12-23 16:17:52.384943",
   "name": "8d9beceb76",
   "source_text": "Set Property After Alert",
-  "translated_text": "\u062a\u0639\u064a\u064a\u0646 \u0627\u0644\u062e\u0627\u0635\u064a\u0629 \u0628\u0639\u062f \u0627\u0644\u062a\u0646\u0628\u064a\u0647"
+  "translated_text": "تعيين الخاصية بعد التنبيه"
  },
  {
   "context": null,
@@ -4477,7 +4477,7 @@
   "modified": "2023-12-23 16:17:52.375732",
   "name": "9ae1ab4ac0",
   "source_text": "With Letter head",
-  "translated_text": "\u0645\u0639 \u0627\u0644\u062a\u0631\u0648\u064a\u0633\u0629"
+  "translated_text": "مع الترويسة"
  },
  {
   "context": null,
@@ -4491,7 +4491,7 @@
   "modified": "2023-12-23 16:17:52.366056",
   "name": "4729c8861f",
   "source_text": "Amend",
-  "translated_text": "\u062a\u0639\u062f\u064a\u0644"
+  "translated_text": "تعديل"
  },
  {
   "context": null,
@@ -4504,8 +4504,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:52.355817",
   "name": "551b3dd555",
-  "source_text": "New \u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644",
-  "translated_text": "\u062c\u0647\u0629 \u0627\u062a\u0635\u0627\u0644 \u062c\u062f\u064a\u062f\u0629"
+  "source_text": "New جهات الاتصال",
+  "translated_text": "جهة اتصال جديدة"
  },
  {
   "context": null,
@@ -4519,7 +4519,7 @@
   "modified": "2023-12-23 16:17:52.346018",
   "name": "d3a8719424",
   "source_text": "new-pricing-rule-1",
-  "translated_text": "\u0642\u0627\u0639\u062f\u0629-\u062a\u0633\u0639\u064a\u0631-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "قاعدة-تسعير-جديدة-1"
  },
  {
   "context": null,
@@ -4533,7 +4533,7 @@
   "modified": "2023-12-23 16:17:52.336132",
   "name": "8e569536dd",
   "source_text": "Follow",
-  "translated_text": "\u0645\u062a\u0627\u0628\u0639\u0629"
+  "translated_text": "متابعة"
  },
  {
   "context": null,
@@ -4547,7 +4547,7 @@
   "modified": "2023-12-23 16:17:52.325165",
   "name": "6e07bef133",
   "source_text": "Nothing to show",
-  "translated_text": "\u0644\u0627 \u064a\u0648\u062c\u062f \u0634\u064a\u0621 \u0644\u0639\u0631\u0636\u0647"
+  "translated_text": "لا يوجد شيء لعرضه"
  },
  {
   "context": null,
@@ -4561,7 +4561,7 @@
   "modified": "2023-12-23 16:17:52.308592",
   "name": "d6a4e3c131",
   "source_text": "new-payment-entry-1",
-  "translated_text": "\u0625\u062f\u062e\u0627\u0644-\u062f\u0641\u0639-\u062c\u062f\u064a\u062f -1"
+  "translated_text": "إدخال-دفع-جديد -1"
  },
  {
   "context": null,
@@ -4575,7 +4575,7 @@
   "modified": "2023-12-23 16:17:52.298871",
   "name": "b9b92fdb0a",
   "source_text": "Value To Be Set",
-  "translated_text": "\u0627\u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u062a\u064a \u0633\u064a\u062a\u0645 \u062a\u0639\u064a\u064a\u0646\u0647\u0627"
+  "translated_text": "القيمة التي سيتم تعيينها"
  },
  {
   "context": null,
@@ -4589,7 +4589,7 @@
   "modified": "2023-12-23 16:17:52.289425",
   "name": "c0248483d3",
   "source_text": "Please remove the Value from old Account",
-  "translated_text": "\u0627\u0644\u0645\u0631\u062c\u0648\u0631 \u062d\u0630\u0641 \u0627\u0644\u0642\u064a\u0645\u0629 \u0645\u0646 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0642\u062f\u064a\u0645"
+  "translated_text": "المرجور حذف القيمة من الحساب القديم"
  },
  {
   "context": null,
@@ -4603,7 +4603,7 @@
   "modified": "2023-12-23 16:17:52.280457",
   "name": "ad293c4bab",
   "source_text": "new-home-block-2",
-  "translated_text": "\u0642\u0633\u0645-\u0635\u062d\u0629-\u0631\u0626\u064a\u0633\u064a\u0629-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "قسم-صحة-رئيسية-جديد-2"
  },
  {
   "context": null,
@@ -4617,7 +4617,7 @@
   "modified": "2023-12-23 16:17:52.271080",
   "name": "5365697ec6",
   "source_text": "For comparison, use >5, <10 or =324. For ranges, use 5:10 (for values between 5 & 10).",
-  "translated_text": "\u0644\u0644\u0645\u0642\u0627\u0631\u0646\u0629 \u0627\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0627\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629"
+  "translated_text": "للمقارنة استخدم الاشارات الرياضية"
  },
  {
   "context": null,
@@ -4631,7 +4631,7 @@
   "modified": "2023-12-23 16:17:52.260823",
   "name": "60e4e1b38f",
   "source_text": "Get Outstanding Wallet Request",
-  "translated_text": "\u0627\u0633\u062a\u062f\u0639\u0627\u0621 \u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0634\u062d\u0646 \u063a\u064a\u0631 \u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0629"
+  "translated_text": "استدعاء طلبات الشحن غير المدفوعة"
  },
  {
   "context": null,
@@ -4645,7 +4645,7 @@
   "modified": "2023-12-23 16:17:52.250286",
   "name": "14f10db32d",
   "source_text": "Create New",
-  "translated_text": "\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062a \u0627\u0644\u0627\u0646\u0634\u0627\u0621"
+  "translated_text": "اختصارات الانشاء"
  },
  {
   "context": null,
@@ -4658,8 +4658,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:52.241174",
   "name": "4ddacf3e09",
-  "source_text": "New \u0627\u0644\u0639\u0645\u0644\u0627\u0621",
-  "translated_text": "\u0639\u0645\u064a\u0644 \u062c\u062f\u064a\u062f"
+  "source_text": "New العملاء",
+  "translated_text": "عميل جديد"
  },
  {
   "context": null,
@@ -4673,7 +4673,7 @@
   "modified": "2023-12-23 16:17:52.229882",
   "name": "9f9b07179a",
   "source_text": "Log out",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062e\u0631\u0648\u062c"
+  "translated_text": "تسجيل الخروج"
  },
  {
   "context": null,
@@ -4687,7 +4687,7 @@
   "modified": "2023-12-23 16:17:52.219240",
   "name": "5eaf4b7f9a",
   "source_text": "We provide only the best products for our valued customers!",
-  "translated_text": "\u0646\u062d\u0646 \u0646\u0642\u062f\u0645 \u0641\u0642\u0637 \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0644\u0639\u0645\u0644\u0627\u0626\u0646\u0627 \u0627\u0644\u0643\u0631\u0627\u0645!"
+  "translated_text": "نحن نقدم فقط أفضل المنتجات لعملائنا الكرام!"
  },
  {
   "context": null,
@@ -4701,7 +4701,7 @@
   "modified": "2023-12-23 16:17:52.208053",
   "name": "c1a2cee53f",
   "source_text": "Receiver By Document Field",
-  "translated_text": "\u0627\u0644\u0645\u0633\u062a\u0644\u0645 \u0628\u062d\u0633\u0628 \u062d\u0642\u0644 \u0627\u0644\u0648\u062b\u064a\u0642\u0629"
+  "translated_text": "المستلم بحسب حقل الوثيقة"
  },
  {
   "context": null,
@@ -4715,7 +4715,7 @@
   "modified": "2023-12-23 16:17:52.196130",
   "name": "9fd9939f0c",
   "source_text": "Item Group",
-  "translated_text": "\u0627\u0644\u0641\u0626\u0627\u062a"
+  "translated_text": "الفئات"
  },
  {
   "context": null,
@@ -4729,7 +4729,7 @@
   "modified": "2023-12-23 16:17:52.173860",
   "name": "d36949f21f",
   "source_text": "new-item-price-4",
-  "translated_text": "\u0633\u0639\u0631-\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-4"
+  "translated_text": "سعر-منتج-جديد-4"
  },
  {
   "context": null,
@@ -4743,7 +4743,7 @@
   "modified": "2023-12-23 16:17:52.164520",
   "name": "69738f3176",
   "source_text": "Paid",
-  "translated_text": "\u0645\u062f\u0641\u0648\u0639"
+  "translated_text": "مدفوع"
  },
  {
   "context": null,
@@ -4757,7 +4757,7 @@
   "modified": "2023-12-23 16:17:52.154036",
   "name": "cc583efc85",
   "source_text": "new-price-list-2",
-  "translated_text": "\u0642\u0627\u0626\u0645\u0629-\u0623\u0633\u0639\u0627\u0631-\u062c\u062f\u064a\u062f\u0629-2"
+  "translated_text": "قائمة-أسعار-جديدة-2"
  },
  {
   "context": null,
@@ -4771,7 +4771,7 @@
   "modified": "2023-12-23 16:17:52.142414",
   "name": "febd3d0082",
   "source_text": "Toggle Full Width",
-  "translated_text": "\u062a\u0643\u0628\u064a\u0631 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0639\u0631\u0636"
+  "translated_text": "تكبير مساحة العرض"
  },
  {
   "context": null,
@@ -4785,7 +4785,7 @@
   "modified": "2023-12-23 16:17:52.132443",
   "name": "8f7a7f0703",
   "source_text": "Like",
-  "translated_text": "\u0645\u062b\u0644"
+  "translated_text": "مثل"
  },
  {
   "context": null,
@@ -4799,7 +4799,7 @@
   "modified": "2023-12-23 16:17:52.121675",
   "name": "d4a5591ad4",
   "source_text": "no",
-  "translated_text": "\u0644\u0627"
+  "translated_text": "لا"
  },
  {
   "context": null,
@@ -4813,7 +4813,7 @@
   "modified": "2023-12-23 16:17:52.111301",
   "name": "e8280c8a5d",
   "source_text": "Advance Taxes and Charges",
-  "translated_text": "\u0636\u0631\u0627\u0626\u0628 \u0648\u0631\u0633\u0648\u0645 \u0645\u0642\u062f\u0645\u0627"
+  "translated_text": "ضرائب ورسوم مقدما"
  },
  {
   "context": null,
@@ -4827,7 +4827,7 @@
   "modified": "2023-12-23 16:17:52.100082",
   "name": "2ce5977485",
   "source_text": "Logs",
-  "translated_text": "\u0627\u0644\u0633\u062c\u0644\u0627\u062a"
+  "translated_text": "السجلات"
  },
  {
   "context": null,
@@ -4841,7 +4841,7 @@
   "modified": "2023-12-23 16:17:52.088207",
   "name": "eeff30a937",
   "source_text": "Agents",
-  "translated_text": "\u0645\u0646\u0627\u062f\u064a\u0628"
+  "translated_text": "مناديب"
  },
  {
   "context": null,
@@ -4855,7 +4855,7 @@
   "modified": "2023-12-23 16:17:52.077954",
   "name": "e595b74d55",
   "source_text": "new-payment-entry-3",
-  "translated_text": "\u0625\u062f\u062e\u0627\u0644-\u062f\u0641\u0639-\u062c\u062f\u064a\u062f -3"
+  "translated_text": "إدخال-دفع-جديد -3"
  },
  {
   "context": null,
@@ -4869,7 +4869,7 @@
   "modified": "2023-12-23 16:17:52.068857",
   "name": "9922845ce7",
   "source_text": "Documentation",
-  "translated_text": "\u062a\u0648\u062b\u064a\u0642"
+  "translated_text": "توثيق"
  },
  {
   "context": null,
@@ -4883,7 +4883,7 @@
   "modified": "2023-12-23 16:17:52.058874",
   "name": "f04fc9db28",
   "source_text": "m",
-  "translated_text": "\u062f"
+  "translated_text": "د"
  },
  {
   "context": null,
@@ -4897,7 +4897,7 @@
   "modified": "2023-12-23 16:17:52.047405",
   "name": "bca205ef8a",
   "source_text": "Debit Card Payment",
-  "translated_text": "\u0627\u0644\u062f\u0641\u0639 \u0628\u0628\u0637\u0627\u0642\u0629 \u0627\u0644\u0635\u0631\u0627\u0641 \u0627\u0644\u0622\u0644\u064a"
+  "translated_text": "الدفع ببطاقة الصراف الآلي"
  },
  {
   "context": null,
@@ -4911,7 +4911,7 @@
   "modified": "2023-12-23 16:17:52.038538",
   "name": "285c9df8ea",
   "source_text": "Manage third party apps",
-  "translated_text": "\u0625\u062f\u0627\u0631\u0629 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062c\u0647\u0627\u062a \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629"
+  "translated_text": "إدارة تطبيقات الجهات الخارجية"
  },
  {
   "context": null,
@@ -4925,7 +4925,7 @@
   "modified": "2023-12-23 16:17:52.029447",
   "name": "3c856ae163",
   "source_text": "General Product - Adjustable Duster 2 Joint",
-  "translated_text": "\u0645\u0646\u0641\u0636\u0629 \u0644\u0644\u063a\u0628\u0627\u0631 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0639\u062f\u064a\u0644"
+  "translated_text": "منفضة للغبار قابلة للتعديل"
  },
  {
   "context": null,
@@ -4939,7 +4939,7 @@
   "modified": "2023-12-23 16:17:52.019593",
   "name": "28132a46d5",
   "source_text": "Additional Discount Amount",
-  "translated_text": "\u062e\u0635\u0645 \u0627\u0636\u0627\u0641\u064a \u0628\u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u062b\u0627\u0628\u062a"
+  "translated_text": "خصم اضافي بالمبلغ الثابت"
  },
  {
   "context": null,
@@ -4953,7 +4953,7 @@
   "modified": "2023-12-23 16:17:52.009871",
   "name": "aed6e0cf79",
   "source_text": "Not Equals",
-  "translated_text": "\u0644\u0627\u064a\u0633\u0627\u0648\u064a"
+  "translated_text": "لايساوي"
  },
  {
   "context": null,
@@ -4967,7 +4967,7 @@
   "modified": "2023-12-23 16:17:51.999001",
   "name": "b803682b68",
   "source_text": "Prices",
-  "translated_text": "\u0627\u0644\u0623\u0633\u0639\u0627\u0631"
+  "translated_text": "الأسعار"
  },
  {
   "context": null,
@@ -4981,7 +4981,7 @@
   "modified": "2023-12-23 16:17:51.986780",
   "name": "fec453106e",
   "source_text": "ID",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0645\u0639\u0631\u0641"
+  "translated_text": "رقم المعرف"
  },
  {
   "context": null,
@@ -4995,7 +4995,7 @@
   "modified": "2023-12-23 16:17:51.977803",
   "name": "647b1f9bb6",
   "source_text": "Internal Customer",
-  "translated_text": "\u0639\u0645\u064a\u0644 \u062f\u0627\u062e\u0644\u064a"
+  "translated_text": "عميل داخلي"
  },
  {
   "context": null,
@@ -5009,7 +5009,7 @@
   "modified": "2023-12-23 16:17:51.968444",
   "name": "c88fee8976",
   "source_text": "Dashboard",
-  "translated_text": "\u0644\u0648\u062d\u0629 \u0627\u0644\u062e\u0644\u0627\u0635\u0627\u062a"
+  "translated_text": "لوحة الخلاصات"
  },
  {
   "context": null,
@@ -5023,7 +5023,7 @@
   "modified": "2023-12-23 16:17:51.957642",
   "name": "e93d496231",
   "source_text": "Sort Ascending",
-  "translated_text": "\u062a\u0631\u062a\u064a\u0628 \u062a\u0635\u0627\u0639\u062f\u064a"
+  "translated_text": "ترتيب تصاعدي"
  },
  {
   "context": null,
@@ -5037,7 +5037,7 @@
   "modified": "2023-12-23 16:17:51.948134",
   "name": "59def6a367",
   "source_text": "View in Cart",
-  "translated_text": "\u0639\u0631\u0636 \u0641\u064a \u0627\u0644\u0633\u0644\u0629"
+  "translated_text": "عرض في السلة"
  },
  {
   "context": null,
@@ -5051,7 +5051,7 @@
   "modified": "2023-12-23 16:17:51.938179",
   "name": "99cf9800e4",
   "source_text": "Public",
-  "translated_text": "\u0639\u0627\u0645"
+  "translated_text": "عام"
  },
  {
   "context": null,
@@ -5065,7 +5065,7 @@
   "modified": "2023-12-23 16:17:51.927528",
   "name": "adb64f88c9",
   "source_text": "{0} y",
-  "translated_text": "{0} \u0633\u0646\u0629 \u0645\u0636\u062a"
+  "translated_text": "{0} سنة مضت"
  },
  {
   "context": null,
@@ -5079,7 +5079,7 @@
   "modified": "2023-12-23 16:17:51.917577",
   "name": "d9926cecbc",
   "source_text": "WhatsApp",
-  "translated_text": "\u0648\u0627\u062a\u0633\u0627\u0628"
+  "translated_text": "واتساب"
  },
  {
   "context": null,
@@ -5093,7 +5093,7 @@
   "modified": "2023-12-23 16:17:51.907539",
   "name": "d71bbb1147",
   "source_text": "Translation",
-  "translated_text": "\u062a\u0631\u062c\u0645\u0629"
+  "translated_text": "ترجمة"
  },
  {
   "context": null,
@@ -5107,7 +5107,7 @@
   "modified": "2023-12-23 16:17:51.898345",
   "name": "3ce3bb24fa",
   "source_text": "Report with more than 10 columns looks better in Landscape mode.",
-  "translated_text": "\u0627\u062e\u062a\u0631 \u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u0627\u0641\u0642\u064a \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u062d\u0642\u0648\u0644 \u0627\u0644\u0643\u062b\u064a\u0631\u0629"
+  "translated_text": "اختر العرض الافقي في حالة الحقول الكثيرة"
  },
  {
   "context": null,
@@ -5121,7 +5121,7 @@
   "modified": "2023-12-23 16:17:51.887478",
   "name": "0694d6fa85",
   "source_text": "Cart",
-  "translated_text": "\u0633\u0644\u0629 \u0627\u0644\u062a\u0633\u0648\u0642"
+  "translated_text": "سلة التسوق"
  },
  {
   "context": null,
@@ -5135,7 +5135,7 @@
   "modified": "2023-12-23 16:17:51.878103",
   "name": "4487d49a7f",
   "source_text": "Latest Items",
-  "translated_text": "\u0623\u062d\u062f\u062b \u0627\u0644\u0639\u0646\u0627\u0635\u0631"
+  "translated_text": "أحدث العناصر"
  },
  {
   "context": null,
@@ -5149,7 +5149,7 @@
   "modified": "2023-12-23 16:17:51.866134",
   "name": "eb84f91ab8",
   "source_text": "Log out",
-  "translated_text": "\u0627\u0644\u062e\u0631\u0648\u062c"
+  "translated_text": "الخروج"
  },
  {
   "context": null,
@@ -5163,7 +5163,7 @@
   "modified": "2023-12-23 16:17:51.855663",
   "name": "0d4d6ca983",
   "source_text": "App Message",
-  "translated_text": "\u0631\u0633\u0627\u0644\u0629 \u0627\u0644\u062a\u0637\u0628\u064a\u0642"
+  "translated_text": "رسالة التطبيق"
  },
  {
   "context": null,
@@ -5177,7 +5177,7 @@
   "modified": "2023-12-23 16:17:51.846046",
   "name": "7054f39a07",
   "source_text": "Edit Response",
-  "translated_text": "\u062a\u0639\u062f\u064a\u0644"
+  "translated_text": "تعديل"
  },
  {
   "context": null,
@@ -5191,7 +5191,7 @@
   "modified": "2023-12-23 16:17:51.836604",
   "name": "c842e428e6",
   "source_text": "Stock limit cross for Item {0}",
-  "translated_text": "\u0639\u062f\u062f \u0627\u0644\u0628\u0637\u0627\u0642\u0627\u062a \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629 \u063a\u064a\u0631 \u0645\u062a\u0648\u0641\u0631 \u062d\u0627\u0644\u064a\u0627 {0}"
+  "translated_text": "عدد البطاقات المطلوبة غير متوفر حاليا {0}"
  },
  {
   "context": null,
@@ -5205,7 +5205,7 @@
   "modified": "2023-12-23 16:17:51.826285",
   "name": "8f07a0c490",
   "source_text": "new-price-list-1",
-  "translated_text": "\u0642\u0627\u0626\u0645\u0629-\u0623\u0633\u0639\u0627\u0631-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "قائمة-أسعار-جديدة-1"
  },
  {
   "context": null,
@@ -5219,7 +5219,7 @@
   "modified": "2023-12-23 16:17:51.814051",
   "name": "e00cac66e5",
   "source_text": "No permission to read Currency",
-  "translated_text": "\u063a\u064a\u0631 \u0645\u0633\u0645\u0648\u062d \u0628\u0642\u0631\u0627\u0621\u0629 \u0627\u0644\u0639\u0645\u0644\u0629"
+  "translated_text": "غير مسموح بقراءة العملة"
  },
  {
   "context": null,
@@ -5233,7 +5233,7 @@
   "modified": "2023-12-23 16:17:51.804752",
   "name": "353ab2039c",
   "source_text": "Mode of Payment",
-  "translated_text": "\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062f\u0641\u0639"
+  "translated_text": "طريقة الدفع"
  },
  {
   "context": null,
@@ -5247,7 +5247,7 @@
   "modified": "2023-12-23 16:17:51.794810",
   "name": "d48918ae98",
   "source_text": "Cash on Delivery",
-  "translated_text": "\u0627\u0644\u062f\u0641\u0639 \u0639\u0646\u062f \u0627\u0644\u0627\u0633\u062a\u0644\u0627\u0645"
+  "translated_text": "الدفع عند الاستلام"
  },
  {
   "context": null,
@@ -5261,7 +5261,7 @@
   "modified": "2023-12-23 16:17:51.785121",
   "name": "423141db3c",
   "source_text": "Download Apps",
-  "translated_text": "\u062a\u0646\u0632\u064a\u0644 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a"
+  "translated_text": "تنزيل التطبيقات"
  },
  {
   "context": null,
@@ -5275,7 +5275,7 @@
   "modified": "2023-12-23 16:17:51.774750",
   "name": "25a45d437f",
   "source_text": "Send to iOS",
-  "translated_text": "\u0623\u0631\u0633\u0627\u0644 \u0644\u064a IOS"
+  "translated_text": "أرسال لي IOS"
  },
  {
   "context": null,
@@ -5289,7 +5289,7 @@
   "modified": "2023-12-23 16:17:51.763582",
   "name": "f90d234255",
   "source_text": "Brand Logo",
-  "translated_text": "\u0634\u0639\u0627\u0631 \u0627\u0644\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629"
+  "translated_text": "شعار العلامة التجارية"
  },
  {
   "context": null,
@@ -5303,7 +5303,7 @@
   "modified": "2023-12-23 16:17:51.753940",
   "name": "be1f4ba075",
   "source_text": "Enter Coupon Code",
-  "translated_text": "\u0623\u062f\u062e\u0644 \u0631\u0645\u0632 \u0627\u0644\u0642\u0633\u064a\u0645\u0629"
+  "translated_text": "أدخل رمز القسيمة"
  },
  {
   "context": null,
@@ -5317,7 +5317,7 @@
   "modified": "2023-12-23 16:17:51.744387",
   "name": "93eb1974aa",
   "source_text": "No values to show",
-  "translated_text": "\u0644\u0627 \u064a\u0648\u062c\u062f \u0642\u064a\u0645 \u0644\u0639\u0631\u0636\u0647\u0627"
+  "translated_text": "لا يوجد قيم لعرضها"
  },
  {
   "context": null,
@@ -5331,7 +5331,7 @@
   "modified": "2023-12-23 16:17:51.734694",
   "name": "531ec9b6da",
   "source_text": "new-customer-1",
-  "translated_text": "\u0639\u0645\u064a\u0644-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "عميل-جديد-1"
  },
  {
   "context": null,
@@ -5345,7 +5345,7 @@
   "modified": "2023-12-23 16:17:51.720758",
   "name": "c94b585b9d",
   "source_text": "descending",
-  "translated_text": "\u062a\u0646\u0627\u0632\u0644\u064a"
+  "translated_text": "تنازلي"
  },
  {
   "context": null,
@@ -5359,7 +5359,7 @@
   "modified": "2023-12-23 16:17:51.709390",
   "name": "a5b4c08f39",
   "source_text": "Clear All",
-  "translated_text": "\u0627\u0645\u0633\u062d \u0627\u0644\u0643\u0644"
+  "translated_text": "امسح الكل"
  },
  {
   "context": null,
@@ -5373,7 +5373,7 @@
   "modified": "2023-12-23 16:17:51.696320",
   "name": "7639b76f87",
   "source_text": "Satisfaction Guaranteed",
-  "translated_text": "\u0627\u0644\u0631\u0636\u0627 \u0645\u0636\u0645\u0648\u0646"
+  "translated_text": "الرضا مضمون"
  },
  {
   "context": null,
@@ -5387,7 +5387,7 @@
   "modified": "2023-12-23 16:17:51.685842",
   "name": "4e312785bc",
   "source_text": "Report an Issue",
-  "translated_text": "\u0628\u0644\u063a \u0639\u0646 \u062e\u0637\u0623"
+  "translated_text": "بلغ عن خطأ"
  },
  {
   "context": null,
@@ -5401,7 +5401,7 @@
   "modified": "2023-12-23 16:17:51.676192",
   "name": "2326d22c03",
   "source_text": "E Commerce Warehouse",
-  "translated_text": "\u0645\u0633\u062a\u0648\u062f\u0639 \u0627\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629"
+  "translated_text": "مستودع التجارة الإلكترونية"
  },
  {
   "context": null,
@@ -5415,7 +5415,7 @@
   "modified": "2023-12-23 16:17:51.666008",
   "name": "2476fd0aaa",
   "source_text": "Default In-Transit Warehouse",
-  "translated_text": "\u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0646\u0642\u0644"
+  "translated_text": "المستودع الافتراضي أثناء النقل"
  },
  {
   "context": null,
@@ -5429,7 +5429,7 @@
   "modified": "2023-12-23 16:17:51.655492",
   "name": "39706b9b82",
   "source_text": "Change Password",
-  "translated_text": "\u062a\u063a\u064a\u064a\u0631 \u0643\u0644\u0645\u0629 \u0627\u0644\u0633\u0631"
+  "translated_text": "تغيير كلمة السر"
  },
  {
   "context": null,
@@ -5443,7 +5443,7 @@
   "modified": "2023-12-23 16:17:51.645657",
   "name": "cb11aca72d",
   "source_text": "Footer Content",
-  "translated_text": "\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u062a\u0630\u064a\u064a\u0644"
+  "translated_text": "محتوى التذييل"
  },
  {
   "context": null,
@@ -5457,7 +5457,7 @@
   "modified": "2023-12-23 16:17:51.636131",
   "name": "e0ec4bcc3a",
   "source_text": "State",
-  "translated_text": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629"
+  "translated_text": "المدينة"
  },
  {
   "context": null,
@@ -5471,7 +5471,7 @@
   "modified": "2023-12-23 16:17:51.627153",
   "name": "2485219b77",
   "source_text": "Icon",
-  "translated_text": "\u0623\u064a\u0642\u0648\u0646\u0629"
+  "translated_text": "أيقونة"
  },
  {
   "context": null,
@@ -5485,7 +5485,7 @@
   "modified": "2023-12-23 16:17:51.617830",
   "name": "971de43714",
   "source_text": "Shop Now",
-  "translated_text": "\u062a\u0633\u0648\u0642 \u0627\u0644\u0627\u0646"
+  "translated_text": "تسوق الان"
  },
  {
   "context": null,
@@ -5499,7 +5499,7 @@
   "modified": "2023-12-23 16:17:51.601184",
   "name": "ac6163c388",
   "source_text": "Edit Full Form",
-  "translated_text": "\u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0627\u0644\u0643\u0627\u0645\u0644"
+  "translated_text": "تحرير النموذج الكامل"
  },
  {
   "context": null,
@@ -5513,7 +5513,7 @@
   "modified": "2023-12-23 16:17:51.590503",
   "name": "bef9f982b7",
   "source_text": "new-item-price-2",
-  "translated_text": "\u0633\u0639\u0631-\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "سعر-منتج-جديد-2"
  },
  {
   "context": null,
@@ -5527,7 +5527,7 @@
   "modified": "2023-12-23 16:17:51.580836",
   "name": "e9679cbba8",
   "source_text": "New Item Group",
-  "translated_text": "\u0641\u0626\u0629 \u062c\u062f\u064a\u062f\u0629"
+  "translated_text": "فئة جديدة"
  },
  {
   "context": null,
@@ -5541,7 +5541,7 @@
   "modified": "2023-12-23 16:17:51.571133",
   "name": "075afefade",
   "source_text": "Create Category",
-  "translated_text": "\u0625\u0646\u0634\u0627\u0621 \u0641\u0626\u0629"
+  "translated_text": "إنشاء فئة"
  },
  {
   "context": null,
@@ -5555,7 +5555,7 @@
   "modified": "2023-12-23 16:17:51.562292",
   "name": "781f5e8f6d",
   "source_text": "My Profile",
-  "translated_text": "\u062d\u0633\u0627\u0628\u064a"
+  "translated_text": "حسابي"
  },
  {
   "context": null,
@@ -5569,7 +5569,7 @@
   "modified": "2023-12-23 16:17:51.552469",
   "name": "666b7c33f9",
   "source_text": "Wallet Before Transaction",
-  "translated_text": "\u0627\u0644\u0631\u0635\u064a\u062f \u0642\u0628\u0644 \u0647\u0630\u0647 \u0627\u0644\u062d\u0631\u0643\u0629"
+  "translated_text": "الرصيد قبل هذه الحركة"
  },
  {
   "context": null,
@@ -5583,7 +5583,7 @@
   "modified": "2023-12-23 16:17:51.542419",
   "name": "0a13f9585e",
   "source_text": "Wallet Credit Balance",
-  "translated_text": "\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0627\u0631\u0635\u062f\u0629"
+  "translated_text": "تقارير الارصدة"
  },
  {
   "context": null,
@@ -5597,7 +5597,7 @@
   "modified": "2023-12-23 16:17:51.531582",
   "name": "d316a28e41",
   "source_text": "{0} filter",
-  "translated_text": "\u0627\u0644\u062a\u0635\u0641\u064a\u0627\u062a ({0})"
+  "translated_text": "التصفيات ({0})"
  },
  {
   "context": null,
@@ -5611,7 +5611,7 @@
   "modified": "2023-12-23 16:17:51.522384",
   "name": "f97d6339d3",
   "source_text": "Item wise Purchase Register",
-  "translated_text": "\u0633\u062c\u0644 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a \u062d\u0633\u0628 \u0627\u0644\u0635\u0646\u0641"
+  "translated_text": "سجل المشتريات حسب الصنف"
  },
  {
   "context": null,
@@ -5625,7 +5625,7 @@
   "modified": "2023-12-23 16:17:51.511963",
   "name": "c6509c1305",
   "source_text": "Custom Reports",
-  "translated_text": "\u062a\u0642\u0627\u0631\u064a\u0631 \u0645\u062e\u0635\u0635\u0629"
+  "translated_text": "تقارير مخصصة"
  },
  {
   "context": null,
@@ -5639,7 +5639,7 @@
   "modified": "2023-12-23 16:17:51.501313",
   "name": "e014ba729e",
   "source_text": "Desk Theme",
-  "translated_text": "\u0633\u0645\u0629 \u0627\u0644\u0645\u0643\u062a\u0628"
+  "translated_text": "سمة المكتب"
  },
  {
   "context": null,
@@ -5653,7 +5653,7 @@
   "modified": "2023-12-23 16:17:51.491030",
   "name": "7c05f5fc8a",
   "source_text": "Is Standard",
-  "translated_text": "\u0642\u064a\u0627\u0633\u064a"
+  "translated_text": "قياسي"
  },
  {
   "context": null,
@@ -5666,8 +5666,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:51.480424",
   "name": "eef2e1c5ac",
-  "source_text": "New \u062e\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0646\u062a\u062c",
-  "translated_text": "\u062e\u064a\u0627\u0631\u0627\u062a \u0645\u0646\u062a\u062c \u062c\u062f\u064a\u062f\u0629"
+  "source_text": "New خيارات المنتج",
+  "translated_text": "خيارات منتج جديدة"
  },
  {
   "context": null,
@@ -5681,7 +5681,7 @@
   "modified": "2023-12-23 16:17:51.471279",
   "name": "e3789d27d8",
   "source_text": "Privacy Policy",
-  "translated_text": "\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
+  "translated_text": "سياسة الخصوصية"
  },
  {
   "context": null,
@@ -5695,7 +5695,7 @@
   "modified": "2023-12-23 16:17:51.461071",
   "name": "2bdb0e3cad",
   "source_text": "new-purchase-invoice-3",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629-\u0634\u0631\u0627\u0621-\u062c\u062f\u064a\u062f\u0629-3"
+  "translated_text": "فاتورة-شراء-جديدة-3"
  },
  {
   "context": null,
@@ -5709,7 +5709,7 @@
   "modified": "2023-12-23 16:17:51.450554",
   "name": "2e3069c099",
   "source_text": "Personal care",
-  "translated_text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629"
+  "translated_text": "العناية الشخصية"
  },
  {
   "context": null,
@@ -5723,7 +5723,7 @@
   "modified": "2023-12-23 16:17:51.440106",
   "name": "811ae7ee66",
   "source_text": "Is Group Warehouse",
-  "translated_text": "\u0647\u0648 \u0645\u0633\u062a\u0648\u062f\u0639 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629"
+  "translated_text": "هو مستودع المجموعة"
  },
  {
   "context": null,
@@ -5737,7 +5737,7 @@
   "modified": "2023-12-23 16:17:51.430867",
   "name": "732c6f56ae",
   "source_text": "Useful Links",
-  "translated_text": "\u0631\u0648\u0627\u0628\u0637 \u0645\u0641\u064a\u062f\u0629"
+  "translated_text": "روابط مفيدة"
  },
  {
   "context": null,
@@ -5751,7 +5751,7 @@
   "modified": "2023-12-23 16:17:51.420789",
   "name": "18730dfa3a",
   "source_text": "No Sales Order found with matching filters. Clear filters to see all Sales Order.",
-  "translated_text": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0623\u0645\u0631 \u0645\u0628\u064a\u0639\u0627\u062a \u0645\u0639 \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062a\u0635\u0641\u064a\u0629 \u0627\u0644\u0645\u0637\u0627\u0628\u0642\u0629. \u0627\u0645\u0633\u062d \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062a\u0635\u0641\u064a\u0629 \u0644\u0631\u0624\u064a\u0629 \u062c\u0645\u064a\u0639 \u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a."
+  "translated_text": "لم يتم العثور على أمر مبيعات مع عوامل التصفية المطابقة. امسح عوامل التصفية لرؤية جميع أوامر المبيعات."
  },
  {
   "context": null,
@@ -5765,7 +5765,7 @@
   "modified": "2023-12-23 16:17:51.411205",
   "name": "31ca4b5d40",
   "source_text": "Trial Balance",
-  "translated_text": "\u0645\u064a\u0632\u0627\u0646 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629"
+  "translated_text": "ميزان المراجعة"
  },
  {
   "context": null,
@@ -5779,7 +5779,7 @@
   "modified": "2023-12-23 16:17:51.401792",
   "name": "01ff6ad0fd",
   "source_text": "Show Report",
-  "translated_text": "\u0639\u0631\u0636 \u0627\u0644\u062a\u0642\u0631\u064a\u0631"
+  "translated_text": "عرض التقرير"
  },
  {
   "context": null,
@@ -5793,7 +5793,7 @@
   "modified": "2023-12-23 16:17:51.391932",
   "name": "ad4c57b784",
   "source_text": "Item",
-  "translated_text": "\u0627\u0644\u0645\u0646\u062a\u062c"
+  "translated_text": "المنتج"
  },
  {
   "context": null,
@@ -5807,7 +5807,7 @@
   "modified": "2023-12-23 16:17:51.382080",
   "name": "bcae950e24",
   "source_text": "Add a Filter +",
-  "translated_text": "\u0623\u0636\u0641 \u0641\u0644\u062a\u0631 +"
+  "translated_text": "أضف فلتر +"
  },
  {
   "context": null,
@@ -5821,7 +5821,7 @@
   "modified": "2023-12-23 16:17:51.370645",
   "name": "2cfbecbe7d",
   "source_text": "My Workspaces",
-  "translated_text": "\u0645\u0633\u0627\u062d\u0627\u062a \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u062e\u0627\u0635\u0629"
+  "translated_text": "مساحات العمل الخاصة"
  },
  {
   "context": null,
@@ -5834,8 +5834,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:51.361111",
   "name": "124b0ff93d",
-  "source_text": "New \u0637\u0644\u0628 \u0627\u0644\u0645\u062d\u0641\u0638\u0629 \u0627\u0644\u0631\u0642\u0645\u064a\u0629",
-  "translated_text": "\u0637\u0644\u0628 \u0645\u062d\u0641\u0638\u0629 \u0631\u0642\u0645\u064a\u0629 \u062c\u062f\u064a\u062f"
+  "source_text": "New طلب المحفظة الرقمية",
+  "translated_text": "طلب محفظة رقمية جديد"
  },
  {
   "context": null,
@@ -5849,7 +5849,7 @@
   "modified": "2023-12-23 16:17:51.350784",
   "name": "8e5ff35dbc",
   "source_text": "new-agent-payment-entry-1",
-  "translated_text": "\u062a\u0633\u062c\u064a\u0644-\u0645\u0628\u0644\u063a-\u062f\u0641\u0639-\u0645\u0646\u062f\u0648\u0628-\u062c\u062f\u064a\u062f-1"
+  "translated_text": "تسجيل-مبلغ-دفع-مندوب-جديد-1"
  },
  {
   "context": null,
@@ -5863,7 +5863,7 @@
   "modified": "2023-12-23 16:17:51.341641",
   "name": "44425ab53d",
   "source_text": "new-pricing-rule-2",
-  "translated_text": "\u0642\u0627\u0639\u062f\u0629-\u062a\u0633\u0639\u064a\u0631-\u062c\u062f\u064a\u062f\u0629-2"
+  "translated_text": "قاعدة-تسعير-جديدة-2"
  },
  {
   "context": null,
@@ -5877,7 +5877,7 @@
   "modified": "2023-12-23 16:17:51.332516",
   "name": "25b4b11b5b",
   "source_text": "Phone",
-  "translated_text": "\u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641"
+  "translated_text": "رقم الهاتف"
  },
  {
   "context": null,
@@ -5890,8 +5890,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:51.323064",
   "name": "4d6afbcdca",
-  "source_text": "New \u0623\u0642\u0633\u0627\u0645 \u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u0633\u064a\u0629",
-  "translated_text": "\u0642\u0633\u0645 \u0635\u0641\u062d\u0629 \u0631\u0626\u064a\u0633\u064a\u0629 \u062c\u062f\u064a\u062f"
+  "source_text": "New أقسام الصفحة الرئسية",
+  "translated_text": "قسم صفحة رئيسية جديد"
  },
  {
   "context": null,
@@ -5905,7 +5905,7 @@
   "modified": "2023-12-23 16:17:51.312464",
   "name": "86273f3f05",
   "source_text": "Execution Time:",
-  "translated_text": "\u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0645\u0633\u062a\u063a\u0631\u0642 \u0644\u0644\u062a\u0642\u0631\u064a\u0631:"
+  "translated_text": "الوقت المستغرق للتقرير:"
  },
  {
   "context": null,
@@ -5919,7 +5919,7 @@
   "modified": "2023-12-23 16:17:51.302557",
   "name": "db478ddf40",
   "source_text": "Create Workspace",
-  "translated_text": "\u0627\u0646\u0634\u0627\u0621 \u0645\u0633\u0627\u062d\u0629 \u0639\u0645\u0644"
+  "translated_text": "انشاء مساحة عمل"
  },
  {
   "context": null,
@@ -5933,7 +5933,7 @@
   "modified": "2023-12-23 16:17:51.292398",
   "name": "736f1422f7",
   "source_text": "Most Sold",
-  "translated_text": "\u0627\u0644\u0627\u0643\u062b\u0631 \u0645\u0628\u064a\u0639\u0627"
+  "translated_text": "الاكثر مبيعا"
  },
  {
   "context": null,
@@ -5947,7 +5947,7 @@
   "modified": "2023-12-23 16:17:51.283100",
   "name": "7dff04dde3",
   "source_text": "Wallet",
-  "translated_text": "\u0627\u0644\u0645\u062d\u0641\u0638\u0629 \u0627\u0644\u0631\u0642\u0645\u064a\u0629"
+  "translated_text": "المحفظة الرقمية"
  },
  {
   "context": null,
@@ -5961,7 +5961,7 @@
   "modified": "2023-12-23 16:17:51.274150",
   "name": "d85497a7f2",
   "source_text": "OUR PROMISES",
-  "translated_text": "\u0648\u0639\u0648\u062f\u0646\u0627"
+  "translated_text": "وعودنا"
  },
  {
   "context": null,
@@ -5975,7 +5975,7 @@
   "modified": "2023-12-23 16:17:51.264098",
   "name": "7bda88eb01",
   "source_text": "Add to Dashboard",
-  "translated_text": "\u0623\u0636\u0641 \u0627\u0644\u0649 \u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645"
+  "translated_text": "أضف الى لوحة التحكم"
  },
  {
   "context": null,
@@ -5989,7 +5989,7 @@
   "modified": "2023-12-23 16:17:51.254377",
   "name": "3404fae486",
   "source_text": "Last Modified On",
-  "translated_text": "\u062a\u0627\u0631\u064a\u062e \u0622\u062e\u0631 \u062a\u0639\u062f\u064a\u0644"
+  "translated_text": "تاريخ آخر تعديل"
  },
  {
   "context": null,
@@ -6003,7 +6003,7 @@
   "modified": "2023-12-23 16:17:51.244689",
   "name": "690c62abed",
   "source_text": "Auto Reply",
-  "translated_text": "\u0631\u062f \u0622\u0644\u064a"
+  "translated_text": "رد آلي"
  },
  {
   "context": null,
@@ -6017,7 +6017,7 @@
   "modified": "2023-12-23 16:17:51.231313",
   "name": "ceab409d0c",
   "source_text": "Is Transfer",
-  "translated_text": "\u062a\u062d\u0648\u064a\u0644"
+  "translated_text": "تحويل"
  },
  {
   "context": null,
@@ -6031,7 +6031,7 @@
   "modified": "2023-12-23 16:17:51.222118",
   "name": "1455054237",
   "source_text": "unpaid_amount_sum",
-  "translated_text": "\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u063a\u064a\u0631 \u0627\u0644\u0645\u062f\u0641\u0648\u0639"
+  "translated_text": "مجموع المبلغ الغير المدفوع"
  },
  {
   "context": null,
@@ -6044,8 +6044,8 @@
   "language": "ar",
   "modified": "2023-12-23 16:17:51.212114",
   "name": "289f667761",
-  "source_text": "New \u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0623\u0633\u0639\u0627\u0631",
-  "translated_text": "\u0635\u0646\u0641 \u0633\u0639\u0631 \u062c\u062f\u064a\u062f"
+  "source_text": "New أصناف الأسعار",
+  "translated_text": "صنف سعر جديد"
  },
  {
   "context": null,
@@ -6059,7 +6059,7 @@
   "modified": "2023-12-23 16:17:51.201434",
   "name": "c2a0336a4c",
   "source_text": "Delay Time",
-  "translated_text": "\u0648\u0642\u062a \u0627\u0644\u062a\u0623\u062e\u064a\u0631"
+  "translated_text": "وقت التأخير"
  },
  {
   "context": null,
@@ -6073,7 +6073,7 @@
   "modified": "2023-12-23 16:17:51.191583",
   "name": "890ba40ccd",
   "source_text": "Recommended for you",
-  "translated_text": "\u0645\u0646\u062a\u062c\u0627\u062a \u0645\u0642\u062a\u0631\u062d\u0629 \u0644\u0643"
+  "translated_text": "منتجات مقترحة لك"
  },
  {
   "context": null,
@@ -6087,7 +6087,7 @@
   "modified": "2023-12-23 16:17:51.182410",
   "name": "60c5f583a0",
   "source_text": "Direct Order",
-  "translated_text": "\u0637\u0644\u0628 \u0645\u0628\u0627\u0634\u0631"
+  "translated_text": "طلب مباشر"
  },
  {
   "context": null,
@@ -6101,7 +6101,7 @@
   "modified": "2023-12-23 16:17:51.173008",
   "name": "3ded19095b",
   "source_text": "Account Tree",
-  "translated_text": "\u0627\u0644\u0634\u062c\u0631\u0629 \u0627\u0644\u0645\u062d\u0627\u0633\u0628\u064a\u0629"
+  "translated_text": "الشجرة المحاسبية"
  },
  {
   "context": null,
@@ -6115,7 +6115,7 @@
   "modified": "2023-12-23 16:17:51.161494",
   "name": "4ecd82135c",
   "source_text": "requested_amount_sum",
-  "translated_text": "\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u0645\u0637\u0644\u0648\u0628"
+  "translated_text": "مجموع المبلغ المطلوب"
  },
  {
   "context": null,
@@ -6129,7 +6129,7 @@
   "modified": "2023-12-23 16:17:51.151835",
   "name": "d2b701aa21",
   "source_text": "new-sales-order-2",
-  "translated_text": "\u0637\u0644\u0628-\u0645\u0628\u064a\u0639\u0627\u062a-\u062c\u062f\u064a\u062f-2"
+  "translated_text": "طلب-مبيعات-جديد-2"
  },
  {
   "context": null,
@@ -6143,7 +6143,7 @@
   "modified": "2023-12-23 16:17:51.142515",
   "name": "7dabb93d12",
   "source_text": "You haven't created a {0} yet",
-  "translated_text": "\u0644\u0645 \u062a\u0642\u0645 \u0628\u0625\u0646\u0634\u0627\u0621 \u0627\u064a \u0645\u0646 {0} \u0628\u0639\u062f"
+  "translated_text": "لم تقم بإنشاء اي من {0} بعد"
  },
  {
   "context": null,
@@ -6157,7 +6157,7 @@
   "modified": "2023-12-23 16:17:51.133501",
   "name": "e4b134d719",
   "source_text": "Don't have an account?",
-  "translated_text": "\u0644\u064a\u0633 \u0644\u062f\u064a\u0643 \u062d\u0633\u0627\u0628\u061f"
+  "translated_text": "ليس لديك حساب؟"
  },
  {
   "context": null,
@@ -6171,7 +6171,7 @@
   "modified": "2023-12-23 16:17:51.123146",
   "name": "446a3504b9",
   "source_text": "Incoming (POP/IMAP) Settings",
-  "translated_text": "\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0648\u0627\u0631\u062f (POP/IMAP)."
+  "translated_text": "إعدادات الوارد (POP/IMAP)."
  },
  {
   "context": null,
@@ -6185,7 +6185,7 @@
   "modified": "2023-12-23 16:17:51.113483",
   "name": "a158e9faa2",
   "source_text": "new-item-4",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-4"
+  "translated_text": "منتج-جديد-4"
  },
  {
   "context": null,
@@ -6199,7 +6199,7 @@
   "modified": "2023-12-23 16:17:51.104052",
   "name": "b4022148ed",
   "source_text": "About",
-  "translated_text": "\u062d\u0648\u0644"
+  "translated_text": "حول"
  },
  {
   "context": null,
@@ -6213,7 +6213,7 @@
   "modified": "2023-12-23 16:17:51.094998",
   "name": "61fefb61a4",
   "source_text": "Filter",
-  "translated_text": "\u062a\u0635\u0641\u064a\u0629"
+  "translated_text": "تصفية"
  },
  {
   "context": null,
@@ -6227,7 +6227,7 @@
   "modified": "2023-12-23 16:17:51.086152",
   "name": "c9a370295a",
   "source_text": "new-app-message-1",
-  "translated_text": "\u0631\u0633\u0627\u0644\u0629-\u062a\u0637\u0628\u064a\u0642-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "رسالة-تطبيق-جديدة-1"
  },
  {
   "context": null,
@@ -6241,7 +6241,7 @@
   "modified": "2023-12-23 16:17:51.076912",
   "name": "5adcff5368",
   "source_text": "Purchase Invoice",
-  "translated_text": "\u0641\u0627\u062a\u0648\u0631\u0629 \u0627\u0644\u0634\u0631\u0627\u0621"
+  "translated_text": "فاتورة الشراء"
  },
  {
   "context": null,
@@ -6255,7 +6255,7 @@
   "modified": "2023-12-23 16:17:51.064562",
   "name": "eed3e6e7f4",
   "source_text": "new-pricing-rule-3",
-  "translated_text": "\u0642\u0627\u0639\u062f\u0629-\u062a\u0633\u0639\u064a\u0631-\u062c\u062f\u064a\u062f\u0629-3"
+  "translated_text": "قاعدة-تسعير-جديدة-3"
  },
  {
   "context": null,
@@ -6269,7 +6269,7 @@
   "modified": "2023-12-23 16:17:51.053858",
   "name": "582823c81c",
   "source_text": "DWR Reference",
-  "translated_text": "\u0631\u0642\u0645 \u0645\u0631\u062c\u0639 \u0637\u0644\u0628 \u0627\u0644\u0645\u062d\u0641\u0638\u0629"
+  "translated_text": "رقم مرجع طلب المحفظة"
  },
  {
   "context": null,
@@ -6283,7 +6283,7 @@
   "modified": "2023-12-23 16:17:51.042714",
   "name": "638bb46dd0",
   "source_text": "Setup Auto Email",
-  "translated_text": "\u0625\u0639\u062f\u0627\u062f \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0627\u0644\u062a\u0644\u0642\u0627\u0626\u064a"
+  "translated_text": "إعداد البريد الإلكتروني التلقائي"
  },
  {
   "context": null,
@@ -6297,7 +6297,7 @@
   "modified": "2023-12-23 16:17:51.032704",
   "name": "4f60e24081",
   "source_text": "filters",
-  "translated_text": "\u0641\u0644\u0627\u062a\u0631"
+  "translated_text": "فلاتر"
  },
  {
   "context": null,
@@ -6311,7 +6311,7 @@
   "modified": "2023-12-23 16:17:51.021348",
   "name": "d523ff8dd4",
   "source_text": "Masters",
-  "translated_text": "\u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629"
+  "translated_text": "البيانات الأساسية"
  },
  {
   "context": null,
@@ -6325,7 +6325,7 @@
   "modified": "2023-12-23 16:17:51.012013",
   "name": "3d2b7cba59",
   "source_text": "Go to Cart",
-  "translated_text": "\u0627\u0630\u0647\u0628 \u0625\u0644\u0649 \u0627\u0644\u0633\u0644\u0629"
+  "translated_text": "اذهب إلى السلة"
  },
  {
   "context": null,
@@ -6339,7 +6339,7 @@
   "modified": "2023-12-23 16:17:51.003070",
   "name": "dc7bf60349",
   "source_text": "new-price-list-3",
-  "translated_text": "\u0642\u0627\u0626\u0645\u0629-\u0623\u0633\u0639\u0627\u0631-\u062c\u062f\u064a\u062f\u0629-3"
+  "translated_text": "قائمة-أسعار-جديدة-3"
  },
  {
   "context": null,
@@ -6353,7 +6353,7 @@
   "modified": "2023-12-23 16:17:50.991206",
   "name": "32d5f1f1d9",
   "source_text": "Mention if a non-standard receivable account",
-  "translated_text": "\u063a\u064a\u0631 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+  "translated_text": "غير الحساب الافتراضي"
  },
  {
   "context": null,
@@ -6367,7 +6367,7 @@
   "modified": "2023-12-23 16:17:50.982376",
   "name": "2ff9c6089f",
   "source_text": "New Workspace",
-  "translated_text": "\u0645\u0633\u0627\u062d\u0629 \u0639\u0645\u0644 \u062c\u062f\u064a\u062f\u0629"
+  "translated_text": "مساحة عمل جديدة"
  },
  {
   "context": null,
@@ -6381,7 +6381,7 @@
   "modified": "2023-12-23 16:17:50.972601",
   "name": "20e6e52f6b",
   "source_text": "Liked By",
-  "translated_text": "\u0623\u0639\u062c\u0628 \u0628\u0647"
+  "translated_text": "أعجب به"
  },
  {
   "context": null,
@@ -6395,7 +6395,7 @@
   "modified": "2023-12-23 16:17:50.962520",
   "name": "1e5765bdf5",
   "source_text": "Add Total Row",
-  "translated_text": "\u0627\u0636\u0641 \u0635\u0637\u0631 \u0627\u0644\u0645\u062c\u0645\u0648\u0639"
+  "translated_text": "اضف صطر المجموع"
  },
  {
   "context": null,
@@ -6409,7 +6409,7 @@
   "modified": "2023-12-23 16:17:50.953393",
   "name": "45b5d33ab6",
   "source_text": "Home",
-  "translated_text": "\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"
+  "translated_text": "الصفحة الرئيسية"
  },
  {
   "context": null,
@@ -6423,7 +6423,7 @@
   "modified": "2023-12-23 16:17:50.944432",
   "name": "9f7ea8dca3",
   "source_text": "new-contact-1",
-  "translated_text": "\u062c\u0647\u0629-\u0627\u062a\u0635\u0627\u0644-\u062c\u062f\u064a\u062f\u0629-1"
+  "translated_text": "جهة-اتصال-جديدة-1"
  },
  {
   "context": null,
@@ -6437,7 +6437,7 @@
   "modified": "2023-12-23 16:17:50.933342",
   "name": "5674ec9c3b",
   "source_text": "Additional Discount Percentage",
-  "translated_text": "\u062e\u0635\u0645 \u0627\u0636\u0627\u0641\u064a \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0624\u064a\u0629"
+  "translated_text": "خصم اضافي بالنسبة المؤية"
  },
  {
   "context": null,
@@ -6451,7 +6451,7 @@
   "modified": "2023-12-23 16:17:50.924266",
   "name": "8a5a0ac404",
   "source_text": "Not Like",
-  "translated_text": "\u0644\u064a\u0633 \u0645\u062b\u0644"
+  "translated_text": "ليس مثل"
  },
  {
   "context": null,
@@ -6465,7 +6465,7 @@
   "modified": "2023-12-23 16:17:50.912119",
   "name": "2a0e4d53b1",
   "source_text": "new-item-3",
-  "translated_text": "\u0645\u0646\u062a\u062c-\u062c\u062f\u064a\u062f-3"
+  "translated_text": "منتج-جديد-3"
  },
  {
   "context": null,
@@ -6479,7 +6479,7 @@
   "modified": "2023-12-23 16:17:50.900011",
   "name": "ab912be9c8",
   "source_text": "Advance amount",
-  "translated_text": "\u0627\u0644\u062f\u0641\u0639\u0629 \u0627\u0644\u0645\u0642\u062f\u0645\u0629"
+  "translated_text": "الدفعة المقدمة"
  },
  {
   "context": null,
@@ -6493,7 +6493,7 @@
   "modified": "2023-12-23 16:17:50.890209",
   "name": "a6f90a16f2",
   "source_text": "new-sales-order-3",
-  "translated_text": "\u0637\u0644\u0628-\u0645\u0628\u064a\u0639\u0627\u062a-\u062c\u062f\u064a\u062f-3"
+  "translated_text": "طلب-مبيعات-جديد-3"
  },
  {
   "context": null,
@@ -6507,7 +6507,7 @@
   "modified": "2023-12-23 16:17:50.880840",
   "name": "86b61203b9",
   "source_text": "Load More",
-  "translated_text": "\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0632\u064a\u062f"
+  "translated_text": "تحميل المزيد"
  },
  {
   "context": null,
@@ -6521,7 +6521,7 @@
   "modified": "2023-12-23 16:17:50.870855",
   "name": "2c2888a9ae",
   "source_text": "User Accounts",
-  "translated_text": "\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646"
+  "translated_text": "حسابات المستخدمين"
  },
  {
   "context": null,
@@ -6535,7 +6535,7 @@
   "modified": "2023-12-23 16:17:50.861816",
   "name": "6b3debd6fe",
   "source_text": "User Report",
-  "translated_text": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645"
+  "translated_text": "تقرير المستخدم"
  },
  {
   "context": null,
@@ -6549,7 +6549,7 @@
   "modified": "2023-12-23 16:17:50.849536",
   "name": "3897bdd2aa",
   "source_text": "Weekly Activity",
-  "translated_text": "\u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0623\u0633\u0628\u0648\u0639\u064a"
+  "translated_text": "النشاط الأسبوعي"
  },
  {
   "context": null,
@@ -6563,7 +6563,7 @@
   "modified": "2023-12-23 16:17:50.837772",
   "name": "a37f01cee2",
   "source_text": "Posts per Country",
-  "translated_text": "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a \u0644\u0643\u0644 \u062f\u0648\u0644\u0629"
+  "translated_text": "المشاركات لكل دولة"
  },
  {
   "context": null,
@@ -6577,7 +6577,7 @@
   "modified": "2023-12-23 16:17:50.827487",
   "name": "147367c295",
   "source_text": "Featured News",
-  "translated_text": "\u0623\u062e\u0628\u0627\u0631 \u0645\u0645\u064a\u0632\u0629"
+  "translated_text": "أخبار مميزة"
  },
  {
   "context": null,
@@ -6591,7 +6591,7 @@
   "modified": "2023-12-23 16:17:50.817976",
   "name": "6cd1f7010d",
   "source_text": "Sensitive",
-  "translated_text": "\u062d\u0633\u0627\u0633"
+  "translated_text": "حساس"
  },
  {
   "context": null,
@@ -6605,7 +6605,7 @@
   "modified": "2023-12-23 16:17:50.808598",
   "name": "da3928629b",
   "source_text": "Hide Tags",
-  "translated_text": "\u0625\u062e\u0641\u0627\u0621 \u0627\u0644\u0639\u0644\u0627\u0645\u0627\u062a"
+  "translated_text": "إخفاء العلامات"
  },
  {
   "context": null,
@@ -6619,7 +6619,7 @@
   "modified": "2023-12-23 16:17:50.799408",
   "name": "45b4a4b493",
   "source_text": "Connections",
-  "translated_text": "\u0631\u0648\u0627\u0628\u0637"
+  "translated_text": "روابط"
  },
  {
   "context": null,
@@ -6633,7 +6633,7 @@
   "modified": "2023-12-23 16:17:50.786196",
   "name": "cd0f3e45d3",
   "source_text": "Token Cache",
-  "translated_text": "\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u062e\u0632\u064a\u0646 \u0627\u0644\u0645\u0624\u0642\u062a \u0644\u0644\u0631\u0645\u0632 \u0627\u0644\u0645\u0645\u064a\u0632"
+  "translated_text": "ذاكرة التخزين المؤقت للرمز المميز"
  },
  {
   "context": null,
@@ -6647,7 +6647,7 @@
   "modified": "2023-12-23 16:17:50.775637",
   "name": "324490089b",
   "source_text": "No Token Cache found with matching filters. Clear filters to see all Token Cache.",
-  "translated_text": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0630\u0627\u0643\u0631\u0629 \u062a\u062e\u0632\u064a\u0646 \u0645\u0624\u0642\u062a \u0644\u0644\u0631\u0645\u0632 \u0627\u0644\u0645\u0645\u064a\u0632 \u0645\u0639 \u0627\u0644\u0645\u0631\u0634\u062d\u0627\u062a \u0627\u0644\u0645\u0637\u0627\u0628\u0642\u0629. \u0627\u0645\u0633\u062d \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062a\u0635\u0641\u064a\u0629 \u0644\u0631\u0624\u064a\u0629 \u0643\u0644 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u062e\u0632\u064a\u0646 \u0627\u0644\u0645\u0624\u0642\u062a \u0644\u0644\u0631\u0645\u0632 \u0627\u0644\u0645\u0645\u064a\u0632."
+  "translated_text": "لم يتم العثور على ذاكرة تخزين مؤقت للرمز المميز مع المرشحات المطابقة. امسح عوامل التصفية لرؤية كل ذاكرة التخزين المؤقت للرمز المميز."
  },
  {
   "context": null,
@@ -6661,7 +6661,7 @@
   "modified": "2023-12-23 16:17:50.764058",
   "name": "eea352491a",
   "source_text": "You haven't created a Token Cache yet",
-  "translated_text": "\u0644\u0645 \u062a\u0642\u0645 \u0628\u0625\u0646\u0634\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u062a\u062e\u0632\u064a\u0646 \u0645\u0624\u0642\u062a \u0644\u0644\u0631\u0645\u0632 \u0627\u0644\u0645\u0645\u064a\u0632 \u062d\u062a\u0649 \u0627\u0644\u0622\u0646"
+  "translated_text": "لم تقم بإنشاء ذاكرة تخزين مؤقت للرمز المميز حتى الآن"
  },
  {
   "context": null,
@@ -6675,7 +6675,7 @@
   "modified": "2023-12-23 16:17:50.750822",
   "name": "1267f3546e",
   "source_text": "Drag and drop files here or upload from",
-  "translated_text": "\u0642\u0645 \u0628\u0633\u062d\u0628 \u0648\u0625\u0633\u0642\u0627\u0637 \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u0647\u0646\u0627 \u0623\u0648 \u062a\u062d\u0645\u064a\u0644\u0647\u0627 \u0645\u0646"
+  "translated_text": "قم بسحب وإسقاط الملفات هنا أو تحميلها من"
  },
  {
   "context": null,
@@ -6689,7 +6689,7 @@
   "modified": "2023-12-23 16:17:50.739214",
   "name": "008739611c",
   "source_text": "My Device",
-  "translated_text": "\u062c\u0647\u0627\u0632\u064a"
+  "translated_text": "جهازي"
  },
  {
   "context": null,
@@ -6703,7 +6703,7 @@
   "modified": "2023-12-23 16:17:50.727998",
   "name": "9eaa9f0d14",
   "source_text": "Library",
-  "translated_text": "\u0645\u0643\u062a\u0628\u0629"
+  "translated_text": "مكتبة"
  },
  {
   "context": null,
@@ -6717,7 +6717,7 @@
   "modified": "2023-12-23 16:17:50.712025",
   "name": "afde2a4b00",
   "source_text": "Set all private",
-  "translated_text": "\u062a\u0639\u064a\u064a\u0646 \u0643\u0644 \u0634\u064a\u0621 \u062e\u0627\u0635"
+  "translated_text": "تعيين كل شيء خاص"
  },
  {
   "context": null,
@@ -6731,7 +6731,7 @@
   "modified": "2023-12-23 16:17:50.696164",
   "name": "8eb36f8481",
   "source_text": "Reported User",
-  "translated_text": "\u0645\u0633\u062a\u062e\u062f\u0645 \u062a\u0645 \u0627\u0644\u0625\u0628\u0644\u0627\u063a \u0639\u0646\u0647"
+  "translated_text": "مستخدم تم الإبلاغ عنه"
  },
  {
   "context": null,
@@ -6745,7 +6745,7 @@
   "modified": "2023-12-23 16:17:50.686898",
   "name": "ac57f4979b",
   "source_text": "System User",
-  "translated_text": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0646\u0638\u0627\u0645"
+  "translated_text": "مستخدم النظام"
  },
  {
   "context": null,
@@ -6759,7 +6759,7 @@
   "modified": "2023-12-23 16:17:50.676934",
   "name": "b3872531c3",
   "source_text": "Manager",
-  "translated_text": "\u0645\u062f\u064a\u0631"
+  "translated_text": "مدير"
  },
  {
   "context": null,
@@ -6773,6 +6773,6 @@
   "modified": "2023-12-23 16:17:50.651656",
   "name": "dde9183a68",
   "source_text": "Website User",
-  "translated_text": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0648\u0642\u0639"
+  "translated_text": "مستخدم الموقع"
  }
 ]
