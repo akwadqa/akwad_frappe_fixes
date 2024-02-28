@@ -169,13 +169,6 @@ li[style*="direction: rtl;"].ql-indent-5 {
     stroke: #a2c6e7;
 }
 
-.indicator-pill-right:after, .indicator-pill:before {
-    content: "";
-    display: inline-table;
-    height: 5px;
-    width: 5px;
-}
-
 .dt-instance-1 .dt-cell--col-1 {
  text-align: right;
 }
