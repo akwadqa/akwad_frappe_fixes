@@ -14,14 +14,15 @@ fixtures = [
 
         {"dt" : "Property Setter", "filters" : [["module","in", "Akwad Frappe Fixes"]]},
         {"dt" : "Custom Field", "filters" : [["module","in", "Akwad Frappe Fixes"]]},
-        {"dt" : "Translation", "filters" : [["custom_module","in", "Akwad Frappe Fixes"]]}
+        {"dt" : "Translation", "filters" : [["custom_module","in", "Akwad Frappe Fixes"]]},
+        {"dt" : "Module Profile"}
 ]
 
 # include js, css files in header of desk.html
 app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_desk.css"
 # app_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes.js"
 
-app_include_js = "fileUploader.bundle.js"
+# app_include_js = "fileUploader.bundle.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_web.css"

@@ -1,0 +1,191 @@
+[
+ {
+  "block_modules": [
+   {
+    "module": "Akwad Frappe Fixes",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Assets",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Automation",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Builder",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Communication",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Contacts",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Core",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "CRM",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Custom",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Desk",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Email",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Geo",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Integrations",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Portal",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Printing",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Projects",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Regional",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Setup",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Social",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Support",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Telephony",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Utilities",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Website",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   },
+   {
+    "module": "Workflow",
+    "parent": "ERP Essentials",
+    "parentfield": "block_modules",
+    "parenttype": "Module Profile"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Module Profile",
+  "modified": "2024-02-29 14:17:06.805603",
+  "module_profile_name": "ERP Essentials",
+  "name": "ERP Essentials"
+ }
+]
