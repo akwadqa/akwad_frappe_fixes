@@ -1,6 +1,22 @@
 [
  {
   "default_value": null,
+  "doc_type": "User Type",
+  "docstatus": 0,
+  "doctype": "Property Setter",
+  "doctype_or_field": "DocField",
+  "field_name": "is_standard",
+  "is_system_generated": 0,
+  "modified": "2024-03-21 17:00:15.753102",
+  "module": "Akwad Frappe Fixes",
+  "name": "User Type-is_standard-read_only_depends_on",
+  "property": "read_only_depends_on",
+  "property_type": "Text",
+  "row_name": null,
+  "value": ""
+ },
+ {
+  "default_value": null,
   "doc_type": "User",
   "docstatus": 0,
   "doctype": "Property Setter",
