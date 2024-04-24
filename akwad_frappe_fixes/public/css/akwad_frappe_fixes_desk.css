@@ -218,3 +218,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 .ql-editor li.ql-indent-8.ql-direction-rtl {
     padding-right: 25.5em;
 }
+
+#freeze .freeze-message-container {
+    background-color: currentColor !important;
+}
