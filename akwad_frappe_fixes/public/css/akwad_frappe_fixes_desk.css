@@ -222,3 +222,17 @@ li[style*="direction: rtl;"].ql-indent-5 {
 #freeze .freeze-message-container {
     background-color: currentColor !important;
 }
+
+.standard-sidebar-item .item-anchor {
+    display: flex;
+    overflow: hidden;
+    padding: 10px 0px 10px 6px !important;
+}
+
+.navbar .navbar-nav .dropdown-item {
+    padding: 10px !important;
+}
+
+.widget.links-widget-box .link-item {
+    padding: 6px 4px !important;
+}
