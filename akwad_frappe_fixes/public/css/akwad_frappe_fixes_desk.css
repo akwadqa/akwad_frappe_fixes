@@ -236,3 +236,28 @@ li[style*="direction: rtl;"].ql-indent-5 {
 .widget.links-widget-box .link-item {
     padding: 6px 4px !important;
 }
+
+.widget.number-widget-box {
+    min-height: 130px;
+    justify-content: center;
+}
+
+/* Targeting the first instance of `.number-widget-box` */
+.ce-block:nth-of-type(1) .number-widget-box {
+    background-color: #ffe2e6; /* Example property */
+}
+
+/* Targeting the second instance of `.number-widget-box` */
+.ce-block:nth-of-type(2) .number-widget-box {
+    background-color: #fff4de; /* Example property */
+}
+
+/* Targeting the first instance of `.number-widget-box` */
+.ce-block:nth-of-type(3) .number-widget-box {
+    background-color: #dcfce7; /* Example property */
+}
+
+/* Targeting the second instance of `.number-widget-box` */
+.ce-block:nth-of-type(4) .number-widget-box {
+    background-color: #f4e8ff; /* Example property */
+}
