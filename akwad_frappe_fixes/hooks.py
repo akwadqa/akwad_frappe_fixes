@@ -13,9 +13,7 @@ app_license = "MIT"
 fixtures = [
 
         {"dt" : "Property Setter", "filters" : [["module","in", "Akwad Frappe Fixes"]]},
-        {"dt" : "Custom Field", "filters" : [["module","in", "Akwad Frappe Fixes"]]},
-        {"dt" : "Translation", "filters" : [["custom_module","in", "Akwad Frappe Fixes"]]},
-        {"dt" : "Module Profile", "filters" : [["module_profile_name","in", "ERP Essentials"]]}
+        {"dt" : "Custom Field", "filters" : [["module","in", "Akwad Frappe Fixes"]]}
 ]
 
 # include js, css files in header of desk.html
