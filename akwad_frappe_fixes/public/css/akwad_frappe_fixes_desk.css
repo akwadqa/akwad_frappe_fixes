@@ -63,23 +63,6 @@ html[data-theme='light'] .form-grid {
     white-space: normal!important;
 }
 
-html[data-theme='light'] .ql-editor.read-mode .mention {
-    --user-mention-bg-color: #e5f2fb;
-    color: #0364b9;
-    border: none;
-    font-weight: 500;
-}
-
-html[data-theme='light'] .timeline-message-box .text-color {
-    font-weight: 600;
-    color: #3870ba;
-}
-
-html[data-theme='light'] .timeline-message-box .text-color .text-muted {
-    font-weight: 400;
-    font-size: 90%;
-}
-
 li[style*="direction: rtl;"] span:before {
 	margin-right: -1.5em !important;
 	margin-left: 0.3em !important;
@@ -261,3 +244,29 @@ li[style*="direction: rtl;"].ql-indent-5 {
 .ce-block:nth-of-type(4) .number-widget-box {
     background-color: #f4e8ff; /* Example property */
 }
+
+/* Changing the styles of the Timeline. The mention, the message box and the link color */
+
+.new-timeline .timeline-item .timeline-content.frappe-card {
+    background-color: #ebf6ff;
+    border: 1px solid #c5e3ff;
+}
+
+.new-timeline .timeline-item .timeline-content.frappe-card .content .mention {
+    background-color: #c5e3ff;
+    padding: 2px 5px;
+}
+
+.mention a {
+    text-decoration: none !important;
+}
+
+.frappe-timestamp {
+    color: #7c7c7c;
+}
+
+.timeline-content a {
+    color: #0052cc !important;
+}
+
+/*End*/
