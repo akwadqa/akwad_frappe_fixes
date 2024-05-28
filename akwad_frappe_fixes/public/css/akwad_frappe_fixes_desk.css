@@ -270,4 +270,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
     color: #0052cc !important;
 }
 
-/*End*/
+/*Increasing the density of the border on the Form View of the Doctypes */
+.std-form-layout>.form-layout>.form-page {
+    border: 1px solid #c5c5c5;
+}
