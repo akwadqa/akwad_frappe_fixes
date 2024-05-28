@@ -248,7 +248,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 /* Changing the styles of the Timeline. The mention, the message box and the link color */
 
 .new-timeline .timeline-item .timeline-content.frappe-card {
-    background-color: #ebf6ff;
+    background-color: #edf6fd;
     border: 1px solid #c5e3ff;
 }
 
@@ -267,7 +267,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 }
 
 .timeline-content a {
-    color: #0052cc !important;
+    color: #0070cc !important;
 }
 
 /*Increasing the density of the border on the Form View of the Doctypes */
