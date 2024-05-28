@@ -255,6 +255,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 .new-timeline .timeline-item .timeline-content.frappe-card .content .mention {
     background-color: #c5e3ff;
     padding: 2px 5px;
+    margin: 2px 0px;
 }
 
 .mention a {
