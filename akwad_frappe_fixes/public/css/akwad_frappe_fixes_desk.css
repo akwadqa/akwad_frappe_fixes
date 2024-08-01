@@ -242,25 +242,22 @@ li[style*="direction: rtl;"].ql-indent-5 {
     justify-content: center;
 }
 
-/* Targeting the first instance of `.number-widget-box` */
 .ce-block:nth-of-type(1) .number-widget-box {
-    background-color: #ffe2e6; /* Example property */
+    background-color: #ffe2e6;
 }
 
-/* Targeting the second instance of `.number-widget-box` */
 .ce-block:nth-of-type(2) .number-widget-box {
-    background-color: #fff4de; /* Example property */
+    background-color: #fff4de;
 }
 
-/* Targeting the first instance of `.number-widget-box` */
 .ce-block:nth-of-type(3) .number-widget-box {
-    background-color: #dcfce7; /* Example property */
+    background-color: #dcfce7;
 }
 
-/* Targeting the second instance of `.number-widget-box` */
 .ce-block:nth-of-type(4) .number-widget-box {
-    background-color: #f4e8ff; /* Example property */
+    background-color: #f4e8ff;
 }
+
 a {
     color: blue;
     font-size: 111%;
@@ -272,29 +269,25 @@ label {
 }
 
 div .control-value {
-    font-size: 120% ! IMPORTANT;
+    font-size: 120% ! !important;
 }
 
 .like-disabled-input {
     background: #e1f2ff;
 }
 
-/* Targeting the first instance of .number-widget-box */
 .ce-block:nth-of-type(1) .number-widget-box {
-    background-color: #ffe2e6; /* Example property */
+    background-color: #ffe2e6;
 }
 
-/* Targeting the second instance of .number-widget-box */
 .ce-block:nth-of-type(2) .number-widget-box {
-    background-color: #fff4de; /* Example property */
+    background-color: #fff4de;
 }
 
-/* Targeting the first instance of .number-widget-box */
 .ce-block:nth-of-type(3) .number-widget-box {
-    background-color: #dcfce7; /* Example property */
+    background-color: #dcfce7;
 }
 
-/* Targeting the second instance of .number-widget-box */
 .ce-block:nth-of-type(4) .number-widget-box {
-    background-color: #f4e8ff; /* Example property */
+    background-color: #f4e8ff;
 }
