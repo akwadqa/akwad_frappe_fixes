@@ -260,7 +260,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 /* Targeting the second instance of `.number-widget-box` */
 .ce-block:nth-of-type(4) .number-widget-box {
     background-color: #f4e8ff; /* Example property */
-=======
+}
 a {
     color: blue;
     font-size: 111%;
@@ -273,6 +273,10 @@ label {
 
 div .control-value {
     font-size: 120% ! IMPORTANT;
+}
+
+.like-disabled-input {
+    background: #e1f2ff;
 }
 
 /* Targeting the first instance of .number-widget-box */
