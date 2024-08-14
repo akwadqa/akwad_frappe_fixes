@@ -31485,3 +31485,1832 @@ msgstr "{} غير موجود في PATH! وهذا مطلوب لأخذ نسخة ا
 msgid "← Back to upload files"
 msgstr "← العودة لتحميل الملفات"
 
+#: 
+msgid "Website User"
+msgstr "مستخدم الموقع"
+
+#: 
+msgid "Manager"
+msgstr "مدير"
+
+#: 
+msgid "System User"
+msgstr "مستخدم النظام"
+
+#: 
+msgid "Reported User"
+msgstr "مستخدم تم الإبلاغ عنه"
+
+#: 
+msgid "Set all private"
+msgstr "تعيين كل شيء خاص"
+
+#: 
+msgid "Library"
+msgstr "مكتبة"
+
+#: 
+msgid "My Device"
+msgstr "جهازي"
+
+#: 
+msgid "Drag and drop files here or upload from"
+msgstr "قم بسحب وإسقاط الملفات هنا أو تحميلها من"
+
+#: 
+msgid "You haven't created a Token Cache yet"
+msgstr "لم تقم بإنشاء ذاكرة تخزين مؤقت للرمز المميز حتى الآن"
+
+#: 
+msgid "No Token Cache found with matching filters. Clear filters to see all Token Cache."
+msgstr "لم يتم العثور على ذاكرة تخزين مؤقت للرمز المميز مع المرشحات المطابقة. امسح عوامل التصفية لرؤية كل ذاكرة التخزين المؤقت للرمز المميز."
+
+#: 
+msgid "Token Cache"
+msgstr "ذاكرة التخزين المؤقت للرمز المميز"
+
+#: 
+msgid "Connections"
+msgstr "روابط"
+
+#: 
+msgid "Hide Tags"
+msgstr "إخفاء العلامات"
+
+#: 
+msgid "Sensitive"
+msgstr "حساس"
+
+#: 
+msgid "Featured News"
+msgstr "أخبار مميزة"
+
+#: 
+msgid "Posts per Country"
+msgstr "المشاركات لكل دولة"
+
+#: 
+msgid "Weekly Activity"
+msgstr "النشاط الأسبوعي"
+
+#: 
+msgid "User Report"
+msgstr "تقرير المستخدم"
+
+#: 
+msgid "User Accounts"
+msgstr "حسابات المستخدمين"
+
+#: 
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: 
+msgid "new-sales-order-3"
+msgstr "طلب-مبيعات-جديد-3"
+
+#: 
+msgid "Advance amount"
+msgstr "الدفعة المقدمة"
+
+#: 
+msgid "new-item-3"
+msgstr "منتج-جديد-3"
+
+#: 
+msgid "Not Like"
+msgstr "ليس مثل"
+
+#: 
+msgid "Additional Discount Percentage"
+msgstr "خصم اضافي بالنسبة المؤية"
+
+#: 
+msgid "new-contact-1"
+msgstr "جهة-اتصال-جديدة-1"
+
+#: 
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: 
+msgid "Add Total Row"
+msgstr "اضف صطر المجموع"
+
+#: 
+msgid "Liked By"
+msgstr "أعجب به"
+
+#: 
+msgid "New Workspace"
+msgstr "فضاء عمل جديد"
+
+#: 
+msgid "Mention if a non-standard receivable account"
+msgstr "غير الحساب الافتراضي"
+
+#: 
+msgid "new-price-list-3"
+msgstr "قائمة-أسعار-جديدة-3"
+
+#: 
+msgid "Go to Cart"
+msgstr "اذهب إلى السلة"
+
+#: 
+msgid "Masters"
+msgstr "البيانات الأساسية"
+
+#: 
+msgid "filters"
+msgstr "فلاتر"
+
+#: 
+msgid "Setup Auto Email"
+msgstr "إعداد البريد الإلكتروني التلقائي"
+
+#: 
+msgid "DWR Reference"
+msgstr "رقم مرجع طلب المحفظة"
+
+#: 
+msgid "new-pricing-rule-3"
+msgstr "قاعدة-تسعير-جديدة-3"
+
+#: 
+msgid "Purchase Invoice"
+msgstr "فاتورة الشراء"
+
+#: 
+msgid "new-app-message-1"
+msgstr "رسالة-تطبيق-جديدة-1"
+
+#: 
+msgid "Filter"
+msgstr "تصفية"
+
+#: 
+msgid "new-item-4"
+msgstr "منتج-جديد-4"
+
+#: 
+msgid "Incoming (POP/IMAP) Settings"
+msgstr "إعدادات الوارد (POP/IMAP)."
+
+#: 
+msgid "Don't have an account?"
+msgstr "ليس لديك حساب؟"
+
+#: 
+msgid "You haven't created a {0} yet"
+msgstr "لم تقم بإنشاء اي من {0} بعد"
+
+#: 
+msgid "new-sales-order-2"
+msgstr "طلب-مبيعات-جديد-2"
+
+#: 
+msgid "requested_amount_sum"
+msgstr "مجموع المبلغ المطلوب"
+
+#: 
+msgid "Account Tree"
+msgstr "الشجرة المحاسبية"
+
+#: 
+msgid "Direct Order"
+msgstr "طلب مباشر"
+
+#: 
+msgid "Recommended for you"
+msgstr "منتجات مقترحة لك"
+
+#: 
+msgid "Delay Time"
+msgstr "وقت التأخير"
+
+#: 
+msgid "New أصناف الأسعار"
+msgstr "صنف سعر جديد"
+
+#: 
+msgid "unpaid_amount_sum"
+msgstr "مجموع المبلغ الغير المدفوع"
+
+#: 
+msgid "Is Transfer"
+msgstr "تحويل"
+
+#: 
+msgid "Auto Reply"
+msgstr "رد آلي"
+
+#: 
+msgid "Last Modified On"
+msgstr "تاريخ آخر تعديل"
+
+#: 
+msgid "Add to Dashboard"
+msgstr "أضف الى لوحة التحكم"
+
+#: 
+msgid "OUR PROMISES"
+msgstr "وعودنا"
+
+#: 
+msgid "Wallet"
+msgstr "مجفظة"
+
+#: 
+msgid "Most Sold"
+msgstr "الاكثر مبيعا"
+
+#: 
+msgid "Create Workspace"
+msgstr "انشاء مساحة عمل"
+
+#: 
+msgid "Execution Time:"
+msgstr "الوقت المستغرق للتقرير:"
+
+#: 
+msgid "New أقسام الصفحة الرئسية"
+msgstr "قسم صفحة رئيسية جديد"
+
+#: 
+msgid "Phone"
+msgstr "رقم الهاتف"
+
+#: 
+msgid "new-pricing-rule-2"
+msgstr "قاعدة-تسعير-جديدة-2"
+
+#: 
+msgid "new-agent-payment-entry-1"
+msgstr "تسجيل-مبلغ-دفع-مندوب-جديد-1"
+
+#: 
+msgid "New طلب المحفظة الرقمية"
+msgstr "طلب محفظة رقمية جديد"
+
+#: 
+msgid "My Workspaces"
+msgstr "مساحات العمل الخاصة"
+
+#: 
+msgid "Add a Filter +"
+msgstr "أضف فلتر +"
+
+#: 
+msgid "Item"
+msgstr "المنتج"
+
+#: 
+msgid "Show Report"
+msgstr "عرض التقرير"
+
+#: 
+msgid "Trial Balance"
+msgstr "ميزان المراجعة"
+
+#: 
+msgid "No Sales Order found with matching filters. Clear filters to see all Sales Order."
+msgstr "لم يتم العثور على أمر مبيعات مع عوامل التصفية المطابقة. امسح عوامل التصفية لرؤية جميع أوامر المبيعات."
+
+#: 
+msgid "Useful Links"
+msgstr "روابط مفيدة"
+
+#: 
+msgid "Is Group Warehouse"
+msgstr "هو مستودع المجموعة"
+
+#: 
+msgid "Personal care"
+msgstr "العناية الشخصية"
+
+#: 
+msgid "new-purchase-invoice-3"
+msgstr "فاتورة-شراء-جديدة-3"
+
+#: 
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: 
+msgid "New خيارات المنتج"
+msgstr "خيارات منتج جديدة"
+
+#: 
+msgid "Is Standard"
+msgstr "قياسي"
+
+#: 
+msgid "Desk Theme"
+msgstr "وضع العرض"
+
+#: 
+msgid "Custom Reports"
+msgstr "تقارير مخصصة"
+
+#: 
+msgid "Item wise Purchase Register"
+msgstr "سجل المشتريات حسب الصنف"
+
+#: 
+msgid "{0} filter"
+msgstr "التصفيات ({0})"
+
+#: 
+msgid "Wallet Credit Balance"
+msgstr "تقارير الارصدة"
+
+#: 
+msgid "Wallet Before Transaction"
+msgstr "الرصيد قبل هذه الحركة"
+
+#: 
+msgid "My Profile"
+msgstr "حسابي"
+
+#: 
+msgid "Create Category"
+msgstr "إنشاء فئة"
+
+#: 
+msgid "New Item Group"
+msgstr "فئة جديدة"
+
+#: 
+msgid "new-item-price-2"
+msgstr "سعر-منتج-جديد-2"
+
+#: 
+msgid "Edit Full Form"
+msgstr "تعديل استمارة كاملة"
+
+#: 
+msgid "Shop Now"
+msgstr "تسوق الان"
+
+#: 
+msgid "Icon"
+msgstr "أيقونة"
+
+#: 
+msgid "State"
+msgstr "المدينة"
+
+#: 
+msgid "Footer Content"
+msgstr "محتوى التذييل"
+
+#: 
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+#: 
+msgid "Default In-Transit Warehouse"
+msgstr "المستودع الافتراضي أثناء النقل"
+
+#: 
+msgid "E Commerce Warehouse"
+msgstr "مستودع التجارة الإلكترونية"
+
+#: 
+msgid "Report an Issue"
+msgstr "بلغ عن خطأ"
+
+#: 
+msgid "Satisfaction Guaranteed"
+msgstr "الرضا مضمون"
+
+#: 
+msgid "Clear All"
+msgstr "امسح الكل"
+
+#: 
+msgid "descending"
+msgstr "تنازلي"
+
+#: 
+msgid "new-customer-1"
+msgstr "عميل-جديد-1"
+
+#: 
+msgid "No values to show"
+msgstr "لا يوجد قيم لعرضها"
+
+#: 
+msgid "Enter Coupon Code"
+msgstr "أدخل رمز القسيمة"
+
+#: 
+msgid "Brand Logo"
+msgstr "شعار العلامة التجارية"
+
+#: 
+msgid "Send to iOS"
+msgstr "أرسال لي IOS"
+
+#: 
+msgid "Download Apps"
+msgstr "تنزيل التطبيقات"
+
+#: 
+msgid "Cash on Delivery"
+msgstr "الدفع عند الاستلام"
+
+#: 
+msgid "Mode of Payment"
+msgstr "طريقة الدفع"
+
+#: 
+msgid "No permission to read Currency"
+msgstr "غير مسموح بقراءة العملة"
+
+#: 
+msgid "new-price-list-1"
+msgstr "قائمة-أسعار-جديدة-1"
+
+#: 
+msgid "Stock limit cross for Item {0}"
+msgstr "عدد البطاقات المطلوبة غير متوفر حاليا {0}"
+
+#: 
+msgid "Edit Response"
+msgstr "تعديل"
+
+#: 
+msgid "App Message"
+msgstr "رسالة التطبيق"
+
+#: 
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: 
+msgid "Latest Items"
+msgstr "أحدث العناصر"
+
+#: 
+msgid "Cart"
+msgstr "سلة التسوق"
+
+#: 
+msgid "Report with more than 10 columns looks better in Landscape mode."
+msgstr "اختر العرض الافقي في حالة الحقول الكثيرة"
+
+#: 
+msgid "Translation"
+msgstr "ترجمة"
+
+#: 
+msgid "WhatsApp"
+msgstr "واتساب"
+
+#: 
+msgid "{0} y"
+msgstr "{0} سنة مضت"
+
+#: 
+msgid "Public"
+msgstr "عام"
+
+#: 
+msgid "View in Cart"
+msgstr "عرض في السلة"
+
+#: 
+msgid "Sort Ascending"
+msgstr "ترتيب تصاعدي"
+
+#: 
+msgid "Dashboard"
+msgstr "لوحة الخلاصات"
+
+#: 
+msgid "Internal Customer"
+msgstr "عميل داخلي"
+
+#: 
+msgid "ID"
+msgstr "رقم المعرف"
+
+#: 
+msgid "Prices"
+msgstr "الأسعار"
+
+#: 
+msgid "Not Equals"
+msgstr "لايساوي"
+
+#: 
+msgid "Additional Discount Amount"
+msgstr "خصم اضافي بالمبلغ الثابت"
+
+#: 
+msgid "General Product - Adjustable Duster 2 Joint"
+msgstr "منفضة للغبار قابلة للتعديل"
+
+#: 
+msgid "Manage third party apps"
+msgstr "إدارة تطبيقات الجهات الخارجية"
+
+#: 
+msgid "Debit Card Payment"
+msgstr "الدفع ببطاقة الصراف الآلي"
+
+#: 
+msgid "m"
+msgstr "د"
+
+#: 
+msgid "Documentation"
+msgstr "توثيق"
+
+#: 
+msgid "new-payment-entry-3"
+msgstr "إدخال-دفع-جديد -3"
+
+#: 
+msgid "Agents"
+msgstr "مناديب"
+
+#: 
+msgid "Logs"
+msgstr "السجلات"
+
+#: 
+msgid "Advance Taxes and Charges"
+msgstr "ضرائب ورسوم مقدما"
+
+#: 
+msgid "no"
+msgstr "لا"
+
+#: 
+msgid "Like"
+msgstr "اعجاب"
+
+#: 
+msgid "Toggle Full Width"
+msgstr "تغيير العرض"
+
+#: 
+msgid "new-price-list-2"
+msgstr "قائمة-أسعار-جديدة-2"
+
+#: 
+msgid "Paid"
+msgstr "مدفوع"
+
+#: 
+msgid "new-item-price-4"
+msgstr "سعر-منتج-جديد-4"
+
+#: 
+msgid "Item Group"
+msgstr "مجموعة العناصر"
+
+#: 
+msgid "Receiver By Document Field"
+msgstr "المستلم بحسب حقل الوثيقة"
+
+#: 
+msgid "We provide only the best products for our valued customers!"
+msgstr "خيارات الظهور"
+
+#: 
+msgid "New العملاء"
+msgstr "عميل جديد"
+
+#: 
+msgid "Create New"
+msgstr "اختصارات الانشاء"
+
+#: 
+msgid "Get Outstanding Wallet Request"
+msgstr "استدعاء طلبات الشحن غير المدفوعة"
+
+#: 
+msgid "For comparison, use >5, <10 or =324. For ranges, use 5:10 (for values between 5 & 10)."
+msgstr "للمقارنة استخدم الاشارات الرياضية"
+
+#: 
+msgid "new-home-block-2"
+msgstr "قسم-صحة-رئيسية-جديد-2"
+
+#: 
+msgid "Please remove the Value from old Account"
+msgstr "المرجور حذف القيمة من الحساب القديم"
+
+#: 
+msgid "Value To Be Set"
+msgstr "القيمة التي سيتم تعيينها"
+
+#: 
+msgid "new-payment-entry-1"
+msgstr "إدخال-دفع-جديد -1"
+
+#: 
+msgid "Nothing to show"
+msgstr "لا يوجد شيء لعرضه"
+
+#: 
+msgid "Follow"
+msgstr "متابعة"
+
+#: 
+msgid "new-pricing-rule-1"
+msgstr "قاعدة-تسعير-جديدة-1"
+
+#: 
+msgid "New جهات الاتصال"
+msgstr "جهة اتصال جديدة"
+
+#: 
+msgid "Amend"
+msgstr "تعديل"
+
+#: 
+msgid "With Letter head"
+msgstr "مع الترويسة"
+
+#: 
+msgid "Set Property After Alert"
+msgstr "تعيين الخاصية بعد التنبيه"
+
+#: 
+msgid "Profit and Loss Statement"
+msgstr "بيان الأرباح والخسائر"
+
+#: 
+msgid "Sales Invoice"
+msgstr "فاتورة المبيعات"
+
+#: 
+msgid "New"
+msgstr "جديد"
+
+#: 
+msgid "Equals"
+msgstr "يساوي"
+
+#: 
+msgid "new-banner-1"
+msgstr "بانر-جديد-1"
+
+#: 
+msgid "Tags"
+msgstr "العلامات"
+
+#: 
+msgid "new-purchase-invoice-2"
+msgstr "فاتورة-شراء-جديدة-2"
+
+#: 
+msgid "item"
+msgstr "المنتجات"
+
+#: 
+msgid "Pick Columns"
+msgstr "اختر الحقول"
+
+#: 
+msgid "No address added yet."
+msgstr "لم يتم اضافة اي عنوان بعد"
+
+#: 
+msgid "Reset sorting"
+msgstr "إعادة الفرز"
+
+#: 
+msgid "Generate New Report"
+msgstr "إنشاء تقرير جديد"
+
+#: 
+msgid "Card Label"
+msgstr "ملصق البطاقة"
+
+#: 
+msgid "Transit"
+msgstr "عبور"
+
+#: 
+msgid "Disable Prepared Report"
+msgstr "الغاء تفعيل التقارير مسبقة التحضير"
+
+#: 
+msgid "Create Order"
+msgstr "انشاء طلب مبيعات"
+
+#: 
+msgid "Manage your apps"
+msgstr "إدارة تطبيقاتك"
+
+#: 
+msgid "User Group"
+msgstr "مجموعة المستخدمين"
+
+#: 
+msgid "New تسجيل الدفعات"
+msgstr "تسجيل دفعات جديد"
+
+#: 
+msgid "Stock limit cross for Item"
+msgstr "تم تجاوز حد المخزون للمنتج"
+
+#: 
+msgid "New تسجيل مبلغ الدفع للمندوب"
+msgstr "تسجيل مبلغ دفع جديد للمندوب"
+
+#: 
+msgid "Transaction Time"
+msgstr "وقت الحركة"
+
+#: 
+msgid "MESSAGE.#####"
+msgstr "رسالة.#####"
+
+#: 
+msgid "This is a background report. Please set the appropriate filters and then generate a new one."
+msgstr "هذا التقرير يعمل بالخلفية. اضبط الفلاتر الصحيحة واضغط على توليد"
+
+#: 
+msgid "Agent"
+msgstr "مندوب"
+
+#: 
+msgid "Serial Number"
+msgstr "الارقام السرية والتسلسلية"
+
+#: 
+msgid "In"
+msgstr "في"
+
+#: 
+msgid "new-item-2"
+msgstr "منتج-جديد-2"
+
+#: 
+msgid "User Forum"
+msgstr "منتدى المستخدم"
+
+#: 
+msgid "PDF"
+msgstr "ملف بي دي اف"
+
+#: 
+msgid "new-home-block-3"
+msgstr "قسم-صحة-رئيسية-جديد-3"
+
+#: 
+msgid "new-item-price-3"
+msgstr "سعر-منتج-جديد-3"
+
+#: 
+msgid "Completed Order"
+msgstr "طلبات تم تسليمها"
+
+#: 
+msgid "Choose an icon"
+msgstr "اختر ايقونة"
+
+#: 
+msgid "new-supplier-1"
+msgstr "مورد-جديد-1"
+
+#: 
+msgid "Pending"
+msgstr "غير مكتمل"
+
+#: 
+msgid "Parent"
+msgstr "الفئة"
+
+#: 
+msgid "new-item-1"
+msgstr "منتج-جديد-1"
+
+#: 
+msgid "new-sales-invoice-2"
+msgstr "فاتورة-مبيعات-جديدة-2"
+
+#: 
+msgid "JoCards"
+msgstr "جو كاردز"
+
+#: 
+msgid "Buying & Selling Settings"
+msgstr "إعدادات البيع والشراء"
+
+#: 
+msgid "Use different Email ID"
+msgstr "استخدم معرف بريد إلكتروني مختلفًا"
+
+#: 
+msgid "Contact & Address"
+msgstr "جهة الاتصال والعناوين"
+
+#: 
+msgid "Home Settings"
+msgstr "اعدادات الشاشة الرئيسية"
+
+#: 
+msgid "new-agent-payment-entry-2"
+msgstr "تسجيل-مبلغ-دفع-مندوب-جديد-2"
+
+#: 
+msgid "User Permissions"
+msgstr "صلاحيات المستخدم"
+
+#: 
+msgid "Portrait"
+msgstr "عرض عمودي"
+
+#: 
+msgid "New المنتج المعروض في الموقع"
+msgstr "منتج جديد معروض في الموقع"
+
+#: 
+msgid "Add your message here"
+msgstr "أضف رسالتك هنا"
+
+#: 
+msgid "paid_amount_sum"
+msgstr "مجموع المبلغ المدفوع"
+
+#: 
+msgid "Note: If you're sending to multiple recipients, even if 1 recipient reads the email, it'll be considered \"Opened\""
+msgstr "ملاحظة: إذا كنت ترسل إلى عدة مستلمين، حتى إذا قرأ مستلم واحد البريد الإلكتروني، فسيتم اعتباره \"مفتوحًا\""
+
+#: 
+msgid "My Cart"
+msgstr "سلة التسوق الخاصة بي"
+
+#: 
+msgid "Webstore"
+msgstr "متجر على شبكة الإنترنت"
+
+#: 
+msgid "new-payment-entry-2"
+msgstr "إدخال-دفع-جديد -2"
+
+#: 
+msgid "Ref DocType"
+msgstr "DocType مرجعي"
+
+#: 
+msgid "new-website-item-2"
+msgstr "منتج-جديد-معروض في الموقع-2"
+
+#: 
+msgid "Fixed Asset Defaults"
+msgstr "افتراضيات الأصول الثابتة"
+
+#: 
+msgid "new-sales-invoice-3"
+msgstr "فاتورة-مبيعات-جديدة-3"
+
+#: 
+msgid "Jocards Sales Register"
+msgstr "سجل مبيعات جوكاردز"
+
+#: 
+msgid "All Products"
+msgstr "جميع المنتجات"
+
+#: 
+msgid "Created By"
+msgstr "انشأ من قبل"
+
+#: 
+msgid "new-website-item-1"
+msgstr "منتج-جديد-معروض في الموقع-1"
+
+#: 
+msgid "Wallets and Invoices"
+msgstr "المحافظ والفواتير"
+
+#: 
+msgid "Save"
+msgstr "حفظ"
+
+#: 
+msgid "Ignore Closing Balance"
+msgstr "تجاهل الارصدة المغلقة"
+
+#: 
+msgid "Kanban"
+msgstr "كانبان"
+
+#: 
+msgid "Energy Point Log"
+msgstr "سجل نقطة الطاقة"
+
+#: 
+msgid "Receivable Accounts"
+msgstr "حسابات الدائنون"
+
+#: 
+msgid "Reports & Masters"
+msgstr "التقارير"
+
+#: 
+msgid "new-customer-2"
+msgstr "عميل-جديد-2"
+
+#: 
+msgid "Credit Card Payment"
+msgstr "الدفع بالبطاقة الائتمانية"
+
+#: 
+msgid "Function"
+msgstr "الوظيفة"
+
+#: 
+msgid "Translated Text"
+msgstr "النص المترجم"
+
+#: 
+msgid "Select Dashboard"
+msgstr "حدد لوحة التحكم"
+
+#: 
+msgid "My Settings"
+msgstr "اعداداتي"
+
+#: 
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+#: 
+msgid "Available Wallet Units"
+msgstr "وحدات المحفظة المتاحة"
+
+#: 
+msgid "Payment Entry"
+msgstr "تسجيل الدفعات"
+
+#: 
+msgid "{0} filters"
+msgstr "التصفيات ({0})"
+
+#: 
+msgid "Ender Process"
+msgstr "تحت الاجراء"
+
+#: 
+msgid "Top Customers"
+msgstr "ابرز العملاء"
+
+#: 
+msgid "Block List"
+msgstr "أقسام الشاشة الرئيسية"
+
+#: 
+msgid "Receive"
+msgstr "قبض"
+
+#: 
+msgid "Not In"
+msgstr "ليس في"
+
+#: 
+msgid "Party"
+msgstr "الاسم او الصفة"
+
+#: 
+msgid "Submit this document to confirm"
+msgstr "قم بتسجيل هذا المستند للتاكيد والحفظ"
+
+#: 
+msgid "Your order was successfully placed"
+msgstr "تم تقديم طلبك بنجاح"
+
+#: 
+msgid "Execution Time: {0} sec"
+msgstr "وقت التنفيذ المستغر: {0} ثانية"
+
+#: 
+msgid "Entry Type"
+msgstr "نوع القالب"
+
+#: 
+msgid "new-sales-invoice-1"
+msgstr "فاتورة-مبيعات-جديدة-1"
+
+#: 
+msgid "Invoice and Serial No"
+msgstr "الفواتير والارقام السرية"
+
+#: 
+msgid "Default Receivable Accounts"
+msgstr "الحساب الافتراضي للدائنون"
+
+#: 
+msgid "Contact"
+msgstr "اتصال"
+
+#: 
+msgid "new-product-options-1"
+msgstr "خيارات-منتج-جديدة-1"
+
+#: 
+msgid "Overview"
+msgstr "ملخص"
+
+#: 
+msgid "Add Column"
+msgstr "أضف عمود"
+
+#: 
+msgid "Notification"
+msgstr "إشعار"
+
+#: 
+msgid "Sort Descending"
+msgstr "ترتيب تنازليٍ"
+
+#: 
+msgid "No contacts added yet."
+msgstr "لم يتم اضافة اي جهة اتصال بعد"
+
+#: 
+msgid "Orders"
+msgstr "الطلبات"
+
+#: 
+msgid "new-purchase-invoice-1"
+msgstr "فاتورة-شراء-جديدة-1"
+
+#: 
+msgid "Channel"
+msgstr "قناة"
+
+#: 
+msgid "Administrator"
+msgstr "مدير"
+
+#: 
+msgid "Show Net Values in Party Account"
+msgstr "إظهار القيم الصافية في حساب المجموعة"
+
+#: 
+msgid "Country"
+msgstr "البلد"
+
+#: 
+msgid "{0} d"
+msgstr "{0} يوم مضى"
+
+#: 
+msgid "Last Updated On"
+msgstr "آخر تحديث في"
+
+#: 
+msgid "new-website-item-4"
+msgstr "منتج-جديد-معروض في الموقع-4"
+
+#: 
+msgid "See all Activity"
+msgstr "شاهد كل النشاط"
+
+#: 
+msgid "Create Account"
+msgstr "إنشاء حساب"
+
+#: 
+msgid "Agent Customers"
+msgstr "عملاء المناديب"
+
+#: 
+msgid "Receiver By Role"
+msgstr "المستلم حسب الدور"
+
+#: 
+msgid "Mobile Banner"
+msgstr "بانرات الشاشة الرئيسية"
+
+#: 
+msgid "Your cart is Empty"
+msgstr "سلة التسوق فارغة"
+
+#: 
+msgid "Enable Push Notification"
+msgstr "تفعيل الاشعارات المدفوعة"
+
+#: 
+msgid "Edit Filters"
+msgstr "تعديل المرشحات"
+
+#: 
+msgid "Card Entry"
+msgstr "إدخال البطاقة"
+
+#: 
+msgid "new-item-price-1"
+msgstr "سعر-منتج-جديد-1"
+
+#: 
+msgid "{0} M"
+msgstr "{0} شهر مضى"
+
+#: 
+msgid "new-sales-order-1"
+msgstr "طلب-مبيعات-جديد-1"
+
+#: 
+msgid "Default Provisional Account"
+msgstr "الحساب المؤقت الافتراضي"
+
+#: 
+msgid "new-contact-2"
+msgstr "جهة-اتصال-جديدة-2"
+
+#: 
+msgid "{0} m"
+msgstr "{0} دقيقة مضت"
+
+#: 
+msgid "New سعر المنتج"
+msgstr "سعر منتج جديد"
+
+#: 
+msgid "Street Number"
+msgstr "رقم الشارع"
+
+#: 
+msgid "{0} w"
+msgstr "{0} اسبوع مضى"
+
+#: 
+msgid "of"
+msgstr "من"
+
+#: 
+msgid "Is"
+msgstr "هو"
+
+#: 
+msgid "You haven't created a journal entry yet"
+msgstr "لم تقم بإنشاء إدخال دفتر اليومية حتى الآن"
+
+#: 
+msgid "Terms and conditions"
+msgstr "الأحكام والشروط"
+
+#: 
+msgid "Unrealized Profit / Loss Account"
+msgstr "حساب الربح/الخسارة غير المحقق"
+
+#: 
+msgid "Our support team is always available to answer your questions!"
+msgstr "فريق الدعم لدينا متواجد دائمًا للإجابة على أسئلتك"
+
+#: 
+msgid "Address Title"
+msgstr "العنوان"
+
+#: 
+msgid "Refreshing..."
+msgstr "تحديث ..."
+
+#: 
+msgid "MyFatoorah - Credit Card Embedded"
+msgstr "ماي فاتورة - بطاقة الائتمان مدمجة"
+
+#: 
+msgid "Shop by Category"
+msgstr "تسوق حسب الاقسام"
+
+#: 
+msgid "Is Cash or Non Trade Discount"
+msgstr "كاش او خصم غير تجاري"
+
+#: 
+msgid "Module"
+msgstr "الوحدة"
+
+#: 
+msgid "New Item"
+msgstr "منتج جديد"
+
+#: 
+msgid "Address Line 2"
+msgstr "سطر العنوان 2"
+
+#: 
+msgid "Featured Products"
+msgstr "منتجات مميزة"
+
+#: 
+msgid "Allocated amount"
+msgstr "المبلغ المخصص"
+
+#: 
+msgid "MyFatoorah-Debit Card"
+msgstr "ماي فاتورة - بطاقة الخصم المباشر"
+
+#: 
+msgid "Accounts Receivable Summary"
+msgstr "ملخص الحسابات المدينة"
+
+#: 
+msgid "Keep Browsing"
+msgstr "استمر في التصفح"
+
+#: 
+msgid "New بانر"
+msgstr "بانر جديد"
+
+#: 
+msgid "{0} of {1}"
+msgstr "{0} من اصل {1}"
+
+#: 
+msgid "Source Text"
+msgstr "النص الأصلي"
+
+#: 
+msgid "Our extremely fast shipping will unite you with your order in no time!"
+msgstr "سوف يجمعك الشحن السريع للغاية لدينا مع طلبك في أي وقت من الأوقات"
+
+#: 
+msgid "New قائمة الأسعار"
+msgstr "قائمة أسعار جديدة"
+
+#: 
+msgid "Payment Summary"
+msgstr "ملخص الدفع"
+
+#: 
+msgid "Apply Filters"
+msgstr "تطبيق الفلاتر"
+
+#: 
+msgid "Last Updated By"
+msgstr "آخر تحديث بواسطة"
+
+#: 
+msgid "24/7 Customer Support"
+msgstr "دعمنا المستمر"
+
+#: 
+msgid "List View"
+msgstr "عرض القائمة"
+
+#: 
+msgid "Item-wise Sales"
+msgstr "حجم المبيعات حسب المنتجات"
+
+#: 
+msgid "Past Orders"
+msgstr "الطلبات الماضية"
+
+#: 
+msgid "Remove column"
+msgstr "إزالة العمود"
+
+#: 
+msgid "City/Town"
+msgstr "المدينة/البلدة"
+
+#: 
+msgid "Share URL"
+msgstr "مشاركة UR"
+
+#: 
+msgid "Enable Provisional Accounting For Non Stock Items"
+msgstr "تمكين المحاسبة المؤقتة للبنود غير المخزونة"
+
+#: 
+msgid "JOD"
+msgstr "دينار"
+
+#: 
+msgid "Address Line 1"
+msgstr "سطر العنوان 1"
+
+#: 
+msgid "Naming series"
+msgstr "الرقم التسلسلي"
+
+#: 
+msgid "Set New Password"
+msgstr "تعيين كلمة مرور جديدة"
+
+#: 
+msgid "Track if your email has been opened by the recipient."
+msgstr "تتبع ما إذا كان المستلم قد فتح بريدك الإلكتروني."
+
+#: 
+msgid "Featured Categories"
+msgstr "الفئات المميزة"
+
+#: 
+msgid "Landscape"
+msgstr "عرض افقي"
+
+#: 
+msgid "Socials"
+msgstr "مواقع التواصل الاجتماعي"
+
+#: 
+msgid "Create your first {0}"
+msgstr "قم بإنشاء اول ملف من {0}"
+
+#: 
+msgid "new-home-block-1"
+msgstr "قسم-صحة-رئيسية-جديد-1"
+
+#: 
+msgid "Unit of Measure (UOM)"
+msgstr "وحدة القياس (UOM)"
+
+#: 
+msgid "Chance"
+msgstr "فرصة"
+
+#: 
+msgid "New طلب المبيعات"
+msgstr "طلب مبيعات جديد"
+
+#: 
+msgid "Smart App Settings"
+msgstr "اعدادات التطبيقة الذكية"
+
+#: 
+msgid "Party Type"
+msgstr "نوع الشخص"
+
+#: 
+msgid "App Notification"
+msgstr "إشعار التطبيق"
+
+#: 
+msgid "Exchange Rate Revaluation Settings"
+msgstr "إعدادات إعادة تقييم سعر الصرف"
+
+#: 
+msgid "Create Product"
+msgstr "انشاء صنف جديد"
+
+#: 
+msgid "Users"
+msgstr "حسابات المستخدمين"
+
+#: 
+msgid "Mobile or Email"
+msgstr "رقم الهاتف او البريد الالكتروني"
+
+#: 
+msgid "Unbilled Orders"
+msgstr "طلبات لم يتم دفع ثمنها"
+
+#: 
+msgid "New فاتورة مبيعات"
+msgstr "فاتورة مبيعات جديدة"
+
+#: 
+msgid "Primary Address and Contact"
+msgstr "جهة الاتصال والعناوين الرئيسية"
+
+#: 
+msgid "Frappe Support"
+msgstr "طلب مساعدة"
+
+#: 
+msgid "Submit ERR Journals?"
+msgstr "إرسال مجلات ERR؟"
+
+#: 
+msgid "new-website-item-3"
+msgstr "منتج-جديد-معروض في الموقع-3"
+
+#: 
+msgid "Jocards Credit Balance V2"
+msgstr "رصيد جو كاردزالاتماني"
+
+#: 
+msgid "Jahiz"
+msgstr "المتجر الالكتروني جاهز"
+
+#: 
+msgid "New المنتج"
+msgstr "منتج جديد"
+
+#: 
+msgid "Your Shortcuts"
+msgstr "الاختصارات الخاصة بك"
+
+#: 
+msgid "new-banner-2"
+msgstr "بانر-جديد-2"
+
+#: 
+msgid "Building Number"
+msgstr "رقم المبنى"
+
+#: 
+msgid "New فاتورة شراء"
+msgstr "فاتورة شراء جديدة"
+
+#: 
+msgid "Product Details"
+msgstr "مواصفات المنتج"
+
+#: 
+msgid "Expand"
+msgstr "توسعة"
+
+#: 
+msgid "Fast Worldwide Shipping"
+msgstr "الشحن السريع في جميع أنحاء العالم"
+
+#: 
+msgid "{0} h"
+msgstr "{0} ساعة مضت"
+
+#: 
+msgid "Price list"
+msgstr "قائمة الاسعار"
+
+#: 
+msgid "Website Item"
+msgstr "المنتج المعروض"
+
+#: 
+msgid "Document Linking"
+msgstr "ربط الوثيقة"
+
+#: 
+msgid "JoCards Manager"
+msgstr "مدير جوكاردز"
+
+#: 
+msgid "Stock Balance"
+msgstr "رصيد المخزون"
+
+#: 
+msgid "Send to Android"
+msgstr "أرسال لي أندرويد"
+
+#: 
+msgid "new-product-options-2"
+msgstr "خيارات-منتج-جديدة-2"
+
+#: 
+msgid "Outgoing (SMTP) Settings"
+msgstr "إعدادات الصادر (SMTP)."
+
+#: 
+msgid "New المورد"
+msgstr "مورد جديد"
+
+#: 
+msgid "Undeliverable Orders"
+msgstr "طلبات لايمكن تسليمها"
+
+#: 
+msgid "Aluminium Strechable Rod 6 Mtrs"
+msgstr "عصا المنيوم قابل للمط – طول 6 متر"
+
+#: 
+msgid "Accounts Payable Summary"
+msgstr "ملخص الحسابات الدائنة"
+
+#: 
+msgid "Toggle Theme"
+msgstr "تغيير الوضع "
+
+#: 
+msgid "New المستخدم"
+msgstr "مستخدم جديد"
+
+#: 
+msgid "No."
+msgstr "رقم"
+
+#: 
+msgid "Event Reminders"
+msgstr "مذكرة الاحداث"
+
+#: 
+msgid "System Notifications"
+msgstr "اشعارات النظام"
+
+#: 
+msgid "Go to Notification Settings List"
+msgstr "الذهاب الى قائمة اعدادات الاشعارات"
+
+#: 
+msgid "Workspace"
+msgstr "مساحة عمل"
+
+#: 
+msgid "Is Hidden"
+msgstr "مخفي"
+
+#: 
+msgid "This document allows you to edit limited fields. For all kinds of workspace customization, use the Edit button located on the workspace page"
+msgstr "يتيح لك هذا المستند تحرير حقول محددة. لجميع أنواع تخصيص مساحة العمل، استخدم زر التحرير الموجود على صفحة مساحة العمل"
+
+#: 
+msgid "Number Card Name"
+msgstr "اسم البطاقة الرقمية"
+
+#: 
+msgid "Sequence Id"
+msgstr "معرف التسلسل"
+
+#: 
+msgid "Quick Lists"
+msgstr "لوائح موجزة"
+
+#: 
+msgid "TEMPLATES"
+msgstr "قوالب"
+
+#: 
+msgid "Quick List"
+msgstr "لائحة موجزة"
+
+#: 
+msgid "Spacer"
+msgstr "مسافة"
+
+#: 
+msgid "Shortcut"
+msgstr "اختصار"
+
+#: 
+msgid "Add a Filter"
+msgstr "اضافة فلتر"
+
+#: 
+msgid "Post Title"
+msgstr "عنوان المنشور"
+
+#: 
+msgid "Post Image"
+msgstr "نشر صورة"
+
+#: 
+msgid "Diamond Balance"
+msgstr "رسيد الماس"
+
+#: 
+msgid "Recipient Document"
+msgstr "وثيقة المستلم"
+
+#: 
+msgid "Social Post Log"
+msgstr "سجل المنشورات الاجتماعية"
+
+#: 
+msgid "Like Log"
+msgstr "سجل الاعجابات"
+
+#: 
+msgid "Add Tags"
+msgstr "اظافة اشارات"
+
+#: 
+msgid "Looks like you haven’t received any notifications."
+msgstr "يبدو أنك لم تتلق أي إشعارات"
+
+#: 
+msgid "There are no upcoming events for you."
+msgstr "لا توجد أحداث مقبلة لك"
+
+#: 
+msgid "No New notifications"
+msgstr "لا توجد اخطارات جديدة"
+
+#: 
+msgid "Chats"
+msgstr "دردشات"
+
+#: 
+msgid "Rename User"
+msgstr "اعادة تسمية متخدم"
+
+#: 
+msgid "Adding Users"
+msgstr "اضافة مستخدمين"
+
+#: 
+msgid "Profile Log"
+msgstr "سجل الحسابات"
+
+#: 
+msgid "Follow Log"
+msgstr "سجل المتابعات"
+
+#: 
+msgid "Debit"
+msgstr "خصم"
+
+#: 
+msgid "Credit"
+msgstr "ائتمان"
+
+#: 
+msgid "Log Type"
+msgstr "نوغ السجل"
+
+#: 
+msgid "Log Units"
+msgstr "وحدات السجل"
+
+#: 
+msgid "Reference DocType"
+msgstr "قالب بينات مرجعي"
+
+#: 
+msgid "Wallet Reference"
+msgstr "مرجع المحفظة"
+
+#: 
+msgid "featured News"
+msgstr "اخبار متميزة"
+
+#: 
+msgid "Post Link"
+msgstr "نشر رابط"
+
+#: 
+msgid "Post Audio"
+msgstr "نشر مقطع صوتي"
+
+#: 
+msgid "Post Video"
+msgstr "نشر فيديو"
+
+#: 
+msgid "Total Views"
+msgstr "اجمالي المشاهدات"
+
+#: 
+msgid "Total Likes"
+msgstr "اجماي الاعجابات"
+
+#: 
+msgid "Total Diamonds"
+msgstr "اجمالي الماس"
+
+#: 
+msgid "Total Followers"
+msgstr "اجمالي المتابعين"
+
+#: 
+msgid "Total Comments"
+msgstr "اجمالي التعليقات"
+
+#: 
+msgid "Frappe Chat"
+msgstr "دردشت فرابي"
+
+#: 
+msgid "Module Profile"
+msgstr "حساب الوحدات"
+
+#: 
+msgid "Automatic"
+msgstr "الي"
+
+#: 
+msgid "Dark"
+msgstr "ليلي"
+
+#: 
+msgid "Light"
+msgstr "نهاري"
+
+#: 
+msgid "Workspace Manager"
+msgstr "مدير فضائات العمل"
+
+#: 
+msgid "Basic Info"
+msgstr "معلومات اساسية"
+
+#: 
+msgid "Following"
+msgstr "متابعة"
+
+#: 
+msgid "Posting Time"
+msgstr "وقت النشر"
+
+#: 
+msgid "Posting Date"
+msgstr "تاريخ النشر"
+
+#: 
+msgid "Copy to Clipboard"
+msgstr "نسخ"
+
+#: 
+msgid "Comment"
+msgstr "تعليق"
+
+#: 
+msgid "Profile"
+msgstr "حساب"
+
+#: 
+msgid "Comments Social Post"
+msgstr "تعليقات على المنشورات الاجتماعية"
+
+#: 
+msgid "Diomands transfer"
+msgstr "تحويل الماس"
+
+#: 
+msgid "Social Post"
+msgstr "منشور اجتماعي"
+
+#: 
+msgid "following"
+msgstr "متابعة"
+
+#: 
+msgid "Sharing Diamonds"
+msgstr "مشاركة الماس"
+
+#: 
+msgid "Diamond"
+msgstr "ماسة"
+
+#: 
+msgid "Copy Link"
+msgstr "نسخ الوصلة"
+
+#: 
+msgid "image"
+msgstr "صورة"
+
+#: 
+msgid "commented"
+msgstr "قام بالتعليق"
+
+#: 
+msgid "Clear"
+msgstr "مسح"
+
+#: 
+msgid "Default Email Template"
+msgstr "قالب البريد الإلكتروني الافتراضي"
+
+#: 
+msgid "Translate Link Fields"
+msgstr "ترجمة حقول الارتباط"
+
+#: 
+msgid "Show Title in Link Fields"
+msgstr "إظهار العنوان في حقول الارتباط"
+
+#: 
+msgid "ascending"
+msgstr "تصاعدي"
+
+#: 
+msgid "Clear all filters"
+msgstr "مسح كافة عوامل التصفية"
+
+#: 
+msgid "Module (for export)"
+msgstr "الوحدة (للتصدير)"
+
+#: 
+msgid "Link"
+msgstr "رابط"
+
+#: 
+msgid "Back"
+msgstr "رجوع"
+
+#: 
+msgid "Crop"
+msgstr "قص"
+
+#: 
+msgid "Optimize"
+msgstr "تحسين"
+
+#: 
+msgid "Private"
+msgstr "خاص"
+
+#: 
+msgid "Set all public"
+msgstr "تعيين الكل عامة"
+
+#: 
+msgid "Mandatory Update"
+msgstr "التحديث الإلزامي"
+
+
