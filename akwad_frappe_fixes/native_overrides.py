@@ -4,6 +4,8 @@ import pdfkit
 import io
 from packaging.version import Version
 from bs4 import BeautifulSoup
+import os
+import os.path
 
 PDF_CONTENT_ERRORS = [
     "ContentNotFoundError",
@@ -93,3 +95,12 @@ def add_rtl_direction(html_content):
                 span.insert_after(bullet_span)
 
     return str(soup)
+
+def custom_upload_file_to_s3(filename, folder, conn, bucket):
+    destpath = os.path.join(f"{frappe.local.site}/{folder}", os.path.basename(filename))
+    try:
+        print("Uploading file:", filename)
+        conn.upload_file(filename, bucket, destpath)  # Requires PutObject permission
+    except Exception as e:
+        frappe.log_error()
+        print("Error uploading: %s" % (e))
