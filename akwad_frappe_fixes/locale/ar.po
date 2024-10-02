@@ -11972,7 +11972,7 @@ msgstr "تلميح: قم بتضمين الرموز والأرقام والأحر
 #: website/web_template/primary_navbar/primary_navbar.html:9 www/contact.py:22
 #: www/error.html:30 www/login.html:150 www/message.html:34
 msgid "Home"
-msgstr "بيت"
+msgstr "الصفحة الرئيسية"
 
 #. Label of the home_page (Data) field in DocType 'Role'
 #. Label of the home_page (Data) field in DocType 'Website Settings'
