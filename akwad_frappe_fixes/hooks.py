@@ -71,7 +71,7 @@ app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_desk.css"
 # ------------
 
 # before_install = "akwad_frappe_fixes.install.before_install"
-# after_install = "akwad_frappe_fixes.install.after_install"
+after_install = "akwad_frappe_fixes.setup.after_install"
 
 # Uninstallation
 # ------------
