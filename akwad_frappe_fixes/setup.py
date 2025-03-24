@@ -503,7 +503,9 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-search_bar-permlevel"
+
         },
         {
             "default_value": None,
@@ -518,7 +520,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-notifications-permlevel"
         },
         {
             "default_value": None,
@@ -533,7 +536,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-list_sidebar-permlevel"
         },
         {
             "default_value": None,
@@ -548,7 +552,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-dashboard-permlevel"
         },
         {
             "default_value": None,
@@ -563,7 +568,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-timeline-permlevel"
         },
         {
             "default_value": None,
@@ -578,7 +584,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-form_sidebar-permlevel"
         },
         {
             "default_value": None,
@@ -593,7 +600,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-view_switcher-permlevel"
         },
         {
             "default_value": None,
@@ -608,7 +616,8 @@ def get_property_setters():
             "property": "permlevel",
             "property_type": "Int",
             "row_name": None,
-            "value": "1"
+            "value": "1",
+            "name": "User-bulk_actions-permlevel"
         },
         {
             "default_value": None,
@@ -623,7 +632,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-search_bar-default"
         },
         {
             "default_value": None,
@@ -638,7 +648,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-notifications-default"
         },
         {
             "default_value": None,
@@ -653,7 +664,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-list_sidebar-default"
         },
         {
             "default_value": None,
@@ -668,7 +680,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-dashboard-default"
         },
         {
             "default_value": None,
@@ -683,7 +696,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-timeline-default"
         },
         {
             "default_value": None,
@@ -698,7 +712,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-form_sidebar-default"
         },
         {
             "default_value": None,
@@ -713,7 +728,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-view_switcher-default"
         },
         {
             "default_value": None,
@@ -728,7 +744,8 @@ def get_property_setters():
             "property": "default",
             "property_type": "Text",
             "row_name": None,
-            "value": "0"
+            "value": "0",
+            "name": "User-bulk_actions-default"
         }
     ]
 
