@@ -6,17 +6,15 @@ def after_install():
     for property_setter in property_setters:
         target_doctype = property_setter["doc_type"]
 
-        # Skip if target DocType doesn't exist
-        if not frappe.get_meta(target_doctype, cached=False).is_valid:
+        # ✅ Check if the target DocType exists BEFORE doing anything
+        if not frappe.db.exists("DocType", target_doctype):
             continue
 
         # Skip if property setter already exists
         if not frappe.db.exists("Property Setter", property_setter["name"]):
             try:
                 frappe.get_doc(property_setter).insert(ignore_permissions=True)
-            except Exception as e:
-                frappe.log_error(f"Failed to insert Property Setter {property_setter['name']}: {e}")
-
+                
 def get_property_setters():
     property_setters = [
         {
