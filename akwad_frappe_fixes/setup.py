@@ -14,7 +14,12 @@ def after_install():
         if not frappe.db.exists("Property Setter", property_setter["name"]):
             try:
                 frappe.get_doc(property_setter).insert(ignore_permissions=True)
-                
+            except Exception as e:
+                frappe.log_error(
+                    f"Error inserting Property Setter {property_setter['name']}: {e}",
+                    title="after_install Property Setter Insertion Error"
+                )
+
 def get_property_setters():
     property_setters = [
         {
