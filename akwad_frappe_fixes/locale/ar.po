@@ -16876,7 +16876,7 @@ msgid "Your {0} and email address for the subscription."
 msgstr "{0} وعنوان البريد الإلكتروني الخاص باشتراكك."
 
 msgid "Your query has been received. We'll get back to you shortly."
-msgid "تم استلام استفسارك. سنعود إليك قريبًا."
+msgstr "تم استلام استفسارك. سنعود إليك قريبًا."
 
 msgid "Your session has timed out. Please login again."
 msgstr "انتهت جلسة عملك. يرجى تسجيل الدخول مرة أخرى."
