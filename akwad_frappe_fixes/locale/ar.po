@@ -4987,7 +4987,7 @@ msgid "Email Queue records."
 msgstr "سجلات قائمة انتظار البريد الإلكتروني"
 
 msgid "Email Reply Help"
-"مساعدة رد البريد الإلكتروني"
+msgstr "مساعدة رد البريد الإلكتروني"
 
 msgid "Email Retry Limit"
 msgstr "حد إعادة محاولة البريد الإلكتروني"
@@ -4996,7 +4996,7 @@ msgid "Email Rule"
 msgstr "قاعدة البريد الإلكتروني"
 
 msgid "Email Sent"
-"تم إرسال البريد الإلكتروني"
+msgstr "تم إرسال البريد الإلكتروني"
 
 msgid "Email Sent At"
 msgstr "تم إرسال البريد الإلكتروني في"
@@ -9531,7 +9531,6 @@ msgstr "لا يوجد إذن لـ {0} {1} {2}"
 msgid "No records deleted"
 msgstr "لا توجد سجلات محذوفة"
 
-msgid 🤓"
 msgid "No records present in {0}"
 msgstr "لا توجد سجلات في {0}"
 
@@ -11866,7 +11865,7 @@ msgid "Repeats like \"aaa\" are easy to guess"
 msgstr "التكرارات مثل \"aaa\" سهلة التخمين"
 
 msgid "Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\""
-msgstr "التكرارات مثل \"abcabcabc\" أصعب قليلاً للتخمين من \"abc\'"
+msgstr "التكرارات مثل \"abcabcabc\" أصعب قليلاً للتخمين من \"abc\""
 
 msgid "Repeats {0}"
 msgstr "يكرر {0}"
@@ -14446,7 +14445,7 @@ msgid "The field {0} is mandatory"
 msgstr "الحقل {0} إلزامي"
 
 msgid "The fieldname you've specified in Attached To Field is invalid"
-msgstr "اسم الحقل الذي حددته في حقل "مرفق بـ" غير صالح"
+msgstr "اسم الحقل الذي حددته في حقل مرفق بـ غير صالح"
 
 msgid "The following Assignment Days have been repeated: {0}"
 msgstr "تكررت أيام التعيين التالية: {0}"
@@ -15637,7 +15636,7 @@ msgid "User"
 msgstr "المستخدم"
 
 msgid "User "
-#msgstr "المستخدم"
+msgstr "المستخدم"
 
 msgid "User '{0}' already has the role '{1}'"
 msgstr "المستخدم '{0}' يمتلك بالفعل الدور '{1}'"
@@ -16678,8 +16677,8 @@ msgstr "ليس لديك إذن للوصول إلى {0}: {1}."
 msgid "You do not have permissions to cancel all linked documents."
 msgstr "ليس لديك أذونات لإلغاء جميع المستندات المرتبطة."
 
-msgid "You don't have access to Report: {0}: لا لديك حق الوصول للتقرير
-"
+msgid "You don't have access to Report: {0}"
+msgstr "ليس لديك حق الوصول للتقرير: {0}"
 
 msgid "You don't have permission to access the {0} DocType."
 msgstr "ليس لديك إذن للوصول إلى DocType {0}."
@@ -16691,10 +16690,10 @@ msgid "You don't have permission to get a report on: {0}"
 msgstr "ليس لديك إذن للحصول على تقرير عن: {0}"
 
 msgid "You don't have permission to access this document"
-"S ليس لديك إذن للوصول إلى هذا المستند"
+msgstr "ليس لديك إذن للوصول إلى هذا المستند"
 
-msgid "You have a new message from: "
-msgid "لديك رسالة جديدة من: {0}"
+msgid "You have a new message from: {0}"
+msgstr "لديك رسالة جديدة من: {0}"
 
 msgid "You have been successfully logged out"
 msgstr "تم تسجيل خروجك بنجاح"
@@ -16706,7 +16705,7 @@ msgid "You have not entered a value. The field will be set to empty."
 msgstr "لم تقم بإدخال قيمة. سيتم تعيين الحقل كفارغ."
 
 msgid "You have received a ❤️ {0} {1} on your blog post"
-"لقد تلقيت ❤️ {0} {1} على منشور مدونتك"
+msgstr "لقد تلقيت ❤️ {0} {1} على منشور مدونتك"
 
 msgid "You have to enable Two Factor Auth from {0}."
 msgstr "عليك تمكين المصادقة الثنائية من {0}."
@@ -16774,8 +16773,8 @@ msgstr "تحتاج إلى تمكين JavaScript ليعمل تطبيقك."
 msgid "You need to have \"Share\" permission {0}"
 msgstr "تحتاج إلى إذن \"مشاركة\" {0}"
 
-msg "You need to install pycups to use this feature! {0}"
-msgid "تحتاج إلى تثبيت pycups لاستخدام هذه الميزة! {0}"
+msgid "You need to install pycups to use this feature! {0}"
+msgstr "تحتاج إلى تثبيت pycups لاستخدام هذه الميزة! {0}"
 
 msgid "You need to select indexes you want to add first."
 msgstr "تحتاج إلى تحديد الفهرس الذي تريد إضافته أولاً."
@@ -16823,7 +16822,7 @@ msgid "You've logged in as {0} from another user. Please log out and log in as {
 msgstr "لقد سجلت الدخول كـ {0} من مستخدم آخر. يرجى تسجيل الخروج وتسجيل الدخول كـ {0}."
 
 msgid "Your CSV file is being generated and will appear in the Attachments section once ready."
-msgid "يتم إنشاء ملف CSV الخاص بك وسيظهر في قسم المرفقات بمجرد أن يكون جاهزًا."
+msgstr "يتم إنشاء ملف CSV الخاص بك وسيظهر في قسم المرفقات بمجرد أن يكون جاهزًا."
 
 msgid "Your Country"
 msgstr "بلدك"
@@ -16844,12 +16843,10 @@ msgid "Your account has been deleted"
 msgstr "تم حذف حسابك"
 
 msgid "Your account has been locked and will resume after {0} seconds"
-"
-
-msgid "تم قفل حسابك وسيستأنف بعد {0} ثانية"
+msgstr "تم قفل حسابك وسيستأنف بعد {0} ثانية"
 
 msgid "Your assignment on {0} {1} has been removed by {2}"
-msgid "تم إزالة تكليفك على {0} {1} بواسطة {2}"
+msgstr "تم إزالة تكليفك على {0} {1} بواسطة {2}"
 
 msgid "Your browser does not support {0} media."
 msgstr "متصفحك لا يدعم وسائط {0}."
