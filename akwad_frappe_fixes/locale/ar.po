@@ -17992,3 +17992,9 @@ msgstr "حفظ الفلتر"
 
 msgid "Updates"
 msgstr "التحديثات"
+
+msgid "Manage third party apps"
+msgstr "ادارة تطبيقات الطرف الثالث"
+
+msgid "Manage your apps"
+msgstr "قم بإدارة تطبيقاتك"
