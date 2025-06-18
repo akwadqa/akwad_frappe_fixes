@@ -17971,3 +17971,24 @@ msgstr "لم يتم العثور على {} في PATH! هذا مطلوب لأخذ
 
 msgid "← Back to upload files"
 msgstr "← العودة لرفع الملفات"
+
+msgid "PUBLIC"
+msgstr "عام"
+
+msgid "My Profile"
+msgstr "ملف التعريف الخاص بي"
+
+msgid "My Settings"
+msgstr "لوحة إعداداتي"
+
+msgid "Reset the password for your account"
+msgstr "اعادة ضبط كلمة السر الخاصة بحسابك"
+
+msgid "To manage your authorized third party apps"
+msgstr "ادارة التطبيقات الخارجية المصرح لها"
+
+msgid "Save Filter"
+msgstr "حفظ الفلتر"
+
+msgid "Updates"
+msgstr "التحديثات"
