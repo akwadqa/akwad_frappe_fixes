@@ -512,8 +512,8 @@ msgstr "<p><strong>أمثلة على الشروط:</strong></p>\n"
 msgid "<p>Multiple webforms can be created for a single doctype. Add filters specific to this webform to display correct record after submission.</p><p>For Example:</p>\n"
 "<p>If you create a separate webform every year to capture feedback from employees add a \n"
 " field named year in doctype and add a filter <b>year = 2023</b></p>\n"
-msgstr "<p>يمكن إنشاء نماذج ويب متعددة لنوع مستند واحد. أضف مرشحات خاصة بهذا النموذج لعرض السجل الصحيح بعد التقديم.</p><p>على سبيل المثال:</p>\n"
-"<p>إذا قمت بإنشاء نموذج ويب منفصل كل عام لجمع ملاحظات الموظفين، أضف حقلًا يسمى السنة في نوع المستند وأضف مرشحًا <b>year = 2023</b></p>\n"
+msgstr "<p>يمكن إنشاء نماذج ويب متعددة لنوع مستند واحد. أضف فلاتر خاصة بهذا النموذج لعرض السجل الصحيح بعد التقديم.</p><p>على سبيل المثال:</p>\n"
+"<p>إذا قمت بإنشاء نموذج ويب منفصل كل عام لجمع ملاحظات الموظفين، أضف حقلًا يسمى السنة في نوع المستند وأضف فلترًا <b>year = 2023</b></p>\n"
 
 msgid "<p>Set context before rendering a template. Example:</p><p>\n"
 "</p><div><pre><code>\n"
@@ -859,7 +859,7 @@ msgid "Add Custom Tags"
 msgstr "إضافة علامات مخصصة"
 
 msgid "Add Filters"
-msgstr "إضافة مرشحات"
+msgstr "إضافة فلاتر"
 
 msgid "Add Gray Background"
 msgstr "إضافة خلفية رمادية"
@@ -926,7 +926,7 @@ msgid "Add Video Conferencing"
 msgstr "إضافة مؤتمرات الفيديو"
 
 msgid "Add a Filter"
-msgstr "إضافة مرشح"
+msgstr "إضافة فلتر"
 
 msgid "Add a New Role"
 msgstr "إضافة دور جديد"
@@ -1495,7 +1495,7 @@ msgid "Apply Assignment Rule"
 msgstr "تطبيق قاعدة التكليف"
 
 msgid "Apply Filters"
-msgstr "تطبيق المرشحات"
+msgstr "تطبيق الفلاتر"
 
 msgid "Apply Strict User Permissions"
 msgstr "تطبيق أذونات المستخدم الصارمة"
@@ -1583,7 +1583,7 @@ msgid "Are you sure you want to remove all failed jobs?"
 msgstr "هل أنت متأكد من أنك تريد إزالة جميع الوظائف الفاشلة؟"
 
 msgid "Are you sure you want to remove the {0} filter?"
-msgstr "هل أنت متأكد من أنك تريد إزالة مرشح {0}؟"
+msgstr "هل أنت متأكد من أنك تريد إزالة فلتر {0}؟"
 
 msgid "Are you sure you want to reset all customizations?"
 msgstr "هل أنت متأكد من أنك تريد إعادة تعيين جميع التخصيصات؟"
@@ -1914,7 +1914,7 @@ msgid "Automatically Assign Documents to Users"
 msgstr "تكليف المستندات للمستخدمين تلقائيًا"
 
 msgid "Automatically applied a filter for recent data. You can disable this behavior from the list view settings."
-msgstr "تم تطبيق مرشح تلقائيًا للبيانات الحديثة. يمكنك تعطيل هذا السلوك من إعدادات عرض القائمة."
+msgstr "تم تطبيق فلتر تلقائيًا للبيانات الحديثة. يمكنك تعطيل هذا السلوك من إعدادات عرض القائمة."
 
 msgid "Automatically delete account within (hours)"
 msgstr "حذف الحساب تلقائيًا خلال (ساعات)"
@@ -2618,10 +2618,10 @@ msgid "Cannot edit cancelled document"
 msgstr "لا يمكن تعديل مستند ملغى"
 
 msgid "Cannot edit filters for standard charts"
-msgstr "لا يمكن تعديل المرشحات للمخططات القياسية"
+msgstr "لا يمكن تعديل الفلاتر للمخططات القياسية"
 
 msgid "Cannot edit filters for standard number cards"
-msgstr "لا يمكن تعديل المرشحات لبطاقات الأرقام القياسية"
+msgstr "لا يمكن تعديل الفلاتر لبطاقات الأرقام القياسية"
 
 msgid "Cannot edit standard fields"
 msgstr "لا يمكن تعديل الحقول القياسية"
@@ -2893,7 +2893,7 @@ msgid "Clear Error Logs"
 msgstr "مسح سجلات الأخطاء"
 
 msgid "Clear Filters"
-msgstr "مسح المرشحات"
+msgstr "مسح الفلاتر"
 
 msgid "Clear Logs After (days)"
 msgstr "مسح السجلات بعد (أيام)"
@@ -2944,10 +2944,10 @@ msgid "Click table to edit"
 msgstr "انقر على الجدول للتعديل"
 
 msgid "Click to Set Dynamic Filters"
-msgstr "انقر لتعيين مرشحات ديناميكية"
+msgstr "انقر لتعيين فلاتر ديناميكية"
 
 msgid "Click to Set Filters"
-msgstr "انقر لتعيين المرشحات"
+msgstr "انقر لتعيين الفلاتر"
 
 msgid "Click to sort by {0}"
 msgstr "انقر للفرز حسب {0}"
@@ -3418,7 +3418,7 @@ msgid "Count Customizations"
 msgstr "عد التخصيصات"
 
 msgid "Count Filter"
-msgstr "مرشح العد"
+msgstr "فلتر العد"
 
 msgid "Counter"
 msgstr "عداد"
@@ -4216,7 +4216,7 @@ msgid "Disable Auto Refresh"
 msgstr "تعطيل التحديث التلقائي"
 
 msgid "Disable Automatic Recency Filters"
-msgstr "تعطيل مرشحات الجدة التلقائية"
+msgstr "تعطيل فلاتر الجدة التلقائية"
 
 msgid "Disable Change Log Notification"
 msgstr "تعطيل إشعار سجل التغييرات"
@@ -4739,7 +4739,7 @@ msgid "Duplicate Entry"
 msgstr "إدخال مكرر"
 
 msgid "Duplicate Filter Name"
-msgstr "اسم مرشح مكرر"
+msgstr "اسم فلتر مكرر"
 
 msgid "Duplicate Name"
 msgstr "اسم مكرر"
@@ -4760,19 +4760,19 @@ msgid "Dynamic"
 msgstr "ديناميكي"
 
 msgid "Dynamic Filters"
-msgstr "مرشحات ديناميكية"
+msgstr "فلاتر ديناميكية"
 
 msgid "Dynamic Filters JSON"
-msgstr "مرشحات ديناميكية JSON"
+msgstr "فلاتر ديناميكية JSON"
 
 msgid "Dynamic Filters Section"
-msgstr "قسم المرشحات الديناميكية"
+msgstr "قسم الفلاتر الديناميكية"
 
 msgid "Dynamic Link"
 msgstr "رابط ديناميكي"
 
 msgid "Dynamic Report Filters"
-msgstr "مرشحات تقرير ديناميكية"
+msgstr "فلاتر تقرير ديناميكية"
 
 msgid "Dynamic Route"
 msgstr "مسار ديناميكي"
@@ -4824,7 +4824,7 @@ msgid "Edit Existing"
 msgstr "تعديل موجود"
 
 msgid "Edit Filters"
-msgstr "تعديل المرشحات"
+msgstr "تعديل الفلاتر"
 
 msgid "Edit Footer"
 msgstr "تعديل التذييل"
@@ -5842,7 +5842,7 @@ msgid "Files"
 msgstr "الملفات"
 
 msgid "Filter"
-msgstr "مرشح"
+msgstr "فلتر"
 
 msgid "Filter By"
 msgstr "تصفية حسب"
@@ -5851,19 +5851,19 @@ msgid "Filter Data"
 msgstr "تصفية البيانات"
 
 msgid "Filter List"
-msgstr "قائمة المرشحات"
+msgstr "قائمة الفلاتر"
 
 msgid "Filter Meta"
 msgstr "تصفية Meta"
 
 msgid "Filter Name"
-msgstr "اسم المرشح"
+msgstr "اسم الفلتر"
 
 msgid "Filter Values"
-msgstr "قيم المرشح"
+msgstr "قيم الفلتر"
 
 msgid "Filter..."
-msgstr "مرشح..."
+msgstr "فلتر..."
 
 msgid "Filtered By"
 msgstr "مُصفّى بواسطة"
@@ -5875,34 +5875,34 @@ msgid "Filtered by \"{0}\""
 msgstr "مُصفّى بواسطة \"{0}\""
 
 msgid "Filters"
-msgstr "مرشحات"
+msgstr "فلاتر"
 
 msgid "Filters Configuration"
-msgstr "تكوين المرشحات"
+msgstr "تكوين الفلاتر"
 
 msgid "Filters Display"
-msgstr "عرض المرشحات"
+msgstr "عرض الفلاتر"
 
 msgid "Filters JSON"
-msgstr "مرشحات JSON"
+msgstr "فلاتر JSON"
 
 msgid "Filters Section"
-msgstr "قسم المرشحات"
+msgstr "قسم الفلاتر"
 
 msgid "Filters applied for {0}"
-msgstr "تم تطبيق المرشحات على {0}"
+msgstr "تم تطبيق الفلاتر على {0}"
 
 msgid "Filters saved"
-msgstr "تم حفظ المرشحات"
+msgstr "تم حفظ الفلاتر"
 
 msgid "Filters will be accessible via <code>filters</code>. <br><br>Send output as <code>result = [result]</code>, or for old style <code>data = [columns], [result]</code>"
-msgstr "ستكون المرشحات متاحة عبر <code>filters</code>. <br><br>أرسل الإخراج كـ <code>result = [result]</code>، أو للنمط القديم <code>data = [columns], [result]</code>"
+msgstr "ستكون الفلاتر متاحة عبر <code>filters</code>. <br><br>أرسل الإخراج كـ <code>result = [result]</code>، أو للنمط القديم <code>data = [columns], [result]</code>"
 
 msgid "Filters {0}"
-msgstr "مرشحات {0}"
+msgstr "فلاتر {0}"
 
 msgid "Filters:"
-msgstr "مرشحات:"
+msgstr "فلاتر:"
 
 msgid "Find '{0}' in ..."
 msgstr "ابحث عن '{0}' في ..."
@@ -5977,7 +5977,7 @@ msgid "Followed by"
 msgstr "يتبعه"
 
 msgid "Following Report Filters have missing values:"
-msgstr "مرشحات التقرير التالية تحتوي على قيم مفقودة:"
+msgstr "فلاتر التقرير التالية تحتوي على قيم مفقودة:"
 
 msgid "Following document {0}"
 msgstr "متابعة المستند {0}"
@@ -6987,7 +6987,7 @@ msgid "Ignore User Permissions"
 msgstr "تجاهل أذونات المستخدم"
 
 msgid "Ignore XSS Filter"
-msgstr "تجاهل مرشح XSS"
+msgstr "تجاهل فلتر XSS"
 
 msgid "Ignore attachments over this size"
 msgstr "تجاهل المرفقات التي تتجاوز هذا الحجم"
@@ -7132,7 +7132,7 @@ msgid "In Days"
 msgstr "في أيام"
 
 msgid "In Filter"
-msgstr "في المرشح"
+msgstr "في الفلتر"
 
 msgid "In Global Search"
 msgstr "في البحث العام"
@@ -7141,7 +7141,7 @@ msgid "In Grid View"
 msgstr "في عرض الشبكة"
 
 msgid "In List Filter"
-msgstr "في مرشح القائمة"
+msgstr "في فلتر القائمة"
 
 msgid "In List View"
 msgstr "في عرض القائمة"
@@ -7162,7 +7162,7 @@ msgid "In Reply To"
 msgstr "ردًا على"
 
 msgid "In Standard Filter"
-msgstr "في المرشح القياسي"
+msgstr "في الفلتر القياسي"
 
 msgid "In points. Default is 9."
 msgstr "بالنقاط. الافتراضي هو 9."
@@ -7198,7 +7198,7 @@ msgid "Include Web View Link in Email"
 msgstr "تضمين رابط عرض Web في البريد الإلكتروني"
 
 msgid "Include filters"
-msgstr "تضمين المرشحات"
+msgstr "تضمين الفلاتر"
 
 msgid "Include indentation"
 msgstr "تضمين المسافة البادئة"
@@ -7399,7 +7399,7 @@ msgid "Invalid \"depends_on\" expression"
 msgstr "تعبير \"يعتمد على\" غير صالح"
 
 msgid "Invalid \"depends_on\" expression set in filter {0}"
-msgstr "تم تعيين تعبير \"يعتمد على\" غير صالح في المرشح {0}"
+msgstr "تم تعيين تعبير \"يعتمد على\" غير صالح في الفلتر {0}"
 
 msgid "Invalid \"mandatory_depends_on\" expression"
 msgstr "تعبير \"إلزامي يعتمد على\" غير صالح"
@@ -7435,10 +7435,10 @@ msgid "Invalid File URL"
 msgstr "عنوان URL للملف غير صالح"
 
 msgid "Invalid Filter Format for field {0} of type {1}. Try using filter icon on the field to set it correctly"
-msgstr "تنسيق مرشح غير صالح للحقل {0} من النوع {1}. حاول استخدام أيقونة المرشح على الحقل لتعيينه بشكل صحيح"
+msgstr "تنسيق فلتر غير صالح للحقل {0} من النوع {1}. حاول استخدام أيقونة الفلتر على الحقل لتعيينه بشكل صحيح"
 
 msgid "Invalid Filter Value"
-msgstr "قيمة مرشح غير صالحة"
+msgstr "قيمة فلتر غير صالحة"
 
 msgid "Invalid Home Page"
 msgstr "صفحة رئيسية غير صالحة"
@@ -7516,10 +7516,10 @@ msgid "Invalid docstatus"
 msgstr "حالة مستند غير صالحة"
 
 msgid "Invalid expression set in filter {0}"
-msgstr "تم تعيين تعبير غير صالح في المرشح {0}"
+msgstr "تم تعيين تعبير غير صالح في الفلتر {0}"
 
 msgid "Invalid expression set in filter {0} ({1})"
-msgstr "تم تعيين تعبير غير صالح في المرشح {0} ({1})"
+msgstr "تم تعيين تعبير غير صالح في الفلتر {0} ({1})"
 
 msgid "Invalid field name {0}"
 msgstr "اسم حقل غير صالح {0}"
@@ -7531,7 +7531,7 @@ msgid "Invalid file path: {0}"
 msgstr "مسار ملف غير صالح: {0}"
 
 msgid "Invalid filter: {0}"
-msgstr "مرشح غير صالح: {0}"
+msgstr "فلتر غير صالح: {0}"
 
 msgid "Invalid json added in the custom options: {0}"
 msgstr "تمت إضافة JSON غير صالح في الخيارات المخصصة: {0}"
@@ -8200,7 +8200,7 @@ msgid "Link Fieldname"
 msgstr "اسم حقل الرابط"
 
 msgid "Link Filters"
-msgstr "مرشحات الرابط"
+msgstr "فلاتر الرابط"
 
 msgid "Link Name"
 msgstr "اسم الرابط"
@@ -8248,7 +8248,7 @@ msgid "List Columns"
 msgstr "أعمدة القائمة"
 
 msgid "List Filter"
-msgstr "مرشح القائمة"
+msgstr "فلتر القائمة"
 
 msgid "List Settings"
 msgstr "إعدادات القائمة"
@@ -8298,7 +8298,7 @@ msgid "Loading"
 msgstr "جارٍ التحميل"
 
 msgid "Loading Filters..."
-msgstr "جارٍ تحميل المرشحات..."
+msgstr "جارٍ تحميل الفلاتر..."
 
 msgid "Loading import file..."
 msgstr "جارٍ تحميل ملف الاستيراد..."
@@ -8820,7 +8820,7 @@ msgid "Missing Fields"
 msgstr "حقول مفقودة"
 
 msgid "Missing Filters Required"
-msgstr "مرشحات مطلوبة مفقودة"
+msgstr "فلاتر مطلوبة مفقودة"
 
 msgid "Missing Permission"
 msgstr "إذن مفقود"
@@ -9351,7 +9351,7 @@ msgid "No Entry for the User {0} found within LDAP!"
 msgstr "لم يتم العثور على إدخال للمستخدم {0} ضمن LDAP!"
 
 msgid "No Filters Set"
-msgstr "لم يتم تعيين مرشحات"
+msgstr "لم يتم تعيين فلاتر"
 
 msgid "No Google Calendar Event to sync."
 msgstr "لا يوجد حدث تقويم Google للمزامنة."
@@ -9480,10 +9480,10 @@ msgid "No file attached"
 msgstr "لا يوجد ملف مرفق"
 
 msgid "No filters found"
-msgstr "لم يتم العثور على مرشحات"
+msgstr "لم يتم العثور على فلاتر"
 
 msgid "No filters selected"
-msgstr "لم يتم تحديد مرشحات"
+msgstr "لم يتم تحديد فلاتر"
 
 msgid "No further records"
 msgstr "لا توجد سجلات إضافية"
@@ -9562,7 +9562,7 @@ msgid "No {0} found"
 msgstr "لم يتم العثور على {0}"
 
 msgid "No {0} found with matching filters. Clear filters to see all {0}."
-msgstr "لم يتم العثور على {0} بمرشحات مطابقة. امسح المرشحات لرؤية كل {0}."
+msgstr "لم يتم العثور على {0} بفلاتر مطابقة. امسح الفلاتر لرؤية كل {0}."
 
 msgid "No {0} mail"
 msgstr "لا يوجد بريد {0}"
@@ -10709,7 +10709,7 @@ msgid "Please check OpenID Configuration URL"
 msgstr "يرجى التحقق من عنوان URL لتكوين OpenID"
 
 msgid "Please check the filter values set for Dashboard Chart: {}"
-msgstr "يرجى التحقق من قيم المرشحات المُعيَّنة لمخطط لوحة التحكم: {}"
+msgstr "يرجى التحقق من قيم الفلاتر المُعيَّنة لمخطط لوحة التحكم: {}"
 
 msgid "Please check the value of \"Fetch From\" set for field {0}"
 msgstr "يرجى التحقق من قيمة \"الجلب من\" المُعيَّنة للحقل {0}"
@@ -10875,7 +10875,7 @@ msgid "Please select a valid csv file with data"
 msgstr "يرجى تحديد ملف CSV صالح يحتوي على بيانات"
 
 msgid "Please select a valid date filter"
-msgstr "يرجى تحديد مرشح تاريخ صالح"
+msgstr "يرجى تحديد فلتر تاريخ صالح"
 
 msgid "Please select applicable Doctypes"
 msgstr "يرجى تحديد أنواع المستندات المناسبة"
@@ -10905,10 +10905,10 @@ msgid "Please set a printer mapping for this print format in the Printer Setting
 msgstr "يرجى تعيين تعيين طابعة لهذا تنسيق الطباعة في إعدادات الطابعة"
 
 msgid "Please set filters"
-msgstr "يرجى تعيين المرشحات"
+msgstr "يرجى تعيين الفلاتر"
 
 msgid "Please set filters value in Report Filter table."
-msgstr "يرجى تعيين قيمة المرشحات في جدول مرشح التقرير."
+msgstr "يرجى تعيين قيمة الفلاتر في جدول فلتر التقرير."
 
 msgid "Please set the document name"
 msgstr "يرجى تعيين اسم المستند"
@@ -10959,7 +10959,7 @@ msgid "Please update {} before continuing."
 msgstr "يرجى تحديث {} قبل المتابعة."
 
 msgid "Please use a valid LDAP search filter"
-msgstr "يرجى استخدام مرشح بحث LDAP صالح"
+msgstr "يرجى استخدام فلتر بحث LDAP صالح"
 
 msgid "Please verify your Email Address"
 msgstr "يرجى التحقق من عنوان بريدك الإلكتروني"
@@ -11453,7 +11453,7 @@ msgid "Quick Help for Setting Permissions"
 msgstr "مساعدة سريعة لتعيين الأذونات"
 
 msgid "Quick List Filter"
-msgstr "مرشح القائمة السريع"
+msgstr "فلتر القائمة السريع"
 
 msgid "Quick Lists"
 msgstr "قوائم سريعة"
@@ -11907,7 +11907,7 @@ msgid "Report Filter"
 msgstr "عامل تصفية التقرير"
 
 msgid "Report Filters"
-msgstr "مرشحات التقرير"
+msgstr "فلاتر التقرير"
 
 msgid "Report Hide"
 msgstr "إخفاء التقرير"
@@ -11943,7 +11943,7 @@ msgid "Report cannot be set for Single types"
 msgstr "لا يمكن تعيين التقرير للأنواع الفردية"
 
 msgid "Report has no data, please modify the filters or change the Report Name"
-msgstr "التقرير لا يحتوي على بيانات، يرجى تعديل المرشحات أو تغيير اسم التقرير"
+msgstr "التقرير لا يحتوي على بيانات، يرجى تعديل الفلاتر أو تغيير اسم التقرير"
 
 msgid "Report has no numeric fields, please change the Report Name"
 msgstr "التقرير لا يحتوي على حقول رقمية، يرجى تغيير اسم التقرير"
@@ -12453,7 +12453,7 @@ msgid "Save Report"
 msgstr "حفظ التقرير"
 
 msgid "Save filters"
-msgstr "حفظ المرشحات"
+msgstr "حفظ الفلاتر"
 
 msgid "Save on Completion"
 msgstr "حفظ عند الاكتمال"
@@ -12465,7 +12465,7 @@ msgid "Saved"
 msgstr "تم الحفظ"
 
 msgid "Saved Filters"
-msgstr "المرشحات المحفوظة"
+msgstr "الفلاتر المحفوظة"
 
 msgid "Saving"
 msgstr "جارٍ الحفظ"
@@ -12749,7 +12749,7 @@ msgid "Select Fields To Update"
 msgstr "تحديد الحقول لتحديثها"
 
 msgid "Select Filters"
-msgstr "تحديد المرشحات"
+msgstr "تحديد الفلاتر"
 
 msgid "Select Google Calendar to which event should be synced."
 msgstr "تحديد تقويم Google الذي يجب مزامنة الحدث معه."
@@ -13131,13 +13131,13 @@ msgid "Set Default Options for all charts on this Dashboard (Ex: \"colors\": [\"
 msgstr "تعيين الخيارات الافتراضية لجميع المخططات في لوحة التحكم هذه (مثال: \"colors\": [\"#d1d8dd\", \"#ff5858\"])"
 
 msgid "Set Dynamic Filters"
-msgstr "تعيين المرشحات الديناميكية"
+msgstr "تعيين الفلاتر الديناميكية"
 
 msgid "Set Filters"
-msgstr "تعيين المرشحات"
+msgstr "تعيين الفلاتر"
 
 msgid "Set Filters for {0}"
-msgstr "تعيين المرشحات لـ {0}"
+msgstr "تعيين الفلاتر لـ {0}"
 
 msgid "Set Level"
 msgstr "تعيين المستوى"
@@ -13194,7 +13194,7 @@ msgid "Set by user"
 msgstr "تم التعيين بواسطة المستخدم"
 
 msgid "Set dynamic filter values in JavaScript for the required fields here."
-msgstr "تعيين قيم المرشحات الديناميكية في JavaScript للحقول المطلوبة هنا."
+msgstr "تعيين قيم الفلاتر الديناميكية في JavaScript للحقول المطلوبة هنا."
 
 msgid "Set non-standard precision for a Float or Currency field"
 msgstr "تعيين دقة غير قياسية لحقل Float أو Currency"
@@ -13223,7 +13223,7 @@ msgid "Set the filters here. For example:\n"
 "\treqd: 1\n"
 "}]\n"
 "</code></pre>"
-msgstr "تعيين المرشحات هنا. على سبيل المثال:\n"
+msgstr "تعيين الفلاتر هنا. على سبيل المثال:\n"
 "<pre class=\"small text-muted\"><code>\n"
 "[{\n"
 "\tfieldname: \"company\",\n"
@@ -13488,7 +13488,7 @@ msgid "Show in Module Section"
 msgstr "إظهار في قسم الوحدة"
 
 msgid "Show in filter"
-msgstr "إظهار في المرشح"
+msgstr "إظهار في الفلتر"
 
 msgid "Show link to document"
 msgstr "إظهار رابط إلى المستند"
@@ -14551,7 +14551,7 @@ msgid "There are no {0} for this {1}, why don't you start one!"
 msgstr "لا يوجد {0} لهذا {1}، لماذا لا تبدأ واحدًا!"
 
 msgid "There are {0} with the same filters already in the queue:"
-msgstr "هناك {0} بنفس المرشحات موجودة بالفعل في قائمة الانتظار:"
+msgstr "هناك {0} بنفس الفلاتر موجودة بالفعل في قائمة الانتظار:"
 
 msgid "There can be only 9 Page Break fields in a Web Form"
 msgstr "يمكن أن يكون هناك 9 حقول فاصل صفحات فقط في نموذج الويب"
@@ -14572,7 +14572,7 @@ msgid "There is some problem with the file url: {0}"
 msgstr "هناك مشكلة مع عنوان URL للملف: {0}"
 
 msgid "There is {0} with the same filters already in the queue:"
-msgstr "هناك {0} بنفس المرشحات موجود بالفعل في قائمة الانتظار:"
+msgstr "هناك {0} بنفس الفلاتر موجود بالفعل في قائمة الانتظار:"
 
 msgid "There must be atleast one permission rule."
 msgstr "يجب أن يكون هناك قاعدة إذن واحدة على الأقل."
@@ -14581,7 +14581,7 @@ msgid "There was an error building this page"
 msgstr "حدث خطأ أثناء بناء هذه الصفحة"
 
 msgid "There was an error saving filters"
-msgstr "حدث خطأ أثناء حفظ المرشحات"
+msgstr "حدث خطأ أثناء حفظ الفلاتر"
 
 msgid "There were errors"
 msgstr "كانت هناك أخطاء"
@@ -14709,7 +14709,7 @@ msgid "This goes above the slideshow."
 msgstr "هذا يظهر فوق عرض الشرائح."
 
 msgid "This is a background report. Please set the appropriate filters and then generate a new one."
-msgstr "هذا تقرير خلفية. يرجى تعيين المرشحات المناسبة ثم إنشاء تقرير جديد."
+msgstr "هذا تقرير خلفية. يرجى تعيين الفلاتر المناسبة ثم إنشاء تقرير جديد."
 
 msgid "This is a top-10 common password."
 msgstr "هذه كلمة مرور ضمن أكثر 10 كلمات شيوعًا."
@@ -16295,7 +16295,7 @@ msgid "Widths can be set in px or %."
 msgstr "يمكن تعيين العروض بالبكسل أو بالنسبة المئوية."
 
 msgid "Wildcard Filter"
-msgstr "مرشح البدل"
+msgstr "فلتر البدل"
 
 msgid "Will add \"%\" before and after the query"
 msgstr "سيضيف \"%\" قبل وبعد الاستعلام"
@@ -16617,7 +16617,7 @@ msgid "You can set a high value here if multiple users will be logging in from t
 msgstr "يمكنك تعيين قيمة عالية هنا إذا كان العديد من المستخدمين سيسجلون الدخول من نفس الشبكة."
 
 msgid "You can try changing the filters of your report."
-msgstr "يمكنك محاولة تغيير مرشحات تقريرك."
+msgstr "يمكنك محاولة تغيير فلاتر تقريرك."
 
 msgid "You can use Customize Form to set levels on fields."
 msgstr "يمكنك استخدام نموذج التخصيص لتعيين مستويات على الحقول."
