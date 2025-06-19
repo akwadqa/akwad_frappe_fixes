@@ -16909,7 +16909,7 @@ msgid "`job_id` paramater is required for deduplication."
 msgstr "المعلمة `job_id` مطلوبة لإزالة التكرار."
 
 msgid "added rows for {0}"
-msgstr "تمت إضافة صفوف لـ {0}"
+msgstr "قام/قمت بإضافة صفوف لـ {0}"
 
 msgid "after_insert"
 msgstr "بعد_الإدراج"
