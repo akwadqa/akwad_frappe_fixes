@@ -758,6 +758,38 @@ def get_property_setters():
             "row_name": None,
             "value": "0",
             "name": "User-bulk_actions-default"
+        },
+        {
+            "default_value": None,
+            "doc_type": "User",
+            "docstatus": 0,
+            "doctype": "Property Setter",
+            "doctype_or_field": "DocField",
+            "field_name": "default_workspace",
+            "is_system_generated": 0,
+            "modified": "2024-02-29 13:39:42.558789",
+            "module": "Akwad Frappe Fixes",
+            "property": "permlevel",
+            "property_type": "Int",
+            "row_name": None,
+            "value": "1",
+            "name": "User-default_workspace-permlevel"
+        },
+        {
+            "default_value": None,
+            "doc_type": "User",
+            "docstatus": 0,
+            "doctype": "Property Setter",
+            "doctype_or_field": "DocField",
+            "field_name": "default_app",
+            "is_system_generated": 0,
+            "modified": "2024-02-29 13:39:42.558789",
+            "module": "Akwad Frappe Fixes",
+            "property": "permlevel",
+            "property_type": "Int",
+            "row_name": None,
+            "value": "1",
+            "name": "User-default_app-permlevel"
         }
     ]
 
