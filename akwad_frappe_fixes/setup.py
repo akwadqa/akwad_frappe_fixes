@@ -1,796 +1,148 @@
 import frappe
+from frappe import _
+from frappe.custom.doctype.custom_field.custom_field import create_custom_fields
+from .property_setters import get_property_setters  # separate file to keep it clean
 
 def after_install():
+    # Insert Property Setters
     property_setters = get_property_setters()
-
-    for property_setter in property_setters:
-        target_doctype = property_setter["doc_type"]
-
-        # ✅ Check if the target DocType exists BEFORE doing anything
-        if not frappe.db.exists("DocType", target_doctype):
+    for ps in property_setters:
+        if not frappe.db.exists("DocType", ps["doc_type"]):
             continue
-
-        # Skip if property setter already exists
-        if not frappe.db.exists("Property Setter", property_setter["name"]):
+        if not frappe.db.exists("Property Setter", ps["name"]):
             try:
-                frappe.get_doc(property_setter).insert(ignore_permissions=True)
+                frappe.get_doc(ps).insert(ignore_permissions=True)
             except Exception as e:
                 frappe.log_error(
-                    f"Error inserting Property Setter {property_setter['name']}: {e}",
+                    f"Error inserting Property Setter {ps['name']}: {e}",
                     title="after_install Property Setter Insertion Error"
                 )
 
-def get_property_setters():
-    property_setters = [
-        {
-            "doc_type": "Supplier",
-            "default_value": None,
-            "docstatus": 0,
-            "doctype_or_field": "DocType",
-            "doctype": "Property Setter",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:44:35.768322",
-            "module": "Akwad Frappe Fixes",
-            "name": "Supplier-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "desk_theme",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-desk_theme-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "banner_image",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:54.081802",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-banner_image-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "change_password",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:40:42.813633",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-change_password-collapsible",
-            "property": "collapsible",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "document_follow_notify",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:41:14.412836",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-document_follow_notify-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "thread_notify",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:41:43.682428",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-thread_notify-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "send_me_a_copy",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:41:51.503754",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-send_me_a_copy-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "allowed_in_mentions",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:42:09.162876",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-allowed_in_mentions-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "simultaneous_sessions",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:42:36.267119",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-simultaneous_sessions-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "social_logins",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:42:46.369943",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-social_logins-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "sb3",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:43:49.675191",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-security_settings-permlevel",
-            "property": "collapsible",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "connections_tab",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:44:44.426648",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-connections_tab-hidden",
-            "property": "hidden",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "role_profile_name",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 14:19:27.730382",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-role_profile_name-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "roles_html",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:49:39.297259",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-roles_html-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "module_profile",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 14:12:26.870974",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-module_profile-permlevel",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Customer",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-02-29 15:52:18.474494",
-            "module": "Akwad Frappe Fixes",
-            "name": "Customer-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Serial No",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-02-29 15:52:32.482600",
-            "module": "Akwad Frappe Fixes",
-            "name": "Serial No-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-01-03 16:59:52.412395",
-            "module": "Akwad Frappe Fixes",
-            "name": "User-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Journal Entry",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:46:09.086455",
-            "module": "Akwad Frappe Fixes",
-            "name": "Journal Entry-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Salary Structure Assignment",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:46:25.880113",
-            "module": "Akwad Frappe Fixes",
-            "name": "Salary Structure Assignment-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Payment Entry",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:46:42.722278",
-            "module": "Akwad Frappe Fixes",
-            "name": "Payment Entry-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Stock Entry",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:46:57.740250",
-            "module": "Akwad Frappe Fixes",
-            "name": "Stock Entry-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Item",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:47:09.568374",
-            "module": "Akwad Frappe Fixes",
-            "name": "Item-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Employee Checkin",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:47:16.282261",
-            "module": "Akwad Frappe Fixes",
-            "name": "Employee Checkin-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Purchase Invoice",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:48:05.590159",
-            "module": "Akwad Frappe Fixes",
-            "name": "Purchase Invoice-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Sales Invoice",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:48:12.571001",
-            "module": "Akwad Frappe Fixes",
-            "name": "Sales Invoice-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Sales Order",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:48:59.033927",
-            "module": "Akwad Frappe Fixes",
-            "name": "Sales Order-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Purchase Order",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:49:07.533752",
-            "module": "Akwad Frappe Fixes",
-            "name": "Purchase Order-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "Notification Settings",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:50:41.780762",
-            "module": "Akwad Frappe Fixes",
-            "name": "Notification Settings-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "POS Invoice",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocType",
-            "field_name": None,
-            "is_system_generated": 0,
-            "modified": "2024-04-17 23:52:09.564345",
-            "module": "Akwad Frappe Fixes",
-            "name": "POS Invoice-main-track_changes",
-            "property": "track_changes",
-            "property_type": "Check",
-            "row_name": None,
-            "value": "0"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "search_bar",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-search_bar-permlevel"
+    # Insert other default setup
+    insert_letter_head()
+    insert_print_style()
+    create_custom_fields(get_custom_fields(), ignore_validate=True)
+    set_default_print_style()
 
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "notifications",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-notifications-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "list_sidebar",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-list_sidebar-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "dashboard",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-dashboard-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "timeline",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-timeline-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "form_sidebar",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-form_sidebar-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "view_switcher",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-view_switcher-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "bulk_actions",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-bulk_actions-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "search_bar",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-search_bar-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "notifications",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-notifications-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "list_sidebar",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-list_sidebar-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "dashboard",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-dashboard-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "timeline",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-timeline-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "form_sidebar",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-form_sidebar-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "view_switcher",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-view_switcher-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "bulk_actions",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "default",
-            "property_type": "Text",
-            "row_name": None,
-            "value": "0",
-            "name": "User-bulk_actions-default"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "default_workspace",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-default_workspace-permlevel"
-        },
-        {
-            "default_value": None,
-            "doc_type": "User",
-            "docstatus": 0,
-            "doctype": "Property Setter",
-            "doctype_or_field": "DocField",
-            "field_name": "default_app",
-            "is_system_generated": 0,
-            "modified": "2024-02-29 13:39:42.558789",
-            "module": "Akwad Frappe Fixes",
-            "property": "permlevel",
-            "property_type": "Int",
-            "row_name": None,
-            "value": "1",
-            "name": "User-default_app-permlevel"
-        }
-    ]
+def insert_letter_head():
+    if not frappe.db.exists("Letter Head", "Standard Letter Head"):
+        frappe.get_doc({
+            "doctype": "Letter Head",
+            "letter_head_name": "Standard Letter Head",
+            "is_default": 1,
+            "disabled": 0,
+            "source": "HTML",
+            "footer_source": "HTML",
+            "content": """ {% set company_address = "" %}
+{% set default_company = frappe.db.get_single_value("Global Defaults" , "default_company")%}
+{% if default_company %}
+    {% set address_doc_name = frappe.db.get_value("Dynamic Link", {"link_doctype" : "Company" , "link_name" : default_company , "parenttype": "Address"} , "parent") %}
+    
+    {% if address_doc_name %}
+        {% set company_address = frappe.get_doc("Address", address_doc_name) %}
+    {% endif %}
+{% endif %}
 
-    return property_setters
+{% set app_logo = frappe.db.get_single_value("Website Settings", "app_logo") %}
+
+
+<table style="width: 100%; font-size: 16px;">
+    <tbody>
+        <tr>
+            <td style="width: 70%; line-height: 1.5; vertical-align: middle!important;">
+                {% if company_address %}
+                    <p style="font-weight: bold;">{{ company_address.address_title }}</p>
+                    <p>{{ company_address.address_line1 }}</p>
+                    <p>{{ company_address.city }}, {{ company_address.country }}</p>
+                {% endif %}
+            </td>
+            <td style="width: 30%; text-align: right; vertical-align: middle!important;">
+                {% if app_logo %}
+                    <img src="{{ app_logo }}" style="max-height: 100px; width: auto!important;">
+                {% endif %}
+            </td>
+        </tr>
+    </tbody>
+</table> """,
+            "footer": """ {% set company_address = "" %}
+{% set default_company = frappe.db.get_single_value("Global Defaults" , "default_company")%}
+{% if default_company %}
+    {% set address_doc_name = frappe.db.get_value("Dynamic Link", {"link_doctype" : "Company" , "link_name" : default_company , "parenttype": "Address"} , "parent") %}
+    
+    {% if address_doc_name %}
+        {% set company_address = frappe.get_doc("Address", address_doc_name) %}
+    {% endif %}
+{% endif %}
+
+
+{% if company_address %}
+    <footer style="position: fixed; bottom: 0; left: 0; width: 100%; text-align: center; font-size: 12px;">
+      {{ company_address.address_title }} - {{ company_address.address_line2 }} | Tel: {{ company_address.phone }} | Email: {{ company_address.email_id }}
+    </footer>
+{% endif %} """
+        }).insert(ignore_permissions=True)
+
+
+def get_custom_fields():
+	return {
+		"Print Style": [
+            {
+				"fieldname": "custom_color",
+				"fieldtype": "Color",
+				"label": _("Color"),
+				"insert_after": "standard"
+            }
+		]
+	}
+
+
+def insert_print_style():
+    if not frappe.db.exists("Print Style", "Standard Print Style"):
+        frappe.get_doc({
+            "doctype": "Print Style",
+            "print_style_name": "Standard Print Style",
+            "disabled": 0,
+            "standard": 0,
+            "css": """ @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+.pf-font {
+    font-family: "Rubik", sans-serif;
+}
+
+.pf-font-size {
+    font-size: 14px;
+}
+
+.pf-heading {
+    margin: 10px 0;
+    width: 100%;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.pf-item-table {
+    width: 100%;
+    margin: 20px 0;
+}
+
+.pf-item-table th {
+    font-weight: normal;
+    color: white;
+}
+
+.pf-terms {
+    margin-top: 100px;
+} """
+        }).insert(ignore_permissions=True)
+
+
+def set_default_print_style():
+    settings = frappe.get_single("Print Settings")
+    settings.print_style = "Standard Print Style"
+    settings.save(ignore_permissions=True)
+
+    print_style = frappe.get_doc("Print Style", "Standard Print Style")
+    print_style.custom_color = "#00589c"
+    print_style.save(ignore_permissions=True)
