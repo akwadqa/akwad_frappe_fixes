@@ -17191,7 +17191,7 @@ msgid "red"
 msgstr "أحمر"
 
 msgid "removed rows for {0}"
-msgstr "تمت إزالة صفوف لـ {0}"
+msgstr "قام/قمت بإزالة صفوف لـ {0}"
 
 msgid "renamed from {0} to {1}"
 msgstr "تمت إعادة التسمية من {0} إلى {1}"
