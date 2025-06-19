@@ -28,7 +28,7 @@ msgid "\"Company History\""
 msgstr "\"تاريخ الشركة\""
 
 msgid "\"Parent\" signifies the parent table in which this row must be added"
-msgstr "\"الأصل\" يشير إلى الجدول الأم الذي يجب إضافة هذا الصف إليه"
+msgstr "\"الأصل\" يشير إلى الجدول الأصل الذي يجب إضافة هذا الصف إليه"
 
 msgid "\"Team Members\" or \"Management\""
 msgstr "\"أعضاء الفريق\" أو \"الإدارة\""
@@ -4299,11 +4299,11 @@ msgid "Discussion Topic"
 msgstr "موضوع النقاش"
 
 msgid "Dismiss"
-msgstr "رفض"
+msgstr "تجاهل"
 
 msgctxt "Stop showing the onboarding widget."
 msgid "Dismiss"
-msgstr "رفض"
+msgstr "تجاهل"
 
 msgid "Display"
 msgstr "عرض"
@@ -7589,7 +7589,7 @@ msgid "Is Attachments Folder"
 msgstr "هو مجلد المرفقات"
 
 msgid "Is Calendar and Gantt"
-msgstr "هو التقويم وGantt"
+msgstr "هو التقويم و Gantt"
 
 msgid "Is Child Table"
 msgstr "هو جدول فرعي"
@@ -17998,3 +17998,36 @@ msgstr "ادارة تطبيقات الطرف الثالث"
 
 msgid "Manage your apps"
 msgstr "قم بإدارة تطبيقاتك"
+
+msgid "Navigate Home"
+msgstr "الإنتقال للصفحة الرئيسية"
+
+msgid "Show Users"
+msgstr "عرض المستخدمين"
+
+msgid "Recent Activity"
+msgstr "آخر التحديثات"
+
+msgid "No activities to show"
+msgstr "ما من أنشطة لعرضها"
+
+msgid "Rank"
+msgstr "الترتيب"
+
+msgid "Monthly Rank"
+msgstr "الترتيب الشهري"
+
+msgid "Workflow Builder allows you to create workflows visually. You can drag and drop states and link them to create transitions. Also you can update thieir properties from the sidebar."
+msgstr "أداة إنشاء سير العمل تتيح لك إنشاء سير عمل بطريقة مرئية. يمكنك سحب الحالات وإفلاتها وربطها لإنشاء انتقالات. كما يمكنك تعديل خصائصها من الشريط الجانبي."
+
+msgid "Models"
+msgstr "موديلات"
+
+msgid "Components to build your app"
+msgstr "وحدات لبناء تطبيقك"
+
+msgid "Reports & Masters"
+msgstr "التقارير والبيانات الرئيسية"
+
+msgid "Portal"
+msgstr "البوابة"
