@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestSMBStandardFeatures(FrappeTestCase):
+class TestAkwadFrappeFixes(FrappeTestCase):
 	pass

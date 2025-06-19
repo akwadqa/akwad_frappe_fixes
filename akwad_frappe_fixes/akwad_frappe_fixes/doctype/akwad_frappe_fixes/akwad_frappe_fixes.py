@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class SMBStandardFeatures(Document):
+class AkwadFrappeFixes(Document):
 	pass
