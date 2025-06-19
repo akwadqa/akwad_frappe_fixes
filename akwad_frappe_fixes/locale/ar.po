@@ -16945,7 +16945,7 @@ msgid "clear"
 msgstr "مسح"
 
 msgid "commented"
-msgstr "تم التعليق"
+msgstr "قمت/قام بالتعليق"
 
 msgid "create"
 msgstr "إنشاء"
