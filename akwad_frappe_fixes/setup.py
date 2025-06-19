@@ -4,7 +4,13 @@ from frappe.custom.doctype.custom_field.custom_field import create_custom_fields
 from .property_setters import get_property_setters  # separate file to keep it clean
 
 def after_install():
-    # Insert Property Setters
+    insert_property_setters()
+    insert_letter_head()
+    insert_print_style()
+    create_custom_fields(get_custom_fields(), ignore_validate=True)
+    set_default_print_style()
+
+def insert_property_setters():
     property_setters = get_property_setters()
     for ps in property_setters:
         if not frappe.db.exists("DocType", ps["doc_type"]):
@@ -17,12 +23,6 @@ def after_install():
                     f"Error inserting Property Setter {ps['name']}: {e}",
                     title="after_install Property Setter Insertion Error"
                 )
-
-    # Insert other default setup
-    insert_letter_head()
-    insert_print_style()
-    create_custom_fields(get_custom_fields(), ignore_validate=True)
-    set_default_print_style()
 
 def insert_letter_head():
     if not frappe.db.exists("Letter Head", "Standard Letter Head"):
