@@ -4733,7 +4733,7 @@ msgid "Due Date Based On"
 msgstr "تاريخ الاستحقاق بناءً على"
 
 msgid "Duplicate"
-msgstr "مكرر"
+msgstr "استنساخ"
 
 msgid "Duplicate Entry"
 msgstr "إدخال مكرر"
@@ -18031,3 +18031,9 @@ msgstr "التقارير والبيانات الرئيسية"
 
 msgid "Portal"
 msgstr "البوابة"
+
+msgid "{0} removed attachment {1}"
+msgstr "{0} قام بحذف مرفق {1}"
+
+msgid "You removed attachment {0}"
+msgstr " قمت بحذف مرفق {0}"
