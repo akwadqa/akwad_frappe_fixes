@@ -1008,7 +1008,7 @@ msgid "Added default log doctypes: {}"
 msgstr "تمت إضافة أنواع سجلات السجل الافتراضية: {}"
 
 msgid "Added {0} ({1})"
-msgstr "تمت إضافة {0} ({1})"
+msgstr "قام/قمت بإضافة {0} ({1})"
 
 msgid "Additional Permissions"
 msgstr "أذونات إضافية"
