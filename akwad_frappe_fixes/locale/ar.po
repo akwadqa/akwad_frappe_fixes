@@ -18037,3 +18037,1298 @@ msgstr "{0} قام بحذف مرفق {1}"
 
 msgid "You removed attachment {0}"
 msgstr " قمت بحذف مرفق {0}"
+
+msgid "<span class=\"h4\"><b>Documents</b></span>"
+msgstr "<span class=\"h4\"><b>المستندات</b></span>"
+
+msgid "zoom-out"
+msgstr "تصغير"
+
+msgid "zoom-in"
+msgstr "تكبير"
+
+msgid "You've logged in as another user from another tab. Refresh this page to continue using system."
+msgstr "لقد قمت بتسجيل الدخول كمستخدم آخر من علامة تبويب أخرى. يرجى تحديث هذه الصفحة لمتابعة استخدام النظام."
+
+msgid "Your website is all set up!"
+msgstr "تم إعداد موقعك الإلكتروني بالكامل!"
+
+msgid "Your site is undergoing maintenance or being updated."
+msgstr "موقعك قيد الصيانة أو يتم تحديثه."
+
+msgid "Your session has expired, please login again to continue."
+msgstr "انتهت جلستك، يرجى تسجيل الدخول مجددًا للمتابعة."
+
+msgid "Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail."
+msgstr "تم استلام استفسارك. سنرد عليك قريبًا. إذا كانت لديك أي معلومات إضافية، يرجى الرد على هذا البريد."
+
+msgid "Your organization name and address for the email footer."
+msgstr "اسم مؤسستك وعنوانها لتذييل البريد الإلكتروني."
+
+msgid "Your new password has been set successfully."
+msgstr "تم تعيين كلمة المرور الجديدة بنجاح."
+
+msgid "Your login id is"
+msgstr "معرف تسجيل الدخول الخاص بك هو"
+
+msgid "Your browser does not support the audio element."
+msgstr "متصفحك لا يدعم عنصر الصوت."
+
+msgid "You unfollowed this document"
+msgstr "لقد ألغيت متابعة هذا المستند"
+
+msgid "You selected Draft or Cancelled documents"
+msgstr "لقد اخترت مستندات مسودة أو ملغاة"
+
+msgid "You seem to have written your name instead of your email. Please enter a valid email address so that we can get back."
+msgstr "يبدو أنك كتبت اسمك بدلاً من بريدك الإلكتروني. يرجى إدخال عنوان بريد إلكتروني صالح حتى نتمكن من الرد عليك."
+
+msgid "You removed attachment {0}"
+msgstr "لقد أزلت المرفق {0}"
+
+msgid "You need write permission on {0} {1} to rename"
+msgstr "تحتاج إلى إذن الكتابة على {0} {1} لإعادة التسمية"
+
+msgid "You need write permission on {0} {1} to merge"
+msgstr "تحتاج إلى إذن الكتابة على {0} {1} للدمج"
+
+msgid "You need to set one IMAP folder for {0}"
+msgstr "تحتاج إلى تعيين مجلد IMAP واحد لـ {0}"
+
+msgid "You need to install pycups to use this feature!"
+msgstr "تحتاج إلى تثبيت pycups لاستخدام هذه الميزة!"
+
+msgid "You need to have \"Share\" permission"
+msgstr "تحتاج إلى إذن \"المشاركة\""
+
+msgid "You need to create these first: "
+msgstr "تحتاج إلى إنشاء هذه أولاً: "
+
+msgid "You need to be Workspace Manager to edit this document"
+msgstr "تحتاج إلى أن تكون مدير مساحة العمل لتعديل هذا المستند"
+
+msgid "You need to be in developer mode to edit a Standard Web Form"
+msgstr "تحتاج إلى أن تكون في وضع المطور لتعديل نموذج ويب قياسي"
+
+msgid "You hit the rate limit because of too many requests. Please try after sometime."
+msgstr "لقد وصلت إلى الحد الأقصى للطلبات بسبب كثرة الطلبات. يرجى المحاولة بعد قليل."
+
+msgid "You haven't added any Dashboard Charts or Number Cards yet."
+msgstr "لم تقم بإضافة أي مخططات لوحة القيادة أو بطاقات أرقام بعد."
+
+msgid "You have unsaved changes in this form. Please save before you continue."
+msgstr "لديك تغييرات غير محفوظة في هذا النموذج. يرجى الحفظ قبل المتابعة."
+
+msgid "You have to enable Two Factor Auth from System Settings."
+msgstr "يجب عليك تفعيل المصادقة الثنائية من إعدادات النظام."
+
+msgid "You have received a ❤️ like on your blog post"
+msgstr "لقد تلقيت إعجاب ❤️ على منشور مدونتك"
+
+msgid "You have a new message from: "
+msgstr "لديك رسالة جديدة من: "
+
+msgid "You gained {0} points"
+msgstr "لقد حصلت على {0} نقاط"
+
+msgid "You gained {0} point"
+msgstr "لقد حصلت على {0} نقطة"
+
+msgid "You don't have the permissions to access this document"
+msgstr "ليس لديك الأذونات للوصول إلى هذا المستند"
+
+msgid "You do not have enough review points"
+msgstr "ليس لديك نقاط مراجعة كافية"
+
+msgid "You do not have enough points"
+msgstr "ليس لديك نقاط كافية"
+
+msgid "You cannot unset 'Read Only' for field {0}"
+msgstr "لا يمكنك إلغاء تعيين 'للقراءة فقط' للحقل {0}"
+
+msgid "You cannot give review points to yourself"
+msgstr "لا يمكنك منح نقاط مراجعة لنفسك"
+
+msgid "You cannot create a dashboard chart from single DocTypes"
+msgstr "لا يمكنك إنشاء مخطط لوحة القيادة من أنواع مستندات فردية"
+
+msgid "wrench"
+msgstr "مفتاح ربط"
+
+msgid "Workspace not found"
+msgstr "مساحة العمل غير موجودة"
+
+msgid "Workspace {0} Edited Successfully"
+msgstr "تم تعديل مساحة العمل {0} بنجاح"
+
+msgid "Workspace {0} Deleted Successfully"
+msgstr "تم حذف مساحة العمل {0} بنجاح"
+
+msgid "Workspace {0} Created Successfully"
+msgstr "تم إنشاء مساحة العمل {0} بنجاح"
+
+msgid "Workflows allow you to define custom rules for the approval process of a particular document in ERPNext. You can also set complex Workflow Rules and set approval conditions."
+msgstr "تتيح سير العمل لك تحديد قواعد مخصصة لعملية الموافقة على مستند معين في ERPNext. يمكنك أيضًا تعيين قواعد سير عمل معقدة وتحديد شروط الموافقة."
+
+msgid "Workflow Builder allows you to create workflows visually. You can drag and drop states and link them to create transitions. Also you can update thieir properties from the sidebar."
+msgstr "يسمح لك منشئ سير العمل بإنشاء سير عمل بصريًا. يمكنك سحب وإفلات الحالات وربطها لإنشاء انتقالات. كما يمكنك تحديث خصائصها من الشريط الجانبي."
+# Note: "thieir" in the source text seems to be a typo for "their". Translated as intended.
+
+msgid "Worflow States Don't Exist"
+msgstr "حالات سير العمل غير موجودة"
+# Note: "Worflow" in the source text seems to be a typo for "Workflow". Translated as intended.
+
+msgid "warning-sign"
+msgstr "علامة تحذير"
+
+msgid "volume-up"
+msgstr "رفع الصوت"
+
+msgid "volume-off"
+msgstr "كتم الصوت"
+
+msgid "volume-down"
+msgstr "خفض الصوت"
+
+msgid "View Ref"
+msgstr "عرض المرجع"
+
+msgid "via automatic rule {0} on {1}"
+msgstr "عبر القاعدة التلقائية {0} على {1}"
+
+msgid "Value missing for"
+msgstr "القيمة مفقودة لـ"
+
+msgid "Users assigned to the reference document will get points."
+msgstr "سيحصل المستخدمون المعينون للمستند المرجعي على نقاط."
+
+msgid "user"
+msgstr "مستخدم"
+
+msgid "User Profile"
+msgstr "ملف المستخدم"
+
+msgid "User Permissions created sucessfully"
+msgstr "تم إنشاء أذونات المستخدم بنجاح"
+# Note: "sucessfully" in the source text seems to be a typo for "successfully". Translated as intended.
+
+msgid "User not allowed to delete {0}: {1}"
+msgstr "المستخدم غير مسموح له بحذف {0}: {1}"
+
+msgid "User Field"
+msgstr "حقل المستخدم"
+
+msgid "User does not exist"
+msgstr "المستخدم غير موجود"
+
+msgid "Use this, for example, if all sent emails should also be send to an archive."
+msgstr "استخدم هذا، على سبيل المثال، إذا كان يجب إرسال جميع الرسائل الإلكترونية المرسلة إلى أرشيف أيضًا."
+
+msgid "Use First Day of Period"
+msgstr "استخدم اليوم الأول من الفترة"
+
+msgid "Use % for any non empty value."
+msgstr "استخدم % لأي قيمة غير فارغة."
+
+msgid "upload"
+msgstr "رفع"
+
+msgid "Upgrade plan"
+msgstr "ترقية الخطة"
+
+msgid "Updating naming series options"
+msgstr "تحديث خيارات سلسلة التسمية"
+
+msgid "Updating Email Queue Statuses. The emails will be picked up in the next scheduled run."
+msgstr "تحديث حالات قائمة البريد الإلكتروني. سيتم استلام الرسائل في التشغيل المجدول التالي."
+
+msgid "Updating {0} of {1}, {2}"
+msgstr "تحديث {0} من {1}، {2}"
+
+msgid "Updates"
+msgstr "التحديثات"
+
+msgid "Update Details"
+msgstr "تحديث التفاصيل"
+
+msgid "Unsubscribe Param"
+msgstr "إلغاء الاشتراك"
+
+msgid "Unknown file encoding. Tried utf-8, windows-1250, windows-1252."
+msgstr "ترميز ملف غير معروف. تمت المحاولة باستخدام utf-8، windows-1250، windows-1252."
+
+msgid "Unhide Workspace"
+msgstr "إظهار مساحة العمل"
+
+msgid "Uncaught Server Exception"
+msgstr "استثناء خادم غير ملتقط"
+
+msgid "Type Distribution"
+msgstr "توزيع النوع"
+
+msgid "trash"
+msgstr "سلة المحذوفات"
+
+msgid "Top Reviewer"
+msgstr "أفضل مراجع"
+
+msgid "Top Performer"
+msgstr "أفضل أداء"
+
+msgid "Top {0}"
+msgstr "أفضل {0}"
+
+msgid "Toggle Section: {0}"
+msgstr "تبديل القسم: {0}"
+
+msgid "To User"
+msgstr "إلى المستخدم"
+
+msgid "To manage your authorized third party apps"
+msgstr "لإدارة تطبيقات الطرف الثالث المصرح بها"
+
+msgid "To allow more reports update limit in System Settings."
+msgstr "للسماح بتحديث حدود التقارير في إعدادات النظام."
+
+msgid "Title field must be a valid fieldname"
+msgstr "يجب أن يكون حقل العنوان اسم حقل صالح"
+
+msgid "tint"
+msgstr "تلوين"
+
+msgid "Timeline field must be a valid fieldname"
+msgstr "يجب أن يكون حقل الجدول الزمني اسم حقل صالح"
+
+msgid "time"
+msgstr "الوقت"
+
+msgid "thumbs-up"
+msgstr "إعجاب"
+
+msgid "thumbs-down"
+msgstr "عدم إعجاب"
+
+msgid "th-list"
+msgstr "قائمة"
+
+msgid "th-large"
+msgstr "قائمة كبيرة"
+
+msgid "This will reset this tour and show it to all users. Are you sure?"
+msgstr "سيؤدي هذا إلى إعادة تعيين هذه الجولة وعرضها لجميع المستخدمين. هل أنت متأكد؟"
+
+msgid "This will permanently remove your data."
+msgstr "سيؤدي هذا إلى إزالة بياناتك نهائيًا."
+
+msgid "This site is running in developer mode. Any change made here will be updated in code."
+msgstr "هذا الموقع يعمل في وضع المطور. سيتم تحديث أي تغيير يتم إجراؤه هنا في الكود."
+
+msgid "This site is in read only mode, full functionality will be restored soon."
+msgstr "هذا الموقع في وضع القراءة فقط، سيتم استعادة الوظائف الكاملة قريبًا."
+
+msgid "This request has not yet been approved by the user."
+msgstr "لم يتم الموافقة على هذا الطلب من قبل المستخدم بعد."
+
+msgid "This report contains {0} rows and is too big to display in browser, you can {1} this report instead."
+msgstr "يحتوي هذا التقرير على {0} صفوف وهو كبير جدًا لعرضه في المتصفح، يمكنك {1} هذا التقرير بدلاً من ذلك."
+
+msgid "This newsletter was scheduled to send on a later date. Are you sure you want to send it now?"
+msgstr "كان من المقرر إرسال هذه النشرة في تاريخ لاحق. هل أنت متأكد أنك تريد إرسالها الآن؟"
+
+msgid "This newsletter is scheduled to be sent on {0}"
+msgstr "من المقرر إرسال هذه النشرة في {0}"
+
+msgid "This may get printed on multiple pages"
+msgstr "قد يتم طباعة هذا على صفحات متعددة"
+
+msgid "This form has been modified after you have loaded it"
+msgstr "تم تعديل هذا النموذج بعد تحميله"
+
+msgid "This document has been reverted"
+msgstr "تم التراجع عن هذا المستند"
+
+msgid "This document cannot be reverted"
+msgstr "لا يمكن التراجع عن هذا المستند"
+
+msgid "This document allows you to edit limited fields. For all kinds of workspace customization, use the Edit button located on the workspace page"
+msgstr "يسمح لك هذا المستند بتعديل حقول محدودة. لجميع أنواع تخصيص مساحة العمل، استخدم زر التعديل الموجود في صفحة مساحة العمل"
+
+msgid "This Doctype does not contain location fields"
+msgstr "نوع المستند هذا لا يحتوي على حقول الموقع"
+
+msgid "This Doctype does not contain latitude and longitude fields"
+msgstr "نوع المستند هذا لا يحتوي على حقول خط العرض وخط الطول"
+
+msgid "There's nothing here"
+msgstr "لا يوجد شيء هنا"
+
+msgid "The user from this field will be rewarded points"
+msgstr "سيتم مكافأة المستخدم من هذا الحقل بالنقاط"
+
+msgid "The total column width cannot be more than 10."
+msgstr "لا يمكن أن يكون إجمالي عرض العمود أكثر من 10."
+
+msgid "The page you are looking for has gone missing."
+msgstr "الصفحة التي تبحث عنها غير موجودة."
+
+msgid "th"
+msgstr "ث"
+
+msgid "text-width"
+msgstr "عرض النص"
+
+msgid "text-height"
+msgstr "ارتفاع النص"
+
+msgid "tasks"
+msgstr "المهام"
+
+msgid "tags"
+msgstr "الوسوم"
+
+msgid "tag"
+msgstr "وسم"
+
+msgid "System Notifications"
+msgstr "إشعارات النظام"
+
+msgid "Successfully Done"
+msgstr "تم بنجاح"
+
+msgid "Successfully {0} 1 record."
+msgstr "تم بنجاح {0} سجل واحد."
+
+msgid "Successfully {0} {1} records."
+msgstr "تم بنجاح {0} {1} سجل."
+
+msgid "Successfully {0} {1} records out of {2}. Click on Export Errored Rows, fix the errors and import again."
+msgstr "تم بنجاح {0} {1} سجل من أصل {2}. انقر على تصدير الصفوف التي تحتوي على أخطاء، قم بإصلاح الأخطاء واستورد مجددًا."
+
+msgid "Successfully {0} {1} record out of {2}. Click on Export Errored Rows, fix the errors and import again."
+msgstr "تم بنجاح {0} {1} سجل من أصل {2}. انقر على تصدير الصفوف التي تحتوي على أخطاء، قم بإصلاح الأخطاء واستورد مجددًا."
+
+msgid "stop"
+msgstr "إيقاف"
+
+msgid "step-forward"
+msgstr "خطوة للأمام"
+
+msgid "step-backward"
+msgstr "خطوة للخلف"
+
+msgid "Stats based on last week's performance (from {0} to {1})"
+msgstr "الإحصائيات بناءً على أداء الأسبوع الماضي (من {0} إلى {1})"
+
+msgid "Stats based on last month's performance (from {0} to {1})"
+msgstr "الإحصائيات بناءً على أداء الشهر الماضي (من {0} إلى {1})"
+
+msgid "star-empty"
+msgstr "نجمة فارغة"
+
+msgid "star"
+msgstr "نجمة"
+
+msgid "Star us on GitHub"
+msgstr "قم بإعطائنا نجمة على GitHub"
+
+msgid "Standings"
+msgstr "الترتيب"
+
+msgid "SMTP Settings for outgoing emails"
+msgstr "إعدادات SMTP للبريد الإلكتروني الصادر"
+
+msgid "signal"
+msgstr "إشارة"
+
+msgid "Show More Activity"
+msgstr "عرض المزيد من النشاط"
+
+msgid "Show List"
+msgstr "عرض القائمة"
+
+msgid "Show Attachments"
+msgstr "عرض المرفقات"
+
+msgid "shopping-cart"
+msgstr "عربة التسوق"
+
+msgid "share-alt"
+msgstr "مشاركة"
+
+msgid "Setup Naming Series"
+msgstr "إعداد سلسلة التسمية"
+
+msgid "Setup Limited Access for a User"
+msgstr "إعداد وصول محدود لمستخدم"
+
+msgid "Setup Approval Workflows"
+msgstr "إعداد سير عمل الموافقة"
+
+msgid "Send a request to delete your account"
+msgstr "إرسال طلب لحذف حسابك"
+
+msgid "Select Document"
+msgstr "اختيار مستند"
+
+msgid "Select a document to preview request data"
+msgstr "اختر مستندًا لمعاينة بيانات الطلب"
+
+msgid "Select a document to check if it meets conditions."
+msgstr "اختر مستندًا للتحقق مما إذا كان يفي بالشروط."
+
+msgid "search"
+msgstr "بحث"
+
+msgid "Search Results for"
+msgstr "نتائج البحث عن"
+
+msgid "screenshot"
+msgstr "لقطة شاشة"
+
+msgid "Save Filter"
+msgstr "حفظ الفلتر"
+
+msgid "Rule Name"
+msgstr "اسم القاعدة"
+
+msgid "road"
+msgstr "طريق"
+
+msgid "Reviews"
+msgstr "المراجعات"
+
+msgid "Review"
+msgstr "مراجعة"
+
+msgid "Review Points"
+msgstr "نقاط المراجعة"
+
+msgid "Review Levels"
+msgstr "مستويات المراجعة"
+
+msgid "Review Level"
+msgstr "مستوى المراجعة"
+
+msgid "Reverted"
+msgstr "تم التراجع"
+
+msgid "Revert"
+msgstr "تراجع"
+
+msgid "Revert Of"
+msgstr "التراجع عن"
+
+msgid "retweet"
+msgstr "إعادة تغريد"
+
+msgid "resize-vertical"
+msgstr "تغيير الحجم عموديًا"
+
+msgid "resize-small"
+msgstr "تصغير الحجم"
+
+msgid "resize-horizontal"
+msgstr "تغيير الحجم أفقيًا"
+
+msgid "resize-full"
+msgstr "تكبير الحجم"
+
+msgid "Reset the password for your account"
+msgstr "إعادة تعيين كلمة المرور لحسابك"
+
+msgid "Request Account Deletion"
+msgstr "طلب حذف الحساب"
+
+msgid "Report Name, Report Field and Fucntion are required to create a number card"
+msgstr "اسم التقرير، حقل التقرير، والوظيفة مطلوبة لإنشاء بطاقة رقمية"
+# Note: "Fucntion" in the source text seems to be a typo for "Function". Translated as intended.
+
+msgid "repeat"
+msgstr "تكرار"
+
+msgid "remove-sign"
+msgstr "علامة إزالة"
+
+msgid "remove-circle"
+msgstr "إزالة دائرة"
+
+msgid "remove"
+msgstr "إزالة"
+
+msgid "Reminder cannot be created in past."
+msgstr "لا يمكن إنشاء تذكير في الماضي."
+
+msgid "refresh"
+msgstr "تحديث"
+
+msgid "Reference document has been cancelled"
+msgstr "تم إلغاء المستند المرجعي"
+
+msgid "Recent Activity"
+msgstr "النشاط الأخير"
+
+msgid "Rank"
+msgstr "الترتيب"
+
+msgid "random"
+msgstr "عشوائي"
+
+msgid "question-sign"
+msgstr "علامة استفهام"
+
+msgid "qrcode"
+msgstr "رمز QR"
+
+msgid "Public"
+msgstr "عام"
+
+msgid "Print Formats allow you can define looks for documents when printed or converted to PDF. You can also create a custom Print Format using drag-and-drop tools."
+msgstr "تتيح تنسيقات الطباعة لك تحديد مظهر المستندات عند طباعتها أو تحويلها إلى PDF. يمكنك أيضًا إنشاء تنسيق طباعة مخصص باستخدام أدوات السحب والإفلات."
+
+msgid "Previous Document"
+msgstr "المستند السابق"
+
+msgid "Posts"
+msgstr "المنشورات"
+
+msgid "Portal"
+msgstr "البوابة"
+
+msgid "Points"
+msgstr "النقاط"
+
+msgid "Points Given"
+msgstr "النقاط الممنوحة"
+
+msgid "Point Allocation Periodicity"
+msgstr "دورية تخصيص النقاط"
+
+msgid "plus-sign"
+msgstr "علامة زائد"
+
+msgid "plus"
+msgstr "زائد"
+
+msgid "Please select Company"
+msgstr "يرجى اختيار الشركة"
+
+msgid "Please hide the standard navbar items instead of deleting them"
+msgstr "يرجى إخفاء عناصر شريط التنقل القياسي بدلاً من حذفها"
+
+msgid "play-circle"
+msgstr "تشغيل دائرة"
+
+msgid "play"
+msgstr "تشغيل"
+
+msgid "plane"
+msgstr "طائرة"
+
+msgid "picture"
+msgstr "صورة"
+
+msgid "Personal"
+msgstr "شخصي"
+
+msgid "pencil"
+msgstr "قلم رصاص"
+
+msgid "pause"
+msgstr "إيقاف مؤقت"
+
+msgid "Password reset instructions have been sent to your email"
+msgstr "تم إرسال تعليمات إعادة تعيين كلمة المرور إلى بريدك الإلكتروني"
+
+msgid "Page with title {0} already exist."
+msgstr "الصفحة بعنوان {0} موجودة بالفعل."
+
+msgid "Page Saved Successfully"
+msgstr "تم حفظ الصفحة بنجاح"
+
+msgid "Open a dialog with mandatory fields to create a new record quickly"
+msgstr "فتح حوار مع الحقول الإلزامية لإنشاء سجل جديد بسرعة"
+
+msgid "only."
+msgstr "فقط."
+
+msgid "Only Workspace Manager can sort or edit this page"
+msgstr "يمكن لمدير مساحة العمل فقط ترتيب أو تعديل هذه الصفحة"
+
+msgid "Only users involved in the document are listed"
+msgstr "يتم سرد المستخدمين المشاركين في المستند فقط"
+
+msgid "One of the child page with name {0} already exist in {1} Section. Please update the name of the child page first before moving"
+msgstr "إحدى الصفحات الفرعية باسم {0} موجودة بالفعل في قسم {1}. يرجى تحديث اسم الصفحة الفرعية أولاً قبل النقل"
+
+msgid "ok-sign"
+msgstr "علامة موافق"
+
+msgid "ok-circle"
+msgstr "دائرة موافق"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "ok"
+msgstr "موافق"
+
+msgid "off"
+msgstr "إيقاف"
+
+msgid "Note: For best results, images must be of the same size and width must be greater than height."
+msgstr "ملاحظة: للحصول على أفضل النتائج، يجب أن تكون الصور بنفس الحجم وأن يكون العرض أكبر من الارتفاع."
+
+msgid "No Items Found"
+msgstr "لم يتم العثور على عناصر"
+
+msgid "No Data to Show"
+msgstr "لا توجد بيانات لعرضها"
+
+msgid "No changes made on the page"
+msgstr "لم يتم إجراء تغييرات على الصفحة"
+
+msgid "No activities to show"
+msgstr "لا توجد أنشطة لعرضها"
+
+msgid "Next Document"
+msgstr "المستند التالي"
+
+msgid "Need Workspace Manager role to hide/unhide public workspaces"
+msgstr "تحتاج إلى دور مدير مساحة العمل لإخفاء/إظهار مساحات العمل العامة"
+
+msgid "Navigate to main content"
+msgstr "الانتقال إلى المحتوى الرئيسي"
+
+msgid "Navigate Home"
+msgstr "الانتقال إلى الصفحة الرئيسية"
+
+msgid "My Settings"
+msgstr "إعداداتي"
+
+msgid "My Profile"
+msgstr "ملفي الشخصي"
+
+msgid "music"
+msgstr "موسيقى"
+
+msgid "Multiplier Field"
+msgstr "حقل المضاعف"
+
+msgid "move"
+msgstr "نقل"
+
+msgid "Monthly Rank"
+msgstr "الترتيب الشهري"
+
+msgid "Models"
+msgstr "النماذج"
+
+msgid "minus-sign"
+msgstr "علامة ناقص"
+
+msgid "minus"
+msgstr "ناقص"
+
+msgid "Maximum Points"
+msgstr "النقاط القصوى"
+
+msgid "Marketing Campaign"
+msgstr "حملة تسويقية"
+
+msgid "map-marker"
+msgstr "علامة الخريطة"
+
+msgid "Map route parameters into form variables. Example <code>/project/<name></code>"
+msgstr "ربط معلمات المسار بمتغيرات النموذج. مثال <code>/project/<name></code>"
+
+msgid "Manage your apps"
+msgstr "إدارة تطبيقاتك"
+
+msgid "Manage third party apps"
+msgstr "إدارة تطبيقات الطرف الثالث"
+
+msgid "magnet"
+msgstr "مغناطيس"
+
+msgid "Loving Frappe Framework?"
+msgstr "هل تحب إطار عمل Frappe؟"
+
+msgid "lock"
+msgstr "قفل"
+
+msgid "Loading user profile"
+msgstr "جارٍ تحميل ملف المستخدم"
+
+msgid "list-alt"
+msgstr "قائمة بديلة"
+
+msgid "Linked Documents"
+msgstr "المستندات المرتبطة"
+
+msgid "Level Name"
+msgstr "اسم المستوى"
+
+msgid "Let's Set Up Your Website."
+msgstr "لنقم بإعداد موقعك الإلكتروني."
+
+msgid "Learn more about Report Builders"
+msgstr "تعرف على المزيد حول منشئي التقارير"
+
+msgid "Learn more about creating new DocTypes"
+msgstr "تعرف على المزيد حول إنشاء أنواع مستندات جديدة"
+
+msgid "Learn how to add Custom Fields"
+msgstr "تعرف على كيفية إضافة حقول مخصصة"
+
+msgid "Learn about Web Pages"
+msgstr "تعرف على صفحات الويب"
+
+msgid "Learn about Standard and Custom Print Formats"
+msgstr "تعرف على تنسيقات الطباعة القياسية والمخصصة"
+
+msgid "leaf"
+msgstr "ورقة"
+
+msgid "Leaderboard"
+msgstr "لوحة الصدارة"
+
+msgid "LDAP Search String must be enclosed in '()' and needs to contian the user placeholder {0}, eg sAMAccountName={0}"
+msgstr "يجب أن تكون سلسلة بحث LDAP محاطة بـ '()' وتحتاج إلى احتواء متغير المستخدم {0}، مثل sAMAccountName={0}"
+
+msgid "Last Point Allocation Date"
+msgstr "تاريخ آخر تخصيص للنقاط"
+
+msgid "Job is in {0} state and can't be cancelled"
+msgstr "المهمة في حالة {0} ولا يمكن إلغاؤها"
+
+msgid "italic"
+msgstr "مائل"
+
+msgid "Invalid include path"
+msgstr "مسار التضمين غير صالح"
+
+msgid "Introduction to Website"
+msgstr "مقدمة عن الموقع الإلكتروني"
+
+msgid "Intro"
+msgstr "مقدمة"
+
+msgid "info-sign"
+msgstr "علامة معلومات"
+
+msgid "indent-right"
+msgstr "توسيط لليمين"
+
+msgid "indent-left"
+msgstr "توسيط لليسار"
+
+msgid "inbox"
+msgstr "صندوق الوارد"
+
+msgid "In ERPNext, you can add your Employees as Users, and give them restricted access. Tools like Role Permission and User Permission allow you to define rules which give restricted access to the user to masters and transactions."
+msgstr "في ERPNext، يمكنك إضافة موظفيك كمستخدمين، ومنحهم وصولاً محدودًا. تتيح أدوات مثل إذن الدور وإذن المستخدم لك تحديد قواعد تمنح وصولاً محدودًا للمستخدم إلى السجلات الرئيسية والمعاملات."
+
+msgid "In each module, you will find a host of single-click reports, ranging from financial statements to sales and purchase analytics and stock tracking reports. If a required new report is not available out-of-the-box, you can create custom reports in ERPNext by pulling values from the same multiple ERPNext tables.\n"
+msgstr "في كل وحدة، ستجد مجموعة من التقارير بنقرة واحدة، تتراوح بين البيانات المالية وتحليلات المبيعات والمشتريات وتقارير تتبع المخزون. إذا لم يكن التقرير الجديد المطلوب متوفرًا بشكل افتراضي، يمكنك إنشاء تقارير مخصصة في ERPNext عن طريق سحب القيم من عدة جداول ERPNext.\n"
+
+msgid "If you just want to customize for your site, use {0} instead."
+msgstr "إذا كنت ترغب فقط في التخصيص لموقعك، استخدم {0} بدلاً من ذلك."
+
+msgid "If you have recently restored the site you may need to copy the site config contaning original Encryption Key."
+msgstr "إذا قمت مؤخرًا باستعادة الموقع، قد تحتاج إلى نسخ إعدادات الموقع التي تحتوي على مفتاح التشفير الأصلي."
+# Note: "contaning" in the source text seems to be a typo for "containing". Translated as intended.
+
+msgid "If the user has any role checked, then the user becomes a \"System User\". \"System User\" has access to the desktop"
+msgstr "إذا كان لدى المستخدم أي دور محدد، فإنه يصبح \"مستخدم نظام\". \"مستخدم النظام\" لديه إمكانية الوصول إلى سطح المكتب"
+
+msgid "If the condition is satisfied user will be rewarded with the points. eg. doc.status == 'Closed'\n"
+msgstr "إذا تم استيفاء الشرط، سيتم مكافأة المستخدم بالنقاط. على سبيل المثال: doc.status == 'Closed'\n"
+
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
+msgstr "إذا تم تفعيله، سيتم فرض قوة كلمة المرور بناءً على قيمة الحد الأدنى لنقاط كلمة المرور. قيمة 2 تعني قوة متوسطة و4 تعني قوة عالية جدًا."
+
+msgid "If enabled, user can login from any IP Address using Two Factor Auth, this can also be set for all users in System Settings"
+msgstr "إذا تم تفعيله، يمكن للمستخدم تسجيل الدخول من أي عنوان IP باستخدام المصادقة الثنائية، ويمكن أيضًا تعيين ذلك لجميع المستخدمين في إعدادات النظام"
+
+msgid "home"
+msgstr "الصفحة الرئيسية"
+
+msgid "Hide Workspace"
+msgstr "إخفاء مساحة العمل"
+
+msgid "heart"
+msgstr "قلب"
+
+msgid "headphones"
+msgstr "سماعات رأس"
+
+msgid "hdd"
+msgstr "قرص صلب"
+
+msgid "hand-up"
+msgstr "يد لأعلى"
+
+msgid "hand-right"
+msgstr "يد لليمين"
+
+msgid "hand-left"
+msgstr "يد لليسار"
+
+msgid "hand-down"
+msgstr "يد لأسفل"
+
+msgid "globe"
+msgstr "كرة أرضية"
+
+msgid "glass"
+msgstr "كأس"
+
+msgid "Give Review Points"
+msgstr "منح نقاط المراجعة"
+
+msgid "gift"
+msgstr "هدية"
+
+msgid "Generate Custom Reports"
+msgstr "إنشاء تقارير مخصصة"
+
+msgid "gained by {0} via automatic rule {1}"
+msgstr "تم الحصول عليها بواسطة {0} عبر القاعدة التلقائية {1}"
+
+msgid "fullscreen"
+msgstr "ملء الشاشة"
+
+msgid "forward"
+msgstr "إلى الأمام"
+
+msgid "For Document Event"
+msgstr "لحدث المستند"
+
+msgid "font"
+msgstr "خط"
+
+msgid "folder-open"
+msgstr "مجلد مفتوح"
+
+msgid "folder-close"
+msgstr "مجلد مغلق"
+
+msgid "flag"
+msgstr "علم"
+
+msgid "fire"
+msgstr "نار"
+
+msgid "filter"
+msgstr "فلتر"
+
+msgid "Filter must have 4 values (doctype, fieldname, operator, value): {0}"
+msgstr "يجب أن يحتوي الفلتر على 4 قيم (نوع المستند، اسم الحقل، المعامل، القيمة): {0}"
+
+msgid "Filter must be a tuple or list (in a list)"
+msgstr "يجب أن يكون الفلتر عبارة عن مجموعة أو قائمة (داخل قائمة)"
+
+msgid "film"
+msgstr "فيلم"
+
+msgid "file"
+msgstr "ملف"
+
+msgid "Field To Check"
+msgstr "الحقل للتحقق"
+
+msgid "Feedback Request"
+msgstr "طلب التغذية الراجعة"
+
+msgid "fast-forward"
+msgstr "تقديم سريع"
+
+msgid "fast-backward"
+msgstr "رجوع سريع"
+
+msgid "facetime-video"
+msgstr "فيديو فايس تايم"
+
+msgid "eye-open"
+msgstr "عين مفتوحة"
+
+msgid "eye-close"
+msgstr "عين مغلقة"
+
+msgid "exclamation-sign"
+msgstr "علامة تعجب"
+
+msgid "Error: Document has been modified after you have opened it"
+msgstr "خطأ: تم تعديل المستند بعد فتحه"
+
+msgid "Error Code: {0}"
+msgstr "رمز الخطأ: {0}"
+
+msgid "envelope"
+msgstr "مغلف"
+
+msgid "Energy Points"
+msgstr "نقاط الطاقة"
+
+msgid "Energy Point Update on {0}"
+msgstr "تحديث نقاط الطاقة في {0}"
+
+msgid "Energy Point Settings"
+msgstr "إعدادات نقاط الطاقة"
+
+msgid "Energy Point Rule"
+msgstr "قاعدة نقاط الطاقة"
+
+msgid "Energy Point Log"
+msgstr "سجل نقاط الطاقة"
+
+msgid "Enabled scheduled execution for script {0}"
+msgstr "تم تفعيل التنفيذ المجدول للنص {0}"
+
+msgid "Enable Website Tracking"
+msgstr "تفعيل تتبع الموقع"
+
+msgid "eject"
+msgstr "إخراج"
+
+msgid "edit"
+msgstr "تعديل"
+
+msgid "Edit Workspace"
+msgstr "تعديل مساحة العمل"
+
+msgid "Each document created in ERPNext can have a unique ID generated for it, using a prefix defined for it. Though each document has some prefix pre-configured, you can further customize it using tools like Naming Series Tool and Document Naming Rule.\n"
+msgstr "يمكن لكل مستند تم إنشاؤه في ERPNext أن يكون له معرف فريد يتم إنشاؤه باستخدام بادئة محددة له. على الرغم من أن كل مستند لديه بادئة تم تهيئتها مسبقًا، يمكنك تخصيصها بشكل أكبر باستخدام أدوات مثل أداة سلسلة التسمية وقاعدة تسمية المستندات.\n"
+
+msgid "Duplicate Workspace"
+msgstr "تكرار مساحة العمل"
+
+msgid "Duplicate of {0} named as {1} is created successfully"
+msgstr "تم إنشاء نسخة مكررة من {0} باسم {1} بنجاح"
+
+msgid "download-alt"
+msgstr "تنزيل بديل"
+
+msgid "download"
+msgstr "تنزيل"
+
+msgid "Don't HTML Encode HTML tags like <script> or just characters like < or >, as they could be intentionally used in this field"
+msgstr "لا تقم بترميز HTML لعلامات مثل <script> أو الأحرف مثل < أو >، حيث يمكن استخدامها عمدًا في هذا الحقل"
+
+msgid "Don't encode HTML tags like <script> or just characters like < or >, as they could be intentionally used in this field"
+msgstr "لا تقم بترميز علامات HTML مثل <script> أو الأحرف مثل < أو >، حيث يمكن استخدامها عمدًا في هذا الحقل"
+
+msgid "DocTypes can not be modified, please use {0} instead"
+msgstr "لا يمكن تعديل أنواع المستندات، يرجى استخدام {0} بدلاً من ذلك"
+
+msgid "Doctype with same route already exist. Please choose different title."
+msgstr "نوع المستند بنفس المسار موجود بالفعل. يرجى اختيار عنوان مختلف."
+
+msgid "Delete Workspace"
+msgstr "حذف مساحة العمل"
+
+msgid "Data missing in table"
+msgstr "بيانات مفقودة في الجدول"
+
+msgid "Customize Print Formats"
+msgstr "تخصيص تنسيقات الطباعة"
+
+msgid "Customization onboarding is all done!"
+msgstr "اكتمل تهيئة التخصيص!"
+
+msgid "Custom Field, Custom Doctype, Naming Series, Role Permission, Workflow, Print Formats, Reports"
+msgstr "حقل مخصص، نوع مستند مخصص، سلسلة التسمية، إذن الدور، سير العمل، تنسيقات الطباعة، التقارير"
+
+msgid "Custom Document Types"
+msgstr "أنواع المستندات المخصصة"
+
+msgid "Currently you have {0} review points"
+msgstr "لديك حاليًا {0} نقاط مراجعة"
+
+msgid "Criticize"
+msgstr "انتقاد"
+
+msgid "Criticism"
+msgstr "النقد"
+
+msgid "Create new forms and views with doctypes. Set up multi-level workflows for approval"
+msgstr "إنشاء نماذج وعروض جديدة باستخدام أنواع المستندات. إعداد سير عمل متعدد المستويات للموافقة"
+
+msgid "Create Duplicate"
+msgstr "إنشاء نسخة مكررة"
+
+msgid "Create Custom Fields"
+msgstr "إنشاء حقول مخصصة"
+
+msgid "Create Blogger"
+msgstr "إنشاء مدون"
+
+msgid "Count of linked documents"
+msgstr "عدد المستندات المرتبطة"
+
+msgid "Copy Embed Code"
+msgstr "نسخ كود التضمين"
+
+msgid "Company"
+msgstr "الشركة"
+
+msgid "comment"
+msgstr "تعليق"
+
+msgid "cog"
+msgstr "ترس"
+
+msgid "Click here to post bugs and suggestions"
+msgstr "انقر هنا لنشر الأخطاء والاقتراحات"
+
+msgid "circle-arrow-up"
+msgstr "سهم دائرة لأعلى"
+
+msgid "circle-arrow-right"
+msgstr "سهم دائرة لليمين"
+
+msgid "circle-arrow-left"
+msgstr "سهم دائرة لليسار"
+
+msgid "circle-arrow-down"
+msgstr "سهم دائرة لأسفل"
+
+msgid "chevron-up"
+msgstr "سهم لأعلى"
+
+msgid "chevron-right"
+msgstr "سهم لليمين"
+
+msgid "chevron-left"
+msgstr "سهم لليسار"
+
+msgid "chevron-down"
+msgstr "سهم لأسفل"
+
+msgid "check"
+msgstr "تأكيد"
+
+msgid "Change User"
+msgstr "تغيير المستخدم"
+
+msgid "certificate"
+msgstr "شهادة"
+
+msgid "Cannot update private workspace of other users"
+msgstr "لا يمكن تحديث مساحة العمل الخاصة لمستخدمين آخرين"
+
+msgid "Cannot delete public workspace without Workspace Manager role"
+msgstr "لا يمكن حذف مساحة العمل العامة بدون دور مدير مساحة العمل"
+
+msgid "Cannot delete private workspace of other users"
+msgstr "لا يمكن حذف مساحة العمل الخاصة لمستخدمين آخرين"
+
+msgid "camera"
+msgstr "كاميرا"
+
+msgid "bullhorn"
+msgstr "مكبر صوت"
+
+msgid "briefcase"
+msgstr "حقيبة"
+
+msgid "bookmark"
+msgstr "علامة مرجعية"
+
+msgid "book"
+msgstr "كتاب"
+
+msgid "bold"
+msgstr "عريض"
+
+msgid "Blogs, Website View Tracking, and more."
+msgstr "المدونات، تتبع مشاهدات الموقع، والمزيد."
+
+msgid "bell"
+msgstr "جرس"
+
+msgid "barcode"
+msgstr "رمز شريطي"
+
+msgid "ban-circle"
+msgstr "دائرة الحظر"
+
+msgid "backward"
+msgstr "للخلف"
+
+msgid "Authorize API Indexing Access"
+msgstr "تفويض الوصول لفهرسة API"
+
+msgid "Atleast one field of Parent Document Type is mandatory"
+msgstr "يجب أن يكون حقل واحد على الأقل من نوع المستند الأصلي إلزاميًا"
+
+msgid "Atleast one field is required in Web Form Fields Table"
+msgstr "يجب أن يكون حقل واحد على الأقل مطلوبًا في جدول حقول نموذج الويب"
+
+msgid "asterisk"
+msgstr "نجمة"
+
+msgid "arrow-up"
+msgstr "سهم لأعلى"
+
+msgid "arrow-right"
+msgstr "سهم لليمين"
+
+msgid "arrow-left"
+msgstr "سهم لليسار"
+
+msgid "arrow-down"
+msgstr "سهم لأسفل"
+
+msgid "Are you sure you want to delete page {0}?"
+msgstr "هل أنت متأكد أنك تريد حذف الصفحة {0}؟"
+
+msgid "Appreciation"
+msgstr "تقدير"
+
+msgid "Appreciate"
+msgstr "تقدير"
+
+msgid "Apply this rule only once per document"
+msgstr "تطبيق هذه القاعدة مرة واحدة فقط لكل مستند"
+
+msgid "Apply Only Once"
+msgstr "التطبيق مرة واحدة فقط"
+
+msgid "Apply Document Permissions"
+msgstr "تطبيق أذونات المستند"
+
+msgid "Allow Print"
+msgstr "السماح بالطباعة"
+
+msgid "Allow Multiple Responses"
+msgstr "السماح بالردود المتعددة"
+
+msgid "Allow Incomplete Forms"
+msgstr "السماح بالنماذج غير المكتملة"
+
+msgid "Allow Editing After Submit"
+msgstr "السماح بالتعديل بعد الإرسال"
+
+msgid "Allow Delete"
+msgstr "السماح بالحذف"
+
+msgid "Allow Comments"
+msgstr "السماح بالتعليقات"
+
+msgid "Allot Points To Assigned Users"
+msgstr "تخصيص النقاط للمستخدمين المعينين"
+
+msgid "align-right"
+msgstr "محاذاة لليمين"
+
+msgid "align-left"
+msgstr "محاذاة لليسار"
+
+msgid "align-justify"
+msgstr "محاذاة مبررة"
+
+msgid "align-center"
+msgstr "محاذاة في المنتصف"
+
+msgid "adjust"
+msgstr "تعديل"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Add Review"
+msgstr "إضافة مراجعة"
+
+msgid "Add Blog Category"
+msgstr "إضافة فئة مدونة"
+
+msgid "Accurate count can not be fetched, click here to view all documents"
+msgstr "لا يمكن جلب العدد الدقيق، انقر هنا لعرض جميع المستندات"
+
+msgid "A DocType (Document Type) is used to insert forms in ERPNext. Forms such as Customer, Orders, and Invoices are Doctypes in the backend. You can also create new DocTypes to create new forms in ERPNext as per your business needs."
+msgstr "يُستخدم نوع المستند (DocType) لإدراج النماذج في ERPNext. نماذج مثل العميل، الطلبات، والفواتير هي أنواع مستندات في الخلفية. يمكنك أيضًا إنشاء أنواع مستندات جديدة لإنشاء نماذج جديدة في ERPNext حسب احتياجات عملك."
+
+msgid "<span style=\"font-size: 18px; letter-spacing: 0.18px;\"><b>Get started</b><br></span>"
+msgstr "<span style=\"font-size: 18px; letter-spacing: 0.18px;\"><b>ابدأ</b><br></span>"
+
+msgid "<span style=\"font-size: 18px; letter-spacing: 0.18px;\"><b>Components to build your app</b></span>"
+msgstr "<span style=\"font-size: 18px; letter-spacing: 0.18px;\"><b>المكونات لبناء تطبيقك</b></span>"
+
+msgid "<span class=\"h4\"><b>Your Shortcuts</b></span>"
+msgstr "<span class=\"h4\"><b>اختصاراتك</b></span>"
+
+msgid "<span class=\"h4\"><b>Reports & Masters</b></span>"
+msgstr "<span class=\"h4\"><b>التقارير والسجلات الرئيسية</b></span>"
+
+msgid "{0}:Fieldtype {1} for {2} cannot be indexed"
+msgstr "{0}: نوع الحقل {1} لـ {2} لا يمكن فهرسته"
+
+msgid "{0} reverted your points on {1}"
+msgstr "{0} تراجع عن نقاطك على {1}"
+
+msgid "{0} reverted your point on {1}"
+msgstr "{0} تراجع عن نقطتك على {1}"
+
+msgid "{0} reverted {1}"
+msgstr "{0} تراجع عن {1}"
+
+msgid "{0} Modules"
+msgstr "{0} وحدات"
+
+msgid "{0} has no versions tracked."
+msgstr "{0} ليس لديه إصدارات متتبعة."
+
+msgid "{0} gave {1} points"
+msgstr "{0} منح {1} نقاط"
+
+msgid "{0} gained {1} points"
+msgstr "{0} حصل على {1} نقاط"
+
+msgid "{0} gained {1} points for {2} {3}"
+msgstr "{0} حصل على {1} نقاط لـ {2} {3}"
+
+msgid "{0} gained {1} point for {2} {3}"
+msgstr "{0} حصل على {1} نقطة لـ {2} {3}"
+
+msgid "{0} criticized your work on {1} with {2} points"
+msgstr "{0} انتقد عملك على {1} بـ {2} نقاط"
+
+msgid "{0} criticized your work on {1} with {2} point"
+msgstr "{0} انتقد عملك على {1} بـ {2} نقطة"
+
+msgid "{0} criticized on {1}"
+msgstr "{0} انتقد على {1}"
+
+msgid "{0} criticized {1}"
+msgstr "{0} انتقد {1}"
+
+msgid "{0} criticism points for {1}"
+msgstr "{0} نقاط نقد لـ {1}"
+
+msgid "{0} criticism point for {1}"
+msgstr "{0} نقطة نقد لـ {1}"
+
+msgid "{0} appreciation points for {1}"
+msgstr "{0} نقاط تقدير لـ {1}"
+
+msgid "{0} appreciation point for {1}"
+msgstr "{0} نقطة تقدير لـ {1}"
+
+msgid "{0} appreciated your work on {1} with {2} points"
+msgstr "{0} قدر عملك على {1} بـ {2} نقاط"
+
+msgid "{0} appreciated your work on {1} with {2} point"
+msgstr "{0} قدر عملك على {1} بـ {2} نقطة"
+
+msgid "{0} appreciated on {1}"
+msgstr "{0} قدر على {1}"
+
+msgid "{0} appreciated {1}"
+msgstr "{0} قدر {1}"
+
+msgid "{} does not support automated log clearing."
+msgstr "{} لا يدعم مسح السجل التلقائي."
+
+msgid "{} Active"
+msgstr "{} نشط"
