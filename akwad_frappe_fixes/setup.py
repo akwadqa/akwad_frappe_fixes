@@ -1,6 +1,5 @@
 import frappe
 from frappe import _
-from frappe.custom.doctype.custom_field.custom_field import create_custom_fields
 from .property_setters import get_property_setters  # separate file to keep it clean
 
 def after_install():
