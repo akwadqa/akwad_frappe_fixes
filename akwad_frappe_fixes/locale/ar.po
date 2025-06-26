@@ -7153,7 +7153,7 @@ msgid "In Preview"
 msgstr "في المعاينة"
 
 msgid "In Progress"
-msgstr "قيد التقدم"
+msgstr "تحت الإجراء"
 
 msgid "In Read Only Mode"
 msgstr "في وضع القراءة فقط"
