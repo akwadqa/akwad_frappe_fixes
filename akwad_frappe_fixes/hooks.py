@@ -18,7 +18,7 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_desk.css"
-# app_include_js = "/assets/akwad_frappe_fixes/js/akwad_frappe_fixes.js"
+app_include_js = "/assets/akwad_frappe_fixes/js/collapse_sidebar.js"
 
 # app_include_js = "fileUploader.bundle.js"
 
