@@ -42,35 +42,6 @@ def apply_site_settings():
     system_settings.allow_error_traceback = 0
     system_settings.save(ignore_permissions=True)
 
-    # Accounts Settings
-    accounts_settings = frappe.get_single("Accounts Settings")
-    accounts_settings.book_asset_depreciation_entry_automatically = 0
-    accounts_settings.save(ignore_permissions=True)
-
-    # Stock Settings
-    stock_settings = frappe.get_single("Stock Settings")
-    stock_settings.update_existing_price_list_rate = 1
-    stock_settings.disable_serial_no_and_batch_selector = 1
-    stock_settings.save(ignore_permissions=True)
-
-    # Selling Settings
-    selling_settings = frappe.get_single("Selling Settings")
-    selling_settings.maintain_same_sales_rate = 1
-    selling_settings.validate_selling_price = 1
-    selling_settings.editable_bundle_item_rates = 1
-    selling_settings.save(ignore_permissions=True)
-
-    # Global Defaults
-    global_defaults = frappe.get_single("Global Defaults")
-    global_defaults.default_distance_unit = "Kilometer"
-    global_defaults.disable_rounded_total = 1
-    global_defaults.save(ignore_permissions=True)
-
-    # CRM Settings
-    crm_settings = frappe.get_single("CRM Settings")
-    crm_settings.carry_forward_communication_and_comments = 1
-    crm_settings.save(ignore_permissions=True)
-
     # Website Settings
     website_settings = frappe.get_single("Website Settings")
     website_settings.title_prefix = "Akwad"
@@ -89,7 +60,6 @@ def apply_site_settings():
     # Portal Settings
     portal_settings = frappe.get_single("Portal Settings")
     portal_settings.default_portal_home = "/desk"
-    portal_settings.default_role = "Customer"
     portal_settings.hide_standard_menu = 1
     for row in portal_settings.menu:
         row.enabled = 0
@@ -101,9 +71,10 @@ def apply_site_settings():
     doctype_list = [
         "Error Log", "Email Queue", "Scheduled Job Log", "Submission Queue", "Prepared Report",
         "Webhook Request Log", "Unhandled Email", "Reminder", "Integration Request", "Activity Log",
-        "Route History", "Repost Item Valuation", "Deleted Document", "View Log", "Web Page View",
-        "Notification Log", "BOM Update Log", "Access Log"
+        "Route History", "Deleted Document", "View Log", "Web Page View",
+        "Notification Log", "Access Log"
     ]
+
     for doctype in doctype_list:
         log_settings.append("logs_to_clear", {
             "ref_doctype": doctype,
@@ -124,14 +95,4 @@ def apply_site_settings():
     # Global Search Settings
     global_search_settings = frappe.get_single("Global Search Settings")
     global_search_settings.allowed_in_global_search = []
-    doctype_list = ["Customer", "Supplier"]
-    for doctype in doctype_list:
-        global_search_settings.append("allowed_in_global_search", {
-            "document_type": doctype
-        })
     global_search_settings.save(ignore_permissions=True)
-
-    # Currency Exchange Settings
-    currency_exchange_settings = frappe.get_single("Currency Exchange Settings")
-    currency_exchange_settings.disabled = 1
-    currency_exchange_settings.save(ignore_permissions=True)
