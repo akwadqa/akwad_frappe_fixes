@@ -1,10 +1,16 @@
 import frappe
 from frappe import _
 from .property_setters import get_property_setters  # separate file to keep it clean
+from frappe.custom.doctype.custom_field.custom_field import create_custom_fields
+
 
 def after_install():
     insert_property_setters()
     apply_site_settings()
+    insert_letter_head()
+    insert_print_style()
+    create_custom_fields(get_custom_fields(), ignore_validate=True)
+    set_default_print_style()
 
 def insert_property_setters():
     property_setters = get_property_setters()
@@ -96,3 +102,165 @@ def apply_site_settings():
     global_search_settings = frappe.get_single("Global Search Settings")
     global_search_settings.allowed_in_global_search = []
     global_search_settings.save(ignore_permissions=True)
+
+def insert_letter_head():
+    if not frappe.db.exists("Letter Head", "Standard Letter Head"):
+        frappe.get_doc({
+            "doctype": "Letter Head",
+            "letter_head_name": "Standard Letter Head",
+            "is_default": 1,
+            "disabled": 0,
+            "source": "HTML",
+            "footer_source": "HTML",
+            "content": """{% set company_address = "" %}
+            {% set default_company = frappe.db.get_single_value("Global Defaults" , "default_company")%}
+            {% if default_company %}
+                {% set address_doc_name = frappe.db.get_value("Dynamic Link", {"link_doctype" : "Company" , "link_name" : default_company , "parenttype": "Address"} , "parent") %}
+                
+                {% if address_doc_name %}
+                    {% set company_address = frappe.get_doc("Address", address_doc_name) %}
+                {% endif %}
+            {% endif %}
+
+            {% set app_logo = frappe.db.get_single_value("Website Settings", "app_logo") %}
+
+
+            <table style="width: 100%; font-size: 16px;">
+                <tbody>
+                    <tr>
+                        <td style="width: 70%; line-height: 1.5; vertical-align: middle!important;">
+                            {% if company_address %}
+                                <p style="font-weight: bold;">{{ company_address.address_title }}</p>
+                                <p>{{ company_address.address_line1 }}</p>
+                                <p>{{ company_address.city }}, {{ company_address.country }}</p>
+                            {% endif %}
+                        </td>
+                        <td style="width: 30%; text-align: right; vertical-align: middle!important;">
+                            {% if app_logo %}
+                                <img src="{{ app_logo }}" style="max-height: 100px; width: auto!important;">
+                            {% endif %}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>""",
+                        "footer": """<style>
+                @media print {
+                .footer {
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    text-align: center;
+                    font-family: 'Zain', sans-serif;
+                }
+                    @page {
+                        size: A4;
+                        margin: 0.3in !important;
+                    }
+                }
+
+                .footer {
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    text-align: center;
+                    font-family: 'Rubik', sans-serif;
+                }
+            </style>
+
+            {% set company_address = "" %}
+            {% set default_company = frappe.db.get_single_value("Global Defaults" , "default_company")%}
+            {% if default_company %}
+                {% set address_doc_name = frappe.db.get_value("Dynamic Link", {"link_doctype" : "Company" , "link_name" : default_company , "parenttype": "Address"} , "parent") %}
+                
+                {% if address_doc_name %}
+                    {% set company_address = frappe.get_doc("Address", address_doc_name) %}
+                {% endif %}
+            {% endif %}
+
+            {% if company_address %}
+                © 2025 <b>{{ company_address.address_title }}</b> | {{ company_address.address_line2 }} | Tel: {{ company_address.phone }} | Email: <b>{{ company_address.email_id }}</b>
+            {% endif %}"""
+        }).insert(ignore_permissions=True)
+
+
+def get_custom_fields():
+	return {
+		"Print Style": [
+            {
+				"fieldname": "custom_color",
+				"module": "Akwad Frappe Fixes",
+				"fieldtype": "Color",
+				"label": _("Color"),
+				"insert_after": "standard"
+            }
+		]
+	}
+
+
+def insert_print_style():
+    if not frappe.db.exists("Print Style", "Standard Print Style"):
+        frappe.get_doc({
+            "doctype": "Print Style",
+            "print_style_name": "Standard Print Style",
+            "disabled": 0,
+            "standard": 0,
+            "css": """ @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+ 
+            thead {
+                background-color: lightgray !important;
+            }
+
+            .print-format td, .print-format th {
+                padding: 2px 4px !important; /* reduce row height */
+            }
+
+            .pf-font {
+                font-family: "Rubik", sans-serif;
+            }
+
+            .pf-font-size {
+                font-size: 14px;
+            }
+
+            .pf-heading {
+                margin: 10px 0;
+                width: 100%;
+                text-align: right;
+                text-transform: uppercase;
+                font-size: 40px;
+                font-weight: normal;
+            }
+
+            .pf-item-table {
+                width: 100%;
+                margin: 20px 0;
+            }
+
+            .pf-item-table td {
+                border: 1px dashed black;
+                vertical-align: middle!important;
+            }
+
+            .pf-item-table th {
+                font-weight: normal;
+                color: white;
+                text-align: center;
+            }
+
+            .pf-terms {
+                margin-top: 100px;
+            } """
+        }).insert(ignore_permissions=True)
+
+
+def set_default_print_style():
+    settings = frappe.get_single("Print Settings")
+    settings.print_style = "Standard Print Style"
+    settings.save(ignore_permissions=True)
+
+    print_style = frappe.get_doc("Print Style", "Standard Print Style")
+    print_style.custom_color = "#00589c"
+    print_style.save(ignore_permissions=True)
+
