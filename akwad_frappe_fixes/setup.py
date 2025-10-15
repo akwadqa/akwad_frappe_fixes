@@ -251,7 +251,110 @@ def insert_print_style():
 
             .pf-terms {
                 margin-top: 100px;
-            } """
+            } 
+            .custom-report {
+                width: 800px;
+                margin: 20px auto;
+                font-family: Arial, sans-serif;
+                font-size: 13px;
+                border-top: 1px solid #000;
+            }
+
+            .custom-report h2 {
+                background-color: #A9A9A9;
+                color: black;
+                padding: 10px;
+                text-align: center;
+                border: 2px solid black;
+                margin: 0 15%;
+                box-sizing: border-box;
+                font-size: 20px;
+                font-weight: bold;
+                letter-spacing: 1px;
+            }
+
+            .custom-report table {
+                width: 100%;
+                border-collapse: collapse;
+                font-family: Arial, sans-serif;
+                border-top: 3px solid green;
+                border-bottom: 3px solid green !important;
+            }
+
+            .custom-report table td {
+                padding: 10px 8px;
+                border: 1px dashed #333 !important; 
+                text-align: left;
+                vertical-align: middle;
+            }
+
+            .custom-report table thead th {
+                background-color: #f0f0f0;
+                color: #000;
+                font-weight: bold;
+                text-align: center;
+                border-bottom: 3px solid green !important;
+            }
+
+            .custom-report table tbody td:nth-child(4),
+            .custom-report table tbody td:nth-child(5),
+            .custom-report table tbody td:nth-child(6) {
+                text-align: right;
+                font-weight: bold;
+            }
+
+
+            .custom-report table tbody tr:first-child td:nth-child(-n+2),
+            .custom-report table tbody tr:nth-last-child(3) td:nth-child(-n+2),
+            .custom-report table tbody tr:nth-last-child(2) td:nth-child(-n+2) {
+                border-right: none !important;
+                text-align:left;
+            }
+            .custom-report table tbody tr:first-child td:nth-child(n+2):nth-child(-n+3),
+            .custom-report table tbody tr:nth-last-child(3) td:nth-child(n+2):nth-child(-n+3),
+            .custom-report table tbody tr:nth-last-child(2) td:nth-child(n+2):nth-child(-n+3) {
+                border-left: none !important;
+            }
+
+            .custom-report table tbody tr:first-child td:nth-child(3),
+            .custom-report table tbody tr:nth-last-child(3) td:nth-child(3),
+            .custom-report table tbody tr:nth-last-child(2) td:nth-child(3) {
+                border-right: 1px dashed #333 !important; 
+            }
+
+            .custom-report table tbody tr:first-child td:nth-child(1) {
+                font-weight: bold;
+            }
+
+            .custom-report table tbody tr:nth-last-child(3) td {
+                border-top: 2px solid green !important; 
+                border-bottom: 1px dashed #333 !important;
+                font-weight: bold;
+            }
+
+            .custom-report table tbody tr:nth-last-child(2) td {
+                font-weight: bold;
+            }
+            .custom-report table tbody tr:nth-last-child(2) td:nth-child(1) {
+                text-align: right !important; 
+                padding-right: 20px; 
+            }
+
+            .custom-report table tbody tr:last-child {
+                border-top: 2px dashed #333;
+                border-bottom: 3px solid green;
+                padding: 15px 8px;
+                font-weight: bold;
+            }
+
+            .custom-report table tbody tr:last-child td {
+                border: none !important;
+            }
+
+            .custom-report table tbody tr:last-child td:nth-child(1) {
+                text-align: left !important;
+            }
+        """
         }).insert(ignore_permissions=True)
 
 
