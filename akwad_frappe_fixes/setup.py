@@ -90,7 +90,7 @@ def apply_site_settings():
 
     # Navbar Settings
     navbar_settings = frappe.get_single("Navbar Settings")
-    settings_to_hide = ["View Website", "Apps", "Toggle Theme", "Session Defaults", "My Profile"]
+    settings_to_hide = ["View Website", "Apps", "Toggle Theme", "Session Defaults", "My Profile", "Toggle Full Width", "Workspace Settings"]
     for row in navbar_settings.settings_dropdown:
         if row.item_label in settings_to_hide:
             row.hidden = 1

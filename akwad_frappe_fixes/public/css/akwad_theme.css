@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;700&display=swap');
+
+:root {
+  --font-stack: "InterVariable", "Inter", "-apple-system", "BlinkMacSystemFont", "Cairo",
+  	"Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  	sans-serif;
+}
+
+:root,
+[data-theme=light] {
+  --btn-primary: var(--blue-600);
+  --page-max-width: 100% !important;
+  --control-bg: var(--blue-100);
+  --subtle-fg: var(--blue-200);
+  --table-border-color: var(--gray-400);
+  --link-color: var(--blue-600);
+  --navbar-bg: var(--blue-300);
+  --bg-light-gray: var(--gray-300);
+  }
+  
+/* Workspace Shortcut */
+[data-theme=light] .grid-form-heading {
+    border-bottom: 1px solid var(--gray-400);
+}
+
+/* Input fields */
+[data-theme='light'] .form-control {
+    border: 1px solid var(--gray-400);
+}
+
+[data-theme='light'] .form-control:focus {
+  border: 1px solid var(--blue-600);
+  box-shadow: none
+}
+
+
+/* Desk Navbar */
+.navbar {
+    height: 60px;
+    background: var(--navbar-bg);
+    box-shadow: var(--shadow-sm);
+}
+
+/* Workspace boxes */
+.widget.links-widget-box {
+ background: var(--blue-200);
+}
+
+.widget {
+    background-color: var(--blue-200);
+}
+
+/* Workspace Shortcut */
+.widget.shortcut-widget-box {
+    padding: 15px;
+}
+
+/* Workspace Links Card */
+.widget.links-widget-box .link-item {
+    padding: 6px 4px;
+}
+
+/* Number Cards */
+.widget.number-widget-box {
+    min-height: 130px;
+    justify-content: center;
+}
+
+/* Overlay color when saving or processing */
+#freeze .freeze-message-container {
+    background-color: currentColor !important;
+}
+
+/* Desk new sidebar (expandable) */
+.sidebar-item-container {
+    padding: 5px 0;
+}
+
+.standard-sidebar-item {
+    padding: 5px 0px !important;
+}
+
+/* Desk navbar dropdown menu */
+.navbar .navbar-nav .dropdown-item {
+    padding: 14px 10px !important;
+}
+
+
+/* Changing the styles of the Timeline. The mention, the message box and the link color */
+
+
+/* Message container-callout */
+.new-timeline .timeline-item .timeline-content.frappe-card {
+    background-color: var(--control-bg);
+    border: 1px solid var(--table-border-color);
+}
+
+/* Mention bubble */
+.new-timeline .timeline-item .timeline-content.frappe-card .content .mention {
+    background-color: var(--navbar-bg);
+    padding: 2px 5px;
+    margin: 2px 0px;
+}
+
+.mention a {
+    text-decoration: none !important;
+}
+
+.frappe-timestamp {
+    color: var(--table-border-color);
+}
+
+.timeline-content a {
+    color: var(--link-color) !important;
+}
+
+/* Indicators in Workspaces shortcuts and Connections Dashboards */
+
+.indicator-pill {
+    padding: 12px !important;
+}
+
+.form-links .document-link {
+    background-color: var(--gray-50);
+}
