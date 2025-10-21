@@ -11,6 +11,9 @@ def after_install():
     insert_print_style()
     create_custom_fields(get_custom_fields(), ignore_validate=True)
     set_default_print_style()
+    
+         
+    
 
 def insert_property_setters():
     property_setters = get_property_setters()
@@ -195,7 +198,27 @@ def get_custom_fields():
 				"label": _("Color"),
 				"insert_after": "standard"
             }
-		]
+		],
+  
+        "Workflow State": [
+            {
+                "fieldname": "show_signature",
+                "label": _("Show Signature"),
+                "fieldtype": "Check",
+                "insert_after": "state",
+                "description": _("Show this user's signature in the print format when this state is reached."),
+            }
+        ],
+
+        "User": [
+            {
+                "fieldname": "user_signature",
+                "label": _("User Signature"),
+                "fieldtype": "Attach Image",
+                "insert_after": "user_image",
+                "description": _("Signature image to display in workflow approvals."),
+            }
+        ],
 	}
 
 

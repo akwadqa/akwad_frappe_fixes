@@ -116,6 +116,7 @@ after_install = "akwad_frappe_fixes.setup.after_install"
 #	}
 # }
 
+
 # Scheduled Tasks
 # ---------------
 
