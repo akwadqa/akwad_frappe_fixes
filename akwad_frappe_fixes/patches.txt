@@ -1,1 +1,1 @@
-akwad_frappe_fixes.patches.workflow_signatures
+akwad_frappe_fixes.patches.add_workflow_signature_fields
