@@ -16,6 +16,18 @@ app_license = "MIT"
 #        {"dt" : "Custom Field", "filters" : [["module","in", "Akwad Frappe Fixes"]]}
 # ]
 
+
+fixtures = [
+    {
+        "doctype": "Print Format",
+        "filters": [
+            ["name", "in", ["Sales Order With Signatures"]]
+        ]
+    }
+]
+
+
+
 # include js, css files in header of desk.html
 app_include_css = "/assets/akwad_frappe_fixes/css/akwad_frappe_fixes_desk.css"
 app_include_js = ["/assets/akwad_frappe_fixes/js/collapse_sidebar.js" , "/assets/akwad_frappe_fixes/js/custom_render_template.js"]

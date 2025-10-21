@@ -206,6 +206,7 @@ def get_custom_fields():
                 "label": _("Show Signature"),
                 "fieldtype": "Check",
                 "insert_after": "state",
+                "in_quick_entry": 1,
                 "description": _("Show this user's signature in the print format when this state is reached."),
             }
         ],
