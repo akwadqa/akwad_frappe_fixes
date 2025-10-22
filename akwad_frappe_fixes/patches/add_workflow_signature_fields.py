@@ -10,6 +10,7 @@ def execute():
                 "label": _("Show Signature"),
                 "fieldtype": "Check",
                 "insert_after": "state",
+                "module": "Akwad Frappe Fixes",
                 "description": _("Show this user's signature in the print format when this state is reached."),
             }
         ],
@@ -20,6 +21,7 @@ def execute():
                 "label": _("User Signature"),
                 "fieldtype": "Attach Image",
                 "insert_after": "user_image",
+                "module": "Akwad Frappe Fixes",
                 "description": _("Signature image to display in workflow approvals."),
             }
         ],

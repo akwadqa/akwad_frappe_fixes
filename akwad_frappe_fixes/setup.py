@@ -198,30 +198,7 @@ def get_custom_fields():
 				"label": _("Color"),
 				"insert_after": "standard"
             }
-		],
-  
-        "Workflow State": [
-            {
-                "fieldname": "show_signature",
-                "label": _("Show Signature"),
-                "fieldtype": "Check",
-                "insert_after": "state",
-                "in_quick_entry": 1,
-                "module": "Akwad Frappe Fixes",
-                "description": _("Show this user's signature in the print format when this state is reached."),
-            }
-        ],
-
-        "User": [
-            {
-                "fieldname": "user_signature",
-                "label": _("User Signature"),
-                "fieldtype": "Attach Image",
-                "insert_after": "user_image",
-                "module": "Akwad Frappe Fixes",
-                "description": _("Signature image to display in workflow approvals."),
-            }
-        ],
+		]
 	}
 
 
