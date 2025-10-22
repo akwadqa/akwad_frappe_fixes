@@ -207,6 +207,7 @@ def get_custom_fields():
                 "fieldtype": "Check",
                 "insert_after": "state",
                 "in_quick_entry": 1,
+                "module": "Akwad Frappe Fixes",
                 "description": _("Show this user's signature in the print format when this state is reached."),
             }
         ],
@@ -217,6 +218,7 @@ def get_custom_fields():
                 "label": _("User Signature"),
                 "fieldtype": "Attach Image",
                 "insert_after": "user_image",
+                "module": "Akwad Frappe Fixes",
                 "description": _("Signature image to display in workflow approvals."),
             }
         ],

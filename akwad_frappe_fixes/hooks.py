@@ -78,6 +78,13 @@ app_include_js = ["/assets/akwad_frappe_fixes/js/collapse_sidebar.js" , "/assets
 #	"filters": "akwad_frappe_fixes.utils.jinja_filters"
 # }
 
+jinja = {
+  "methods": [
+    "akwad_frappe_fixes.print_format_utils.workflow_signatures.get_workflow_signatures_for_print"
+  ]
+}
+
+
 # Installation
 # ------------
 
