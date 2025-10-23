@@ -20,9 +20,7 @@ def get_workflow_signatures_for_print(doctype, docname):
         if not show_signature:
             continue
         
-        if not action.completed_by:
-            frappe.log_error(f"No user found for workflow action {action.name}", "Workflow Signature Debug")
-            continue 
+
 
         user = frappe.get_doc("User", action.completed_by)
         signatures.append({
