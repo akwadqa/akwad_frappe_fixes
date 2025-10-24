@@ -2,53 +2,63 @@
 
 :root {
   --font-stack: "InterVariable", "Inter", "-apple-system", "BlinkMacSystemFont", "Cairo",
-  	"Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-  	sans-serif;
+  	"Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --list-row-height: 50px;
+  --list-row-item-height: 45px;
 }
 
-:root,
 [data-theme=light] {
   --btn-primary: var(--blue-600);
   --page-max-width: 100% !important;
-  --control-bg: var(--blue-100);
+  --control-bg: var(--green-50);
   --subtle-fg: var(--blue-200);
   --table-border-color: var(--gray-400);
   --link-color: var(--blue-600);
-  --navbar-bg: var(--blue-300);
+  --navbar-bg: var(--blue-100);
   --bg-light-gray: var(--gray-300);
   --sidebar-active-color: var(--blue-300);
+  --secondary-button: var(--orange-300);
+  --timestamp-color: var(--orange-600);
+  --alternat-color: var(--blue-50);
+  --akwad-widget-bg: var(--blue-300);
+  --akwad-widget-links-bg: var(--blue-200);
+  --form-links: var(--gray-50);
+  --secondary-button-border: var(--orange-400);
+  --form-control-border: var(--gray-400);
+  --form-focus: var(--green-800);
+  --default-button-bg: var(--gray-100);
+  --default-button-border: var(--gray-400);
+  --child-table-outer-border: var(--blue-400)
   }
   
 /* Workspace Shortcut */
-[data-theme=light] .grid-form-heading {
-    border-bottom: 1px solid var(--gray-400);
+.grid-form-heading {
+    border-bottom: 1px solid var(--form-control-border);
 }
 
 /* Input fields */
-[data-theme='light'] .form-control {
-    border: 1px solid var(--gray-400);
+.form-control {
+    border: 1px solid var(--form-control-border);
 }
 
-[data-theme='light'] .form-control:focus {
-  border: 1px solid var(--blue-600);
+.form-control:focus {
+  border: 1px solid var(--form-focus);
   box-shadow: none
 }
 
 
 /* Desk Navbar */
 .navbar {
-    height: 60px;
     background: var(--navbar-bg);
-    box-shadow: var(--shadow-sm);
 }
 
 /* Workspace boxes */
-.widget.links-widget-box {
- background: var(--blue-200);
+.widget.dashboard-widget-box, .widget.links-widget-box {
+ background: var(--akwad-widget-links-bg);
 }
 
 .widget {
-    background-color: var(--blue-200);
+    background-color: var(--akwad-widget-bg);
 }
 
 /* Workspace Shortcut */
@@ -73,12 +83,25 @@
 }
 
 /* Desk new sidebar (expandable) */
+
+.app-item a {
+    height: 40px;
+}
+
+.app-switcher-menu {
+    top: 60px;
+    left: 4px;
+}
 .sidebar-item-container {
     padding: 5px 0;
 }
 
 .standard-sidebar-item {
     padding: 5px 0px !important;
+}
+
+.app-switcher-dropdown {
+    height: auto;
 }
 
 /* Desk navbar dropdown menu */
@@ -108,7 +131,7 @@
 }
 
 .frappe-timestamp {
-    color: var(--table-border-color);
+    color: var(--timestamp-color);
 }
 
 .timeline-content a {
@@ -122,5 +145,46 @@
 }
 
 .form-links .document-link {
-    background-color: var(--gray-50);
+    background-color: var(--form-links);
+}
+
+.btn.btn-secondary, div#driver-popover-item .driver-popover-footer button.btn-secondary, div#driver-popover-item .driver-popover-footer button.driver-prev-btn {
+    background-color: var(--secondary-button);
+    border: solid 1px var(--secondary-button-border);
+}
+
+.btn.btn-default, div#driver-popover-item .driver-popover-footer button.btn-default {
+    background-color: var(--default-button-bg);
+    border: 1px solid var(--default-button-border);
+}
+
+
+/* Doctype List View Enhancment */
+
+.list-row {
+    height: 50px;
+}
+
+.list-row-container:nth-child(EVEN) .list-row .level-right {
+    background: var(--alternat-color);
+}
+
+.list-row-container:nth-child(EVEN) {
+    background: var(--alternat-color);
+}
+
+/* Fixing Sidebar in Form and List views */
+
+.layout-side-section .sidebar-section {
+    padding: var(--padding-md);
+}
+
+/* Fixing the last row radius issue in child table */
+
+.grid-row:last-child {
+    margin-bottom: 10px;
+}
+
+.form-grid {
+    border: 2px solid var(--child-table-outer-border);
 }
