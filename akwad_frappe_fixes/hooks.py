@@ -16,6 +16,8 @@ app_license = "MIT"
 #        {"dt" : "Custom Field", "filters" : [["module","in", "Akwad Frappe Fixes"]]}
 # ]
 
+
+
 # include js, css files in header of desk.html
 app_include_css = "fixes.bundle.css"
 app_include_js = ["/assets/akwad_frappe_fixes/js/custom_render_template.js"]
@@ -66,6 +68,13 @@ app_include_js = ["/assets/akwad_frappe_fixes/js/custom_render_template.js"]
 #	"filters": "akwad_frappe_fixes.utils.jinja_filters"
 # }
 
+jinja = {
+  "methods": [
+    "akwad_frappe_fixes.print_format_utils.workflow_signatures.get_workflow_signatures_for_print"
+  ]
+}
+
+
 # Installation
 # ------------
 
@@ -115,6 +124,7 @@ after_install = "akwad_frappe_fixes.setup.after_install"
 #		"on_trash": "method"
 #	}
 # }
+
 
 # Scheduled Tasks
 # ---------------

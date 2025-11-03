@@ -11,6 +11,9 @@ def after_install():
     insert_print_style()
     create_custom_fields(get_custom_fields(), ignore_validate=True)
     set_default_print_style()
+    
+         
+    
 
 def insert_property_setters():
     property_setters = get_property_setters()
@@ -253,37 +256,35 @@ def insert_print_style():
                 margin-top: 100px;
             } 
             .custom-report {
-                width: 800px;
-                margin: 20px auto;
-                font-family: Arial, sans-serif;
+                font-family: "Rubik" , sans-serif;
                 font-size: 13px;
-                border-top: 1px solid #000;
             }
 
             .custom-report h2 {
-                background-color: #A9A9A9;
+                background-color: var(--primary-color);
                 color: black;
                 padding: 10px;
                 text-align: center;
                 border: 2px solid black;
-                margin: 0 15%;
+                max-width: 60%;
                 box-sizing: border-box;
                 font-size: 20px;
                 font-weight: bold;
                 letter-spacing: 1px;
+                margin: auto;
             }
+
 
             .custom-report table {
                 width: 100%;
                 border-collapse: collapse;
-                font-family: Arial, sans-serif;
-                border-top: 3px solid green;
-                border-bottom: 3px solid green !important;
+                border-top: 3px solid var(--primary-color);
+                border-bottom: 3px solid var(--primary-color) !important;
             }
 
             .custom-report table td {
                 padding: 10px 8px;
-                border: 1px dashed #333 !important; 
+                border: 1px dashed var(--primary-color) !important; 
                 text-align: left;
                 vertical-align: middle;
             }
@@ -293,7 +294,7 @@ def insert_print_style():
                 color: #000;
                 font-weight: bold;
                 text-align: center;
-                border-bottom: 3px solid green !important;
+                border-bottom: 3px solid var(--primary-color) !important;
             }
 
             .custom-report table tbody td:nth-child(4),
@@ -319,7 +320,7 @@ def insert_print_style():
             .custom-report table tbody tr:first-child td:nth-child(3),
             .custom-report table tbody tr:nth-last-child(3) td:nth-child(3),
             .custom-report table tbody tr:nth-last-child(2) td:nth-child(3) {
-                border-right: 1px dashed #333 !important; 
+                border-right: 1px dashed var(--primary-color) !important; 
             }
 
             .custom-report table tbody tr:first-child td:nth-child(1) {
@@ -327,8 +328,8 @@ def insert_print_style():
             }
 
             .custom-report table tbody tr:nth-last-child(3) td {
-                border-top: 2px solid green !important; 
-                border-bottom: 1px dashed #333 !important;
+                border-top: 2px solid var(--primary-color) !important; 
+                border-bottom: 1px dashed var(--primary-color) !important;
                 font-weight: bold;
             }
 
@@ -341,8 +342,8 @@ def insert_print_style():
             }
 
             .custom-report table tbody tr:last-child {
-                border-top: 2px dashed #333;
-                border-bottom: 3px solid green;
+                border-top: 2px dashed var(--primary-color);
+                border-bottom: 3px solid var(--primary-color);
                 padding: 15px 8px;
                 font-weight: bold;
             }
@@ -354,6 +355,7 @@ def insert_print_style():
             .custom-report table tbody tr:last-child td:nth-child(1) {
                 text-align: left !important;
             }
+
         """
         }).insert(ignore_permissions=True)
 
