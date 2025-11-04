@@ -6,6 +6,22 @@ app_publisher = "Akwad Programming"
 app_description = "This app fixes some UI and Funcationality things in Frappe Native Apps."
 app_email = "support@akwad.qa"
 app_license = "MIT"
+app_home = "/app/home"
+app_logo_url = "/assets/akwad_frappe_fixes/images/akwad-logo_symbol.svg"
+app_icon = "fa fa-th"
+app_color = "#e74c3c"
+
+add_to_apps_screen = [
+	{
+		"name": "Akwad ERP",
+		"logo": "/assets/akwad_frappe_fixes/images/akwad-logo_symbol.svg",
+		"title": app_title,
+		"route": app_home,
+		"has_permission": "erpnext.check_app_permission",
+	}
+]
+
+
 
 # Includes in <head>
 # ------------------

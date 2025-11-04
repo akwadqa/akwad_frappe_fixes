@@ -57,13 +57,10 @@
  background: var(--akwad-widget-links-bg);
 }
 
-.widget {
-    background-color: var(--akwad-widget-bg);
-}
-
 /* Workspace Shortcut */
 .widget.shortcut-widget-box {
     padding: 15px;
+    background-color: var(--akwad-widget-bg);
 }
 
 /* Workspace Links Card */
