@@ -13,11 +13,10 @@ app_color = "#e74c3c"
 
 add_to_apps_screen = [
 	{
-		"name": "Akwad ERP",
+		"name": app_name,
 		"logo": "/assets/akwad_frappe_fixes/images/akwad-logo_symbol.svg",
-		"title": app_title,
+		"title": "Akwad",
 		"route": app_home,
-		"has_permission": "erpnext.check_app_permission",
 	}
 ]
 
