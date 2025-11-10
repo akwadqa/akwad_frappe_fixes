@@ -44,7 +44,7 @@ def apply_site_settings():
     system_settings.attach_view_link = 0
     system_settings.store_attached_pdf_document = 0
     system_settings.max_file_size = 2
-    extensions = ["PDF", "JPG", "JPEG", "PNG"]
+    extensions = ["PDF", "JPG", "JPEG", "PNG", "OGG", "WEBM"]
     system_settings.allowed_file_extensions = "\n".join(extensions)
     system_settings.disable_system_update_notification = 1
     system_settings.disable_change_log_notification = 1
@@ -368,4 +368,3 @@ def set_default_print_style():
     print_style = frappe.get_doc("Print Style", "Standard Print Style")
     print_style.custom_color = "#00589c"
     print_style.save(ignore_permissions=True)
-
