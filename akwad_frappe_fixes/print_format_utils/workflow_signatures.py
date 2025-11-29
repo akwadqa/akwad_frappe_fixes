@@ -3,32 +3,43 @@ from frappe.utils import format_datetime
 
 @frappe.whitelist()
 def get_workflow_signatures_for_print(doctype, docname):
-
     doc = frappe.get_doc(doctype, docname)
 
-    actions = frappe.get_all(
-        "Workflow Action",
-        filters={"reference_doctype": doc.doctype, "reference_name": doc.name},
-        fields=["completed_by", "workflow_state", "creation"],
+    states_with_signature = frappe.get_all(
+        "Workflow State",
+        filters={"show_signature": 1},
+        pluck="name"
+    )
+
+    if not states_with_signature:
+        return []
+
+    comments = frappe.get_all(
+        "Comment",
+        filters={
+            "reference_doctype": doc.doctype,
+            "reference_name": doc.name,
+            "content": ["in", states_with_signature]
+        },
+        fields=["comment_email", "content", "creation"],
         order_by="creation asc"
     )
-    
 
     signatures = []
-    for action in actions:
-        show_signature = frappe.get_value("Workflow State", action.workflow_state, "show_signature")
-        if not show_signature:
+
+    for comment in comments:
+        user = frappe.db.get_value("User", {"email": comment.comment_email},
+                                   ["name", "full_name", "email", "user_signature"],
+                                   as_dict=True)
+        if not user:
             continue
-        
 
-
-        user = frappe.get_doc("User", action.completed_by)
         signatures.append({
-            "workflow_state": action.workflow_state,
+            "workflow_state": comment.content,
             "user": user.full_name,
             "email": user.email,
             "signature": user.user_signature,
-            "timestamp": format_datetime(action.creation)
+            "timestamp": format_datetime(comment.creation)
         })
 
     return signatures
