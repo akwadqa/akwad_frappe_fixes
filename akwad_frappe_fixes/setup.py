@@ -223,10 +223,6 @@ def insert_print_style():
                 font-family: "Rubik", sans-serif;
             }
 
-            .pf-font-size {
-                font-size: 14px;
-            }
-
             .pf-heading {
                 margin: 10px 0;
                 width: 100%;
