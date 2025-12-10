@@ -70,7 +70,8 @@ app_include_js = ["/assets/akwad_frappe_fixes/js/collapse_sidebar.js" , "/assets
 
 jinja = {
   "methods": [
-    "akwad_frappe_fixes.print_format_utils.workflow_signatures.get_workflow_signatures_for_print"
+    "akwad_frappe_fixes.print_format_utils.workflow_signatures.get_workflow_signatures_for_print",
+    "akwad_frappe_fixes.print_format_utils.qr_code.get_qr_print_link",
   ]
 }
 
