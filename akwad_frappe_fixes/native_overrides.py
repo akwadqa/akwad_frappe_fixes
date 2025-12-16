@@ -96,11 +96,11 @@ def add_rtl_direction(html_content):
 
     return str(soup)
 
-def custom_upload_file_to_s3(filename, folder, conn, bucket):
-    destpath = os.path.join(f"{frappe.local.site}/{folder}", os.path.basename(filename))
-    try:
-        print("Uploading file:", filename)
-        conn.upload_file(filename, bucket, destpath)  # Requires PutObject permission
-    except Exception as e:
-        frappe.log_error()
-        print("Error uploading: %s" % (e))
+# def custom_upload_file_to_s3(filename, folder, conn, bucket):
+#     destpath = os.path.join(f"{frappe.local.site}/{folder}", os.path.basename(filename))
+#     try:
+#         print("Uploading file:", filename)
+#         conn.upload_file(filename, bucket, destpath)  # Requires PutObject permission
+#     except Exception as e:
+#         frappe.log_error()
+#         print("Error uploading: %s" % (e))
