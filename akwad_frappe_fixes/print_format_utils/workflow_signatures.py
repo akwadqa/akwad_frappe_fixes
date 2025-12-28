@@ -41,5 +41,4 @@ def get_workflow_signatures_for_print(doctype, docname):
             "signature": user.user_signature,
             "timestamp": format_datetime(comment.creation)
         })
-
     return signatures
