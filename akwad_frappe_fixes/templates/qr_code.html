@@ -1,0 +1,11 @@
+{% set print_url = url
+    + "/printview?doctype=" + doctype|urlencode
+    + "&name=" + name|urlencode
+    + "&format=" + print_format|urlencode
+    + "&no_letterhead=0"
+    + "&key=" + key
+%}
+
+<a href="{{ print_url }}" target="_blank">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data={{ print_url|urlencode }}&size=120x120">
+</a>

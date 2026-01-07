@@ -1,1 +1,0 @@
-$(".footer-powered").addClass("hide");

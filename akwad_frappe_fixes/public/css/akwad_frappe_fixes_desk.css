@@ -59,10 +59,6 @@ html[data-theme='light'] .form-grid {
     min-height: 150px!important;
 }
 
-.kanban-card-title {
-    white-space: normal!important;
-}
-
 li[style*="direction: rtl;"] span:before {
 	margin-right: -1.5em !important;
 	margin-left: 0.3em !important;
@@ -225,26 +221,6 @@ li[style*="direction: rtl;"].ql-indent-5 {
     justify-content: center;
 }
 
-/* Targeting the first instance of `.number-widget-box` */
-.ce-block:nth-of-type(1) .number-widget-box {
-    background-color: #ffe2e6; /* Example property */
-}
-
-/* Targeting the second instance of `.number-widget-box` */
-.ce-block:nth-of-type(2) .number-widget-box {
-    background-color: #fff4de; /* Example property */
-}
-
-/* Targeting the first instance of `.number-widget-box` */
-.ce-block:nth-of-type(3) .number-widget-box {
-    background-color: #dcfce7; /* Example property */
-}
-
-/* Targeting the second instance of `.number-widget-box` */
-.ce-block:nth-of-type(4) .number-widget-box {
-    background-color: #f4e8ff; /* Example property */
-}
-
 /* Changing the styles of the Timeline. The mention, the message box and the link color */
 
 .new-timeline .timeline-item .timeline-content.frappe-card {
@@ -273,4 +249,8 @@ li[style*="direction: rtl;"].ql-indent-5 {
 /*Increasing the density of the border on the Form View of the Doctypes */
 .std-form-layout>.form-layout>.form-page {
     border: 1px solid #c5c5c5;
+}
+
+.indicator-pill {
+    padding: 12px !important;
 }
