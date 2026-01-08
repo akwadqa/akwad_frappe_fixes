@@ -363,4 +363,11 @@ def set_default_print_style():
 
     print_style = frappe.get_doc("Print Style", "Standard Print Style")
     print_style.custom_color = "#00589c"
+    if print_style.css:
+        if "--primary-color" not in print_style.css:
+            print_style.css = f""":root {{
+        --primary-color: {print_style.custom_color};
+        }}
+        {print_style.css}
+        """
     print_style.save(ignore_permissions=True)

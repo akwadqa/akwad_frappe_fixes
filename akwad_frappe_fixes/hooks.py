@@ -52,6 +52,9 @@ app_include_js = ["/assets/akwad_frappe_fixes/js/custom_render_template.js"]
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
+doctype_js = {  
+    "Print Style": "public/js/custom_color_print_style.js"  
+}
 # doctype_js = {"doctype" : "public/js/doctype.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
