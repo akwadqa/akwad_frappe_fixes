@@ -1,2 +1,6 @@
 akwad_frappe_fixes.patches.add_workflow_signature_fields
 akwad_frappe_fixes.patches.update_allowed_file_extensions
+
+akwad_frappe_fixes.patches.create_letter_head
+akwad_frappe_fixes.patches.create_print_style
+akwad_frappe_fixes.patches.add_custom_color_field
