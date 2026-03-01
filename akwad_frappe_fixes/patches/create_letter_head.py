@@ -33,7 +33,7 @@ def execute():
                         </td>
                     </tr>
                 </tbody>
-            </table>""",
+            </table>"""
 
         footer_html =  """<style>
                 @media print {
