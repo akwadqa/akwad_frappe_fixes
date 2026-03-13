@@ -209,8 +209,7 @@ def insert_print_style():
             "print_style_name": "Standard Print Style",
             "disabled": 0,
             "standard": 0,
-            "css": """ @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Noto+Kufi+Arabic:wght@100..900&family=Quicksand:wght@300..700&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
- 
+            "css": """ @import url('https://fonts.googleapis.com/css2?family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap'); 
             thead {
                 background-color: lightgray !important;
             }
