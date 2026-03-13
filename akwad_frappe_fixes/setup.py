@@ -350,16 +350,16 @@ def apply_site_settings():
 #             .custom-report table tbody tr:last-child td:nth-child(1) {
 #                 text-align: left !important;
 #             }
-
+			
 #            li {
-#                padding-bottom: 1rem !important;
+#                padding-bottom: 0.5rem !important;
 #            }
             
 #            li.ql-direction-rtl {
 #                padding-left: 0 !important;
 #            }
-#            
-#            ol:has(.ql-direction-rtl) {
+            
+#            ol:has(.ql-direction-rtl), ul:has(.ql-direction-rtl) {
 #                padding-left: 0;
 #            }
 
