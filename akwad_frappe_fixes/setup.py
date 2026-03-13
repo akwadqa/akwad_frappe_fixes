@@ -219,7 +219,7 @@ def insert_print_style():
             }
 
             .ql-editor, .pf-font {
-                font-family: "Zain", sans-serif;
+                font-family: "Zain", sans-serif !important;
             }
 
             .pf-heading {
