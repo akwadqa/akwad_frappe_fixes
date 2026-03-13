@@ -219,7 +219,7 @@ def apply_site_settings():
 #             }
 
 #            .ql-editor, .pf-font {
-#                 font-family: "Zain", sans-serif;
+#                 font-family: "Zain", sans-serif !important;
 #             }
 
 #             .pf-heading {
