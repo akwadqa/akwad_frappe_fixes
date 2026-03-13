@@ -350,7 +350,19 @@ def insert_print_style():
             .custom-report table tbody tr:last-child td:nth-child(1) {
                 text-align: left !important;
             }
-
+			
+            li {
+                padding-bottom: 1rem !important;
+            }
+            
+            li.ql-direction-rtl {
+                padding-left: 0 !important;
+            }
+            
+            ol:has(.ql-direction-rtl) {
+                padding-left: 0;
+            }
+			
         """
         }).insert(ignore_permissions=True)
 
