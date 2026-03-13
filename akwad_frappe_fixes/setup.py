@@ -218,7 +218,7 @@ def apply_site_settings():
 #                 padding: 2px 4px !important; 
 #             }
 
-#             .pf-font {
+#            .ql-editor, .pf-font {
 #                 font-family: "Zain", sans-serif;
 #             }
 
