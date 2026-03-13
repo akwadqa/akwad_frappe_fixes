@@ -352,14 +352,14 @@ def insert_print_style():
             }
 			
             li {
-                padding-bottom: 1rem !important;
+                padding-bottom: 0.5rem !important;
             }
             
             li.ql-direction-rtl {
                 padding-left: 0 !important;
             }
             
-            ol:has(.ql-direction-rtl) {
+            ol:has(.ql-direction-rtl), ul:has(.ql-direction-rtl) {
                 padding-left: 0;
             }
 			
