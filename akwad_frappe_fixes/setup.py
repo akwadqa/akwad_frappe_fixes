@@ -351,6 +351,18 @@ def apply_site_settings():
 #                 text-align: left !important;
 #             }
 
+#            li {
+#                padding-bottom: 1rem !important;
+#            }
+            
+#            li.ql-direction-rtl {
+#                padding-left: 0 !important;
+#            }
+#            
+#            ol:has(.ql-direction-rtl) {
+#                padding-left: 0;
+#            }
+
 #         """
 #         }).insert(ignore_permissions=True)
 
