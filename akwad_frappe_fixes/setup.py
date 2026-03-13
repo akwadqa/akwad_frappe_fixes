@@ -360,7 +360,7 @@ def apply_site_settings():
 #            }
             
 #            ol:has(.ql-direction-rtl), ul:has(.ql-direction-rtl) {
-#                padding-left: 0;
+#                padding-left: 0 !important;
 #            }
 
 #         """
