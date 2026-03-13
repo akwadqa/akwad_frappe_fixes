@@ -218,7 +218,7 @@ def insert_print_style():
                 padding: 2px 4px !important; /* reduce row height */
             }
 
-            .pf-font {
+            .ql-editor, .pf-font {
                 font-family: "Zain", sans-serif;
             }
 
