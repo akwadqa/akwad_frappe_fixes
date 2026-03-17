@@ -10,9 +10,7 @@ def after_install():
     # insert_letter_head()
     # insert_print_style()
     # create_custom_fields(get_custom_fields(), ignore_validate=True)
-    set_default_print_style()
-    
-         
+    # set_default_print_style()
     
 
 def insert_property_setters():
@@ -367,18 +365,18 @@ def apply_site_settings():
 #         }).insert(ignore_permissions=True)
 
 
-def set_default_print_style():
-    settings = frappe.get_single("Print Settings")
-    settings.print_style = "Standard Print Style"
-    settings.save(ignore_permissions=True)
+# def set_default_print_style():
+#     settings = frappe.get_single("Print Settings")
+#     settings.print_style = "Standard Print Style"
+#     settings.save(ignore_permissions=True)
 
-    print_style = frappe.get_doc("Print Style", "Standard Print Style")
-    print_style.custom_color = "#00589c"
-    if print_style.css:
-        if "--primary-color" not in print_style.css:
-            print_style.css = f""":root {{
-        --primary-color: {print_style.custom_color};
-        }}
-        {print_style.css}
-        """
-    print_style.save(ignore_permissions=True)
+#     print_style = frappe.get_doc("Print Style", "Standard Print Style")
+#     print_style.custom_color = "#00589c"
+#     if print_style.css:
+#         if "--primary-color" not in print_style.css:
+#             print_style.css = f""":root {{
+#         --primary-color: {print_style.custom_color};
+#         }}
+#         {print_style.css}
+#         """
+#     print_style.save(ignore_permissions=True)
