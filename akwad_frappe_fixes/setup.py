@@ -47,8 +47,8 @@ def apply_site_settings():
     system_settings.disable_system_update_notification = 1
     system_settings.disable_change_log_notification = 1
     system_settings.allow_error_traceback = 0
-	system_settings.language = "en"
-	system_settings.time_zone = "Asia/Qatar"
+    system_settings.language = "en"
+    system_settings.time_zone = "Asia/Qatar"
     system_settings.save(ignore_permissions=True)
 
     # Website Settings
