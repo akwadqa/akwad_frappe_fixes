@@ -19,19 +19,19 @@ function update_css_with_color(frm) {
     let css = frm.doc.css || '';
 
     if (css.includes(':root')) {
-        if (css.includes('--primary-color')) {
+        if (css.includes('--selected-color')) {
             css = css.replace(
-                /--primary-color:\s*[^;]+;/g,
-                `--primary-color: ${frm.doc.custom_color};`
+                /--selected-color:\s*[^;]+;/g,
+                `--selected-color: ${frm.doc.custom_color};`
             );
         } else {
             css = css.replace(
                 /:root\s*{([\s\S]*?)}/,
-                `:root {\n$1\n  --primary-color: ${frm.doc.custom_color};\n}`
+                `:root {\n$1\n  --selected-color: ${frm.doc.custom_color};\n}`
             );
         }
     } else {
-        css = `:root {\n  --primary-color: ${frm.doc.custom_color};\n}\n\n${css}`;
+        css = `:root {\n  --selected-color: ${frm.doc.custom_color};\n}\n\n${css}`;
     }
 
     frm.set_value('css', css);
