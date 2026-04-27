@@ -9,7 +9,6 @@
 
 [data-theme=light] {
   --btn-primary: var(--blue-600);
-  --page-max-width: 100% !important;
   --control-bg: var(--green-50);
   --subtle-fg: var(--blue-200);
   --table-border-color: var(--gray-400);
