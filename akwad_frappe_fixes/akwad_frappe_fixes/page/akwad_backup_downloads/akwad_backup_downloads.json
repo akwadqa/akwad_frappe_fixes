@@ -1,0 +1,26 @@
+{
+ "content": null,
+ "creation": "2026-07-23 00:00:00",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-07-23 11:01:24.849347",
+ "modified_by": "Administrator",
+ "module": "Akwad Frappe Fixes",
+ "name": "akwad-backup-downloads",
+ "owner": "Administrator",
+ "page_name": "akwad-backup-downloads",
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Pre-Order"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Akwad Backup Downloads"
+}
