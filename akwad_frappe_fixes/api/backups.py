@@ -78,23 +78,24 @@ def download_latest_backup():
 	stream_backup_file(files[0])
 
 
-@frappe.whitelist()
-def schedule_files_backup(user_email: str):
-	"""Same as frappe.desk.page.backups.backups.schedule_files_backup,
-	but gated by our Page permission instead of a hardcoded System Manager check.
-	"""
-	from frappe.utils.background_jobs import enqueue, get_jobs
-
-	check_backup_download_permission()
-
-	queued_jobs = get_jobs(site=frappe.local.site, queue="long")
-	method = "frappe.desk.page.backups.backups.backup_files_and_notify_user"
-
-	if method not in queued_jobs[frappe.local.site]:
-		enqueue(method, queue="long", user_email=user_email)
-		frappe.msgprint(_("Queued for backup. You will receive an email with the download link"))
-	else:
-		frappe.msgprint(_("Backup job is already queued. You will receive an email with the download link"))
+# Disabled: "Download Files Backup" feature not needed currently.
+# @frappe.whitelist()
+# def schedule_files_backup(user_email: str):
+# 	"""Same as frappe.desk.page.backups.backups.schedule_files_backup,
+# 	but gated by our Page permission instead of a hardcoded System Manager check.
+# 	"""
+# 	from frappe.utils.background_jobs import enqueue, get_jobs
+#
+# 	check_backup_download_permission()
+#
+# 	queued_jobs = get_jobs(site=frappe.local.site, queue="long")
+# 	method = "frappe.desk.page.backups.backups.backup_files_and_notify_user"
+#
+# 	if method not in queued_jobs[frappe.local.site]:
+# 		enqueue(method, queue="long", user_email=user_email)
+# 		frappe.msgprint(_("Queued for backup. You will receive an email with the download link"))
+# 	else:
+# 		frappe.msgprint(_("Backup job is already queued. You will receive an email with the download link"))
 
 
 # Disabled: "Get Backup Encryption Key" button was removed from the page UI.

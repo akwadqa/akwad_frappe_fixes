@@ -12,12 +12,13 @@ frappe.pages["akwad-backup-downloads"].on_page_load = function (wrapper) {
 		);
 	});
 
-	page.add_inner_button(__("Download Files Backup"), function () {
-		frappe.call({
-			method: "akwad_frappe_fixes.api.backups.schedule_files_backup",
-			args: { user_email: frappe.session.user_email },
-		});
-	});
+	// Disabled: "Download Files Backup" feature not needed currently.
+	// page.add_inner_button(__("Download Files Backup"), function () {
+	// 	frappe.call({
+	// 		method: "akwad_frappe_fixes.api.backups.schedule_files_backup",
+	// 		args: { user_email: frappe.session.user_email },
+	// 	});
+	// });
 
 	var $body = $('<div class="backup-downloads-list" style="padding: 15px;"></div>').appendTo(
 		page.body
