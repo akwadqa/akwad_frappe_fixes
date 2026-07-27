@@ -37,7 +37,7 @@ frappe.pages["akwad-backup-downloads"].on_page_load = function (wrapper) {
 				<thead>
 					<tr>
 						<th>${__("File")}</th>
-						<th>${__("Modified")}</th>
+						<!-- <th>${__("Modified")}</th> -->
 						<th>${__("Size")}</th>
 						<th>${__("Encrypted")}</th>
 						<th></th>
@@ -58,7 +58,7 @@ frappe.pages["akwad-backup-downloads"].on_page_load = function (wrapper) {
 			$(`
 				<tr>
 					<td>${frappe.utils.escape_html(file.file_name)}</td>
-					<td>${file.modified}</td>
+					<!-- <td>${file.modified}</td> -->
 					<td>${size_kb}</td>
 					<td>${file.encrypted ? __("Yes") : __("No")}</td>
 					<td><a class="btn btn-xs btn-default" href="${download_url}" target="_blank">${__(

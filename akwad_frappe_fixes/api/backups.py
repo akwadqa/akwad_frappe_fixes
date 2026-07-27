@@ -37,9 +37,9 @@ def list_backups():
 	return [
 		{
 			"file_name": f.name,
-			"modified": convert_utc_to_system_timezone(
-				datetime.datetime.fromtimestamp(f.stat().st_mtime, tz=datetime.timezone.utc)
-			).strftime("%a %b %d %H:%M %Y"),
+			# "modified": convert_utc_to_system_timezone(
+			# 	datetime.datetime.fromtimestamp(f.stat().st_mtime, tz=datetime.timezone.utc)
+			# ).strftime("%a %b %d %H:%M %Y"),
 			"size": f.stat().st_size,
 			"encrypted": "-enc" in f.name,
 		}
