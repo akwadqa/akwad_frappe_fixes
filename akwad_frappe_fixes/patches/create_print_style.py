@@ -2,11 +2,7 @@ import frappe
 
 def execute():
     try:
-        css_content = """:root {
-                --selected-color: #4463F0;
-            }
-
-            .print-format td, .print-format th {
+        css_content = """.print-format td, .print-format th {
                 padding: 2px 4px !important;
             }
 

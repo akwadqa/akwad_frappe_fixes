@@ -53,7 +53,6 @@ app_include_js = "print_template.bundle.js"
 
 # include js in doctype views
 doctype_js = {
-    "Print Style": "public/js/custom_color_print_style.js",
     "Print Format": "public/js/print_format_include_signature.js"
 }
 # doctype_js = {"doctype" : "public/js/doctype.js"}
