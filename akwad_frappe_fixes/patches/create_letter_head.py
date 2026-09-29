@@ -36,26 +36,7 @@ def execute():
             </table>"""
 
         footer_html =  """<style>
-                @media print {
                 .footer {
-                    position: fixed;
-                    bottom: 0;
-                    left: 0;
-                    right: 0;
-                    text-align: center;
-                    font-family: 'Zain', sans-serif;
-                }
-                    @page {
-                        size: A4;
-                        margin: 0.3in !important;
-                    }
-                }
-
-                .footer {
-                    position: fixed;
-                    bottom: 0;
-                    left: 0;
-                    right: 0;
                     text-align: center;
                     font-family: 'Rubik', sans-serif;
                 }
