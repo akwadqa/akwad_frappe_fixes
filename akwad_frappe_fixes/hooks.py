@@ -35,7 +35,7 @@ add_to_apps_screen = [
 
 # include js, css files in header of desk.html
 app_include_css = "fixes.bundle.css"
-app_include_js = ["/assets/akwad_frappe_fixes/js/custom_render_template.js"]
+app_include_js = "print_template.bundle.js"
 # app_include_js = "fileUploader.bundle.js"
 
 # include js, css files in header of web template
@@ -52,8 +52,9 @@ app_include_js = ["/assets/akwad_frappe_fixes/js/custom_render_template.js"]
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-doctype_js = {  
-    "Print Style": "public/js/custom_color_print_style.js"  
+doctype_js = {
+    "Print Style": "public/js/custom_color_print_style.js",
+    "Print Format": "public/js/print_format_include_signature.js"
 }
 # doctype_js = {"doctype" : "public/js/doctype.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
@@ -89,6 +90,7 @@ doctype_js = {
 jinja = {
   "methods": [
     "akwad_frappe_fixes.print_format_utils.workflow_signatures.get_workflow_signatures_for_print",
+    "akwad_frappe_fixes.print_format_utils.workflow_signatures.print_format_shows_signature",
     "akwad_frappe_fixes.print_format_utils.qr_code.get_qr_print_link",
   ]
 }
