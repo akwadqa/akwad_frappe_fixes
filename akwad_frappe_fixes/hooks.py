@@ -11,14 +11,14 @@ app_logo_url = "/assets/akwad_frappe_fixes/images/akwad-logo_symbol.svg"
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
 
-add_to_apps_screen = [
-	{
-		"name": app_name,
-		"logo": "/assets/akwad_frappe_fixes/images/akwad-logo_symbol.svg",
-		"title": "Akwad",
-		"route": app_home,
-	}
-]
+# add_to_apps_screen = [
+# 	{
+# 		"name": app_name,
+# 		"logo": "/assets/akwad_frappe_fixes/images/akwad-logo_symbol.svg",
+# 		"title": "Akwad",
+# 		"route": app_home,
+# 	}
+# ]
 
 
 
