@@ -5,3 +5,4 @@ akwad_frappe_fixes.patches.create_letter_head
 akwad_frappe_fixes.patches.create_print_style
 akwad_frappe_fixes.patches.add_custom_color_field
 akwad_frappe_fixes.patches.set_default_print_style
+akwad_frappe_fixes.patches.add_print_format_signature_field
